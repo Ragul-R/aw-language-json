@@ -1,0 +1,14 @@
+{
+  "settings": {
+    "based_operationsnumber": "Required to configure all the time based on operations on your number",
+
+    "accesspermissions": "Access & Permissions",
+    "accessfeature_settings": "Edit the access and permission that this user has, user will have access to features based on these settings.",
+    "not_signedup_yet": "This person has not signed up yet, but been invited",
+    "resend_invitation": "Resend Invitation",
+    "manage_appointments_scheduling": "Manage your appointments and scheduling",
+    "setmorescheduling_calendar": "With Setmore Scheduling you can manage your appointments and calendar on the go.",
+
+    "business_communication": "Business Communication"
+  }
+}
