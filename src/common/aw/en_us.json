@@ -196,6 +196,50 @@
     "admin": "Admin",
     "completed": "Completed",
     "minutes": "minutes",
-    "mins": "mins"
+    "mins": "mins",
+    "app_tour": [
+      {
+        "tour_step": "tour_welcome",
+        "caption": "Work from Anywhere",
+        "description": "Collaborate with your team and connect with prospects, using one app. From Anywhere.",
+        "list": [
+          "Connect with your team any time",
+          "Video call with one-click",
+          "Share your updates"
+        ]
+      },
+      {
+        "tour_step": "tour_connect",
+        "caption": "Connect any time",
+        "description": "Chat one-to-one with your colleagues and customers, or collaborate in a group.",
+        "list": [
+          "Create team groups for projects",
+          "Update your availability",
+          "Respond to direct messages",
+          "Share files quickly and easily"
+        ]
+      },
+      {
+        "tour_step": "tour_teleport",
+        "caption": "Effortless one-click video calling",
+        "description": "Create your unique meeting room URL and host easy and secure online video chats.",
+        "list": [
+          "Catch-up 1-on-1 with your peers",
+          "Invite up to 25 participants",
+          "Share and record your screen",
+          "Lock your meeting room for privacy"
+        ]
+      },
+      {
+        "tour_step": "tour_updates",
+        "caption": "Share your updates",
+        "description": "Updates tab allows you to indicate when you’re available, on a call, in a meeting or on a vacation.",
+        "list": [
+          "Keep everyone in the loop",
+          "Build a sharing culture",
+          "Designate to innovate"
+        ]
+      }
+    ]
   }
 }

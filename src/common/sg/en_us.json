@@ -196,6 +196,73 @@
     "admin": "Admin",
     "completed": "Completed",
     "minutes": "minutes",
-    "mins": "mins"
+    "mins": "mins",
+    "app_tour": [
+      {
+        "tour_step": "tour_welcome",
+        "caption": "All your business communications in one place.",
+        "description": "Connect with your clients and team anywhere, anytime, with the SignMore app. Your office at your fingertips.",
+        "list": [
+          "Access and edit client messages",
+          "Chat with your team",
+          "Check your usage",
+          "Update your availability status"
+        ]
+      },
+      {
+        "tour_step": "tour_inbound",
+        "caption": "View messages in real time",
+        "description": "Get a real-time feed of all your calls and messages in one convenient inbox.",
+        "list": [
+          "Access client messages",
+          "Connect with your team",
+          "Manage your account on the go",
+          "Keep interactions secure"
+        ]
+      },
+      {
+        "tour_step": "tour_connect",
+        "caption": "Access all your messages",
+        "description": "Chat one-to-one with your colleagues and clients, or collaborate in a group.",
+        "list": [
+          "Create team collabs for projects",
+          "Update your availability",
+          "Respond to direct messages",
+          "Share files quickly and easily"
+        ]
+      },
+      {
+        "tour_step": "tour_teleport",
+        "caption": "Effortless one-click video calling",
+        "description": "Offer eye-catching video tours without the need for software downloads or subscriptions.",
+        "list": [
+          "Use your mobile camera for live home tours",
+          "Invite up to 25 participants",
+          "Share and record your screen",
+          "Lock your meeting room for privacy"
+        ]
+      },
+      {
+        "tour_step": "tour_phone",
+        "caption": "Manage your calls and contacts",
+        "description": "View recent calls, contact information and interaction history using your all-in-one online phonebook.",
+        "list": [
+          "Make calls from your business line",
+          "Edit team and customer details",
+          "View your contacts' latest updates"
+        ]
+      },
+      {
+        "tour_step": "tour_settings",
+        "caption": "Welcome your clients",
+        "description": "Add a personal touch to your service by customizing how our 24/7 live receptionists receive your callers.",
+        "list": [
+          "Create customized call scripts",
+          "Manage your call flow, 24/7",
+          "Update your business information",
+          "View and edit your billing details"
+        ]
+      }
+    ]
   }
 }

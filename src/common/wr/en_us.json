@@ -191,6 +191,68 @@
     "sub_total": "Sub Total",
     "total": "Total",
     "from": "From",
-    "to": "To"
+    "to": "To",
+    "remove": "Remove",
+    "admin": "Admin",
+    "completed": "Completed",
+    "minutes": "minutes",
+    "mins": "mins",
+    "app_tour": [
+      {
+        "tour_step": "tour_welcome",
+        "caption": "Every engagement in one place",
+        "description": "Patient communication at your fingertips with the WellReceived app. Connect with patients and your team anytime, Anywhere.",
+        "list": [
+          "Access patient messages",
+          "Connect with your team",
+          "Manage your account on the go",
+          "Keep interactions secure"
+        ]
+      },
+      {
+        "tour_step": "tour_inbound",
+        "caption": "Access all your messages",
+        "description": "Get a real-time feed of all your latest calls and messages, in one easy-to-use inbox.",
+        "list": [
+          "Receive instant notifications",
+          "View a summary of your messages",
+          "Track past customer interactions",
+          "Listen to HIPAA-compliant call recordings",
+          "Add notes for your team"
+        ]
+      },
+      {
+        "tour_step": "tour_connect",
+        "caption": "Connect any time",
+        "description": "Chat one-to-one with your colleagues and patients, or collaborate in a group.",
+        "list": [
+          "Create team collabs for projects",
+          "Update your availability",
+          "Respond to direct messages",
+          "Share files quickly and easily"
+        ]
+      },
+      {
+        "tour_step": "tour_phone",
+        "caption": "Manage your calls and contacts",
+        "description": "View recent calls, contact information and interaction history using your all-in-one online phonebook.",
+        "list": [
+          "Make calls from your business line",
+          "Edit team and patient details",
+          "View your contacts' latest updates"
+        ]
+      },
+      {
+        "tour_step": "tour_settings",
+        "caption": "Welcome your patients",
+        "description": "Add a personal touch to your service by customizing how our live medical receptionists greet your callers.",
+        "list": [
+          "Create custom call scripts",
+          "Manage your call flow, 24/7",
+          "Update your business information",
+          "View and edit your billing details"
+        ]
+      }
+    ]
   }
 }

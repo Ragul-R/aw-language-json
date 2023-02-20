@@ -548,6 +548,31 @@
       "Select ‘Create or Update Subscriber’ and choose a subscriber group to update.",
       "Specify the details to sync from Setmore to MailerLite and run a quick test."
     ],
+    "keap_description": "Automatically add new Setmore customers to tailored Keap campaigns.",
+    "keap_cardtitle": "Convert more leads and boost loyalty with the Keap integration",
+    "keap_long_description": [
+      "When a new contact is created in Setmore, their details sync to Keap. Every new lead and customer can be onboarded to tailored email campaigns right away.",
+
+      "Share relevant news and offers with different audience segments to increase engagement with your services. By mapping data fields between your platforms, you leave zero room for error. Your chosen Keap list updates automatically, saving you valuable time."
+    ],
+    "keap_instruction": [
+      "Click the ‘Activate’ button on the left side of this window.",
+      "Enter your Keap username and password.",
+      "Click ‘Allow’ to enable Setmore and Keap to share data"
+    ],
+    "xero_description": "Fire payment details from Setmore to Xero in real-time.",
+    "xero_cardtitle": "Automatically push payment details to Xero",
+    "xero_long_description": [
+      "Sync transaction details from Setmore to your Xero account and save valuable hours. There’s no need to manually transfer data each time you accept a payment. Your apps handle that in the background. Payment details land in Xero in real-time and as they were originally recorded.",
+
+      "Here’s how to streamline bookkeeping and track your revenue accurately and efficiently."
+    ],
+    "xero_instruction": [
+      " Click the ‘Activate’ button on the left side of this window.",
+      "Choose ‘Invoice’ as the trigger and select ‘Continue’.",
+      "Click ‘+ Connect’ and log in using your Xero credentials.",
+      "Choose the information for Setmore to transfer and match it with corresponding fields in Xero."
+    ],
     "video_meeting_integrations": "Video meeting integrations",
     "social_media_integrations": "Social media integrations",
     "payment_integrations": "Payment integrations",
@@ -606,6 +631,8 @@
     "third_party_integration": "By enabling a 3rd Party Integration service, you hereby agree to assume HIPAA liability for your use of this service and agree to our HIPAA compliant <Terms of Service>.",
     "your_hashtags": "Your hashtags :",
     "instructions_title": "Instructions",
-    "only_tagged_pictures": "Only tagged pictures from your Instagram account will be shown on your Booking page."
+    "only_tagged_pictures": "Only tagged pictures from your Instagram account will be shown on your Booking page.",
+    "button_copied": "Copied!",
+    "integration_updated": "<APP NAME> integration updated"
   }
 }

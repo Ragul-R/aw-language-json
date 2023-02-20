@@ -51,11 +51,11 @@
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "improveit 360_description": "Export your call intake to Improveit360",
-    "improveit_cardtitle": "AnswerForce - improveit 360",
-    "improveit_long_description": [
+    "improveit 360_cardtitle": "AnswerForce - improveit 360",
+    "improveit 360_long_description": [
       "Ensure that your improveit 360 campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your improveit 360 campaign list."
     ],
-    "imporveit_instruction": [
+    "imporveit 360_instruction": [
       "Click the Activate button on the left side of this window.",
       "Enter your improveit 360 username and password to allow access to AnswerForce.",
       "Confirm the action by clicking Allow. The integration will now be activated."
@@ -100,12 +100,12 @@
       "Enter your Pipedrive username and password to allow access to AnswerForce.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
-    "housecall pro_description": "Export your call intake to Housecall Pro.",
-    "housecall pro_cardtitle": "AnswerForce - HousecallPro",
-    "housecall pro_long_description": [
+    "housecallpro_description": "Export your call intake to Housecall Pro.",
+    "housecallpro_cardtitle": "AnswerForce - HousecallPro",
+    "housecallpro_long_description": [
       "Ensure that your HousecallPro campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your HousecallPro campaign list."
     ],
-    "housecall pro_instruction": [
+    "housecallpro_instruction": [
       "Click the ‘Activate’ button on the left side of this window.",
       "Enter your HousecallPro username and password to allow access to AnswerForce.",
       "Confirm the action by clicking Allow. The integration will now be activated."
@@ -160,12 +160,12 @@
       "Enter your Clio username and password to allow access to AnswerForce.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
-    "freshsales_description": "Export your call intake to Freshsales",
-    "freshsales_cardtitle": "AnswerForce - Fresh Sales",
-    "freshsales_long_description": [
+    "fresh sales_description": "Export your call intake to Freshsales",
+    "fresh sales_cardtitle": "AnswerForce - Fresh Sales",
+    "fresh sales_long_description": [
       "Ensure that your Fresh Sales campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Fresh Sales campaign list."
     ],
-    "freshsales_instruction": [
+    "fresh sales_instruction": [
       "Click the Activate button on the left side of this window.",
       "Enter your Fresh Sales username and password to allow access to AnswerForce.",
       "Confirm the action by clicking Allow. The integration will now be activated."
@@ -231,7 +231,7 @@
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "freshdesk_description": "Export your call intake to FreshDesk",
-    "freshdesk_cardtite": "AnswerForce - Freshdesk",
+    "freshdesk_cardtitle": "AnswerForce - Freshdesk",
     "freshdesk_long_description": [
       "Ensure that your Freshdesk campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Freshdesk campaign list."
     ],
@@ -319,6 +319,7 @@
     "your_hashtags": "Your hashtags :",
     "instructions_title": "Instructions",
     "only_tagged_pictures": "Only tagged pictures from your Instagram account will be shown on your Booking page.",
-    "button_copied": "Copied!"
+    "button_copied": "Copied!",
+    "integration_updated": "<APP NAME> integration updated"
   }
 }
