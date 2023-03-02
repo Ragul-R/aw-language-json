@@ -1,53 +1,53 @@
 {
   "integrations": {
     "mailerlite_description": "Export your call intake to mailerlite",
-    "mailerlite_cardtitle": "SIGNmore - Mailerlite",
+    "mailerlite_cardtitle": "SignMore - Mailerlite",
     "mailerlite_long_description": [
-      "Ensure that your Mailerlite campaign reaches the intended target audience with SIGNmore. For every new customer created at SIGNmore, this integration will automatically add corresponding contact information to your Mailerlite campaign list."
+      "Ensure that your Mailerlite campaign reaches the intended target audience with SignMore. For every new customer created at SignMore, this integration will automatically add corresponding contact information to your Mailerlite campaign list."
     ],
     "mailerlite_instruction": [
       "Click the ‘Activate’ button on the left side of this window.",
-      "Enter your Mailerlite username and password to allow access to SIGNmore.",
+      "Enter your Mailerlite username and password to allow access to SignMore.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "serviceminder_description": "Export your call intake to ServiceMinder",
-    "serviceminder_cardtitle": "SIGNmore - ServiceMinder",
+    "serviceminder_cardtitle": "SignMore - ServiceMinder",
     "serviceminder_long_description": [
-      "Ensure that your ServiceMinder campaign reaches the intended target audience with SIGNmore. For every new customer created at SIGNmore, this integration will automatically add corresponding contact information to your ServiceMinder campaign list."
+      "Ensure that your ServiceMinder campaign reaches the intended target audience with SignMore. For every new customer created at SignMore, this integration will automatically add corresponding contact information to your ServiceMinder campaign list."
     ],
     "serviceminder_instruction": [
       "Click the ‘Activate’ button on the left side of this window.",
-      "Enter your ServiceMinder username and password to allow access to SIGNmore.",
+      "Enter your ServiceMinder username and password to allow access to SignMore.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "insightly_description": "Export your call intake to Insightly",
-    "insightly_cardtitle": "SIGNmore - Insightly",
+    "insightly_cardtitle": "SignMore - Insightly",
     "insightly_long_description": [
-      "Ensure that your insightly campaign reaches the intended target audience with SIGNmore. For every new customer created at SIGNmore, this integration will automatically add corresponding contact information to your insightly campaign list."
+      "Ensure that your insightly campaign reaches the intended target audience with SignMore. For every new customer created at SignMore, this integration will automatically add corresponding contact information to your insightly campaign list."
     ],
     "insightly_instruction": [
       "Click the ‘Activate’ button on the left side of this window.",
-      "Enter your insightly username and password to allow access to SIGNmore.",
+      "Enter your insightly username and password to allow access to SignMore.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "clio grow_description": "Export your call intake to ClioGrow",
-    "clio grow_cardtitle": "SIGNmore - Clio Grow",
+    "clio grow_cardtitle": "SignMore - Clio Grow",
     "clio grow_long_description": [
-      "Ensure that your Clio Grow campaign reaches the intended target audience with SIGNmore. For every new customer created at SIGNmore, this integration will automatically add corresponding contact information to your Clio Grow campaign list."
+      "Ensure that your Clio Grow campaign reaches the intended target audience with SignMore. For every new customer created at SignMore, this integration will automatically add corresponding contact information to your Clio Grow campaign list."
     ],
     "clio grow_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Clio Grow username and password to allow access to SIGNmore.",
+      "Enter your Clio Grow username and password to allow access to SignMore.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "freshdesk_description": "Export your call intake to FreshDesk",
-    "freshdesk_cardtite": "SIGNmore - Freshdesk",
+    "freshdesk_cardtite": "SignMore - Freshdesk",
     "freshdesk_long_description": [
-      "Ensure that your Freshdesk campaign reaches the intended target audience with SIGNmore. For every new customer created at SIGNmore, this integration will automatically add corresponding contact information to your Freshdesk campaign list."
+      "Ensure that your Freshdesk campaign reaches the intended target audience with SignMore. For every new customer created at SignMore, this integration will automatically add corresponding contact information to your Freshdesk campaign list."
     ],
     "freshdesk_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Freshdesk username and password to allow access to SIGNmore.",
+      "Enter your Freshdesk username and password to allow access to SignMore.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "video_meeting_integrations": "Video meeting integrations",

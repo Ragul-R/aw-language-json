@@ -196,6 +196,9 @@
     "admin": "Admin",
     "completed": "Completed",
     "minutes": "minutes",
-    "mins": "mins"
+    "mins": "mins",
+    "minute" : "Minute",
+    "months" : "Months",
+    "days" : "Days"
   }
 }

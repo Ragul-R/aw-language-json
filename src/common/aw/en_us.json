@@ -241,5 +241,7 @@
         ]
       }
     ]
-  }
+  },
+  "months" : "Months",
+  "days" : "Days"
 }

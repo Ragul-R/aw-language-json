@@ -169,6 +169,12 @@
     "transaction_id": "ID de transacción",
     "discount": "Descuento",
     "total_paid": "Total Pagado",
-    "refund": "Reembolso"
+    "refund": "Reembolso",
+    "language_updated" : "Idioma actualizado",
+    "admin_has_updated_language": "El administrador de la cuenta actualizó el idioma predeterminado de su aplicación de",
+    "take_effect_click_refresh": "Para que el cambio surta efecto, simplemente haga clic en 'Actualizar'.",
+    "refresh" : "Actualizar",
+    "months" : "Meses",
+    "days" : "Días"
   }
 }

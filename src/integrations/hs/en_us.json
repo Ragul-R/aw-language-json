@@ -1,313 +1,243 @@
 {
   "integrations": {
     "connectwise_description": "Export your call intake to ConnectWise",
-    "connectwise_cardtitle": "LEX Reception - ConnectWise",
+    "connectwise_cardtitle": "HelloSells - ConnectWise",
     "connectwise_long_description": [
-      "Ensure that your ConnectWise campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your ConnectWise campaign list."
+      "Ensure that your ConnectWise campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your ConnectWise campaign list."
     ],
     "connectwise_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your ConnectWise username and password to allow access to LEX Reception.",
+      "Enter your ConnectWise username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "hubspot_description": "Export your call intake to HubSpot",
-    "hubspot_cardtitle": "LEX Reception - HubSpot",
+    "hubspot_cardtitle": "HelloSells - HubSpot",
     "hubspot_long_description": [
-      "Ensure that your HubSpot campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your HubSpot campaign list."
+      "Ensure that your HubSpot campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your HubSpot campaign list."
     ],
     "hubspot_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your HubSpot username and password to allow access to LEX Reception.",
+      "Enter your HubSpot username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "mailchimp_description": "Export your call intake to Mailchimp",
-    "mailchimp_cardtitle": "LEX Reception - Mailchimp",
+    "mailchimp_cardtitle": "HelloSells - Mailchimp",
     "mailchimp_long_description": [
-      "Ensure that your Mailchimp campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Mailchimp campaign list."
+      "Ensure that your Mailchimp campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Mailchimp campaign list."
     ],
     "mailchimp_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Mailchimp username and password to allow access to LEX Reception.",
+      "Enter your Mailchimp username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "improveit 360_description": "Export your call intake to Improveit360",
-    "improveit 360_cardtitle": "LEX Reception - improveit 360",
+    "improveit 360_cardtitle": "HelloSells - improveit 360",
     "improveit 360_long_description": [
-      "Ensure that your improveit 360 campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your improveit 360 campaign list."
+      "Ensure that your improveit 360 campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your improveit 360 campaign list."
     ],
     "imporveit 360_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your improveit 360 username and password to allow access to LEX Reception.",
+      "Enter your improveit 360 username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "quickbooks_description": "Export your call intake to QuickBooks",
-    "quickbooks_cardtitle": "LEX Reception - QuickBooks",
+    "quickbooks_cardtitle": "HelloSells - QuickBooks",
     "quickbooks_long_description": [
-      "Ensure that your Quickbooks campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Quickbooks campaign list."
+      "Ensure that your Quickbooks campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Quickbooks campaign list."
     ],
     "quickbooks_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Quickbooks username and password to allow access to LEX Reception.",
+      "Enter your Quickbooks username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "zoho crm_description": "Export your call intake to Zoho CRM",
-    "zoho crm_cardtitle": "LEX Reception - Zoho CRM",
+    "zoho crm_cardtitle": "HelloSells - Zoho CRM",
     "zoho crm_long_description": [
-      "Ensure that your Zoho CRM campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Zoho CRM campaign list."
+      "Ensure that your Zoho CRM campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Zoho CRM campaign list."
     ],
     "zoho crm_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Zoho CRM username and password to allow access to LEX Reception.",
+      "Enter your Zoho CRM username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "less annoying crm_description": "Export your call intake to Less Annoying CRM",
-    "less annoying crm_cardtitle": "LEX Reception - Less Annoying CRM",
+    "less annoying crm_cardtitle": "HelloSells - Less Annoying CRM",
     "less annoying crm_long_description": [
-      "Ensure that your Less Annoying CRM campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Less Annoying CRM campaign list."
+      "Ensure that your Less Annoying CRM campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Less Annoying CRM campaign list."
     ],
     "less annoying crm_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Less Annoying CRM username and password to allow access to LEX Reception.",
+      "Enter your Less Annoying CRM username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "pipedrive_description": "Export your call intake to Pipedrive",
-    "pipedrive_cardtitle": "LEX Reception - Pipedrive",
+    "pipedrive_cardtitle": "HelloSells - Pipedrive",
     "pipedrive_long_description": [
-      "Ensure that your Pipedrive campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Pipedrive campaign list."
+      "Ensure that your Pipedrive campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Pipedrive campaign list."
     ],
     "pipedrive_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Pipedrive username and password to allow access to LEX Reception.",
-      "Confirm the action by clicking Allow. The integration will now be activated."
-    ],
-    "mailerlite_description": "Export your call intake to mailerlite",
-    "mailerlite_cardtitle": "LEX Reception - Mailerlite",
-    "mailerlite_long_description": [
-      "Ensure that your Mailerlite campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Mailerlite campaign list."
-    ],
-    "mailerlite_instruction": [
-      "Click the ‘Activate’ button on the left side of this window.",
-      "Enter your Mailerlite username and password to allow access to LEX Reception.",
+      "Enter your Pipedrive username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "serviceminder_description": "Export your call intake to ServiceMinder",
-    "serviceminder_cardtitle": "LEX Reception - ServiceMinder",
+    "serviceminder_cardtitle": "HelloSells - ServiceMinder",
     "serviceminder_long_description": [
-      "Ensure that your ServiceMinder campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your ServiceMinder campaign list."
+      "Ensure that your ServiceMinder campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your ServiceMinder campaign list."
     ],
     "serviceminder_instruction": [
       "Click the ‘Activate’ button on the left side of this window.",
-      "Enter your ServiceMinder username and password to allow access to LEX Reception.",
+      "Enter your ServiceMinder username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "insightly_description": "Export your call intake to Insightly",
-    "insightly_cardtitle": "LEX Reception - Insightly",
+    "insightly_cardtitle": "HelloSells - Insightly",
     "insightly_long_description": [
-      "Ensure that your insightly campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your insightly campaign list."
+      "Ensure that your insightly campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your insightly campaign list."
     ],
     "insightly_instruction": [
       "Click the ‘Activate’ button on the left side of this window.",
-      "Enter your insightly username and password to allow access to LEX Reception.",
+      "Enter your insightly username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "trello_description": "Export your call intake to Trello",
-    "trello_cardtitle": "LEX Reception - Trello",
+    "trello_cardtitle": "HelloSells - Trello",
     "trello_long_description": [
-      "Ensure that your Trello campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Trello campaign list."
+      "Ensure that your Trello campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Trello campaign list."
     ],
     "trello_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Trello username and password to allow access to LEX Reception.",
+      "Enter your Trello username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "keap_description": "Export your call intake to Keap",
-    "keap_cardtitle": "LEX Reception - Keap",
+    "keap_cardtitle": "HelloSells - Keap",
     "keap_long_description": [
-      "Ensure that your Keap campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Keap campaign list."
+      "Ensure that your Keap campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Keap campaign list."
     ],
     "keap_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Keap username and password to allow access to LEX Reception.",
+      "Enter your Keap username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "clio_description": "Export your call intake to Clio",
-    "clio_cardtitle": "LEX Reception - Clio",
+    "clio_cardtitle": "HelloSells - Clio",
     "clio_long_description": [
-      "Ensure that your Clio campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Clio campaign list."
+      "Ensure that your Clio campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Clio campaign list."
     ],
     "clio_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Clio username and password to allow access to LEX Reception.",
+      "Enter your Clio username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "fresh sales_description": "Export your call intake to Freshsales",
-    "fresh sales_cardtitle": "LEX Reception - Fresh Sales",
+    "fresh sales_cardtitle": "HelloSells - Fresh Sales",
     "fresh sales_long_description": [
-      "Ensure that your Fresh Sales campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Fresh Sales campaign list."
+      "Ensure that your Fresh Sales campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Fresh Sales campaign list."
     ],
     "fresh sales_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Fresh Sales username and password to allow access to LEX Reception.",
+      "Enter your Fresh Sales username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "franconnect_description": "Export your call intake to FranConnect",
-    "franconnect_cardtitle": "LEX Reception - FranConnect",
+    "franconnect_cardtitle": "HelloSells - FranConnect",
     "franconnect_long_description": [
-      "Ensure that your FranConnect campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your FranConnect campaign list."
+      "Ensure that your FranConnect campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your FranConnect campaign list."
     ],
     "franconnect_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your FranConnect username and password to allow access to LEX Reception.",
+      "Enter your FranConnect username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "lexicata_description": "Export your call intake to Lexicata",
-    "lexicata_cardtitle": "LEX Reception - Lexicata",
+    "lexicata_cardtitle": "HelloSells - Lexicata",
     "lexicata_long_description": [
-      "Ensure that your Lexicata campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Lexicata campaign list."
+      "Ensure that your Lexicata campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Lexicata campaign list."
     ],
     "lexicata_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Lexicata username and password to allow access to LEX Reception.",
+      "Enter your Lexicata username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "clio grow_description": "Export your call intake to ClioGrow",
-    "clio grow_cardtitle": "LEX Reception - Clio Grow",
+    "clio grow_cardtitle": "HelloSells - Clio Grow",
     "clio grow_long_description": [
-      "Ensure that your Clio Grow campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Clio Grow campaign list."
+      "Ensure that your Clio Grow campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Clio Grow campaign list."
     ],
     "clio grow_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Clio Grow username and password to allow access to LEX Reception.",
+      "Enter your Clio Grow username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "constant contact_description": "Export your call intake to ConstantContact",
-    "constant contact_cardtitle": "LEX Reception - Constant Contact",
+    "constant contact_cardtitle": "HelloSells - Constant Contact",
     "constant contact_long_description": [
-      "Ensure that your Constant Contact campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Constant Contact campaign list."
+      "Ensure that your Constant Contact campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Constant Contact campaign list."
     ],
     "constant contact_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Constant Contact username and password to allow access to LEX Reception.",
+      "Enter your Constant Contact username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "slack_description": "Get notified on Slack channel",
-    "slack_cardtitle": "LEX Reception - Slack",
+    "slack_cardtitle": "HelloSells - Slack",
     "slack_long_description": [
-      "Ensure that your Slack campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Slack campaign list."
+      "Ensure that your Slack campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Slack campaign list."
     ],
     "slack_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Slack username and password to allow access to LEX Reception.",
+      "Enter your Slack username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "podio_description": "Export your call intake to Podio",
-    "podio_cardtitle": "LEX Reception - Podio",
+    "podio_cardtitle": "HelloSells - Podio",
     "podio_long_description": [
-      "Ensure that your Podio campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Podio campaign list."
+      "Ensure that your Podio campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Podio campaign list."
     ],
     "podio_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Podio username and password to allow access to LEX Reception.",
+      "Enter your Podio username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "freshdesk_description": "Export your call intake to FreshDesk",
-    "freshdesk_cardtitle": "LEX Reception - Freshdesk",
+    "freshdesk_cardtitle": "HelloSells - Freshdesk",
     "freshdesk_long_description": [
-      "Ensure that your Freshdesk campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Freshdesk campaign list."
+      "Ensure that your Freshdesk campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Freshdesk campaign list."
     ],
     "freshdesk_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Freshdesk username and password to allow access to LEX Reception.",
+      "Enter your Freshdesk username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "salesforce_description": "Export your call intake to SalesForce",
-    "salesforce_cardtitle": "LEX Reception - Salesforce",
+    "salesforce_cardtitle": "HelloSells - Salesforce",
     "salesforce_long_description": [
-      "Ensure that your Salesforce campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Salesforce campaign list."
+      "Ensure that your Salesforce campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Salesforce campaign list."
     ],
     "salesforce_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Salesforce username and password to allow access to LEX Reception.",
+      "Enter your Salesforce username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "zendesk_description": "Export your call intake to Zendesk",
-    "zendesk_cardtitle": "LEX Reception - Zendesk",
+    "zendesk_cardtitle": "HelloSells - Zendesk",
     "zendesk_long_description": [
-      "Ensure that your Zendesk campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Zendesk campaign list."
+      "Ensure that your Zendesk campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Zendesk campaign list."
     ],
     "zendesk_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Zendesk username and password to allow access to LEX Reception.",
+      "Enter your Zendesk username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "filevine_description": "Create Contact in FileVine",
-    "filevine_cardtitle": "LEX Reception - Filevine",
+    "filevine_cardtitle": "HelloSells - Filevine",
     "filevine_long_description": [
-      "Ensure that your Filevine campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Filevine campaign list."
+      "Ensure that your Filevine campaign reaches the intended target audience with HelloSells. For every new customer created at HelloSells, this integration will automatically add corresponding contact information to your Filevine campaign list."
     ],
     "filevine_instruction": [
       "Click the Activate button on the left side of this window.",
-      "Enter your Filevine username and password to allow access to LEX Reception.",
-      "Confirm the action by clicking Allow. The integration will now be activated."
-    ],
-    "rocket matter_description": "Export your call intake to RocketMatter",
-    "rocket matter_cardtitle": "LEX Reception - Rocket Matter",
-    "rocket matter_long_description": [
-      "Ensure that your Rocket Matter campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Rocket Matter campaign list."
-    ],
-    "rocket matter_instruction": [
-      "Click the Activate button on the left side of this window.",
-      "Enter your Rocket Matter username and password to allow access to LEX Reception.",
-      "Confirm the action by clicking Allow. The integration will now be activated."
-    ],
-    "lawcus_description": "Export your call intake to Lawcus",
-    "lawcus_cardtitle": "LEX Reception - Lawcus",
-    "lawcus_long_description": [
-      "Ensure that your Lawcus campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Lawcus campaign list."
-    ],
-    "lawcus_instruction": [
-      "Click the Activate button on the left side of this window.",
-      "Enter your Law Ruler username and password to allow access to LEX Reception.",
-      "Confirm the action by clicking Allow. The integration will now be activated."
-    ],
-    "lawmatics_description": "Export your call intake to Lawmatics",
-    "lawmatics_cardtitle": "LEX Reception - Lawmatics",
-    "lawmatics_long_description": [
-      "Ensure that your Lawmatics campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Lawmatics campaign list."
-    ],
-    "lawmatics_instruction": [
-      "Click the Activate button on the left side of this window.",
-      "Enter your Lawmatics username and password to allow access to LEX Reception.",
-      "Confirm the action by clicking Allow. The integration will now be activated."
-    ],
-    "practicepanther_description": "Export your call intake to PracticePanther",
-    "practicepanther_cardtitle": "LEX Reception - PracticePanther",
-    "practicepanther_long_description": [
-      "Ensure that your PracticePanther campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your PracticePanther campaign list."
-    ],
-    "practicepanther_instruction": [
-      "Click the Activate button on the left side of this window.",
-      "Enter your PracticePanther username and password to allow access to LEX Reception.",
-      "Confirm the action by clicking Allow. The integration will now be activated."
-    ],
-    "mycase_description": "Export your call intake to MyCase",
-    "mycase_cardtitle": "LEX Reception - MyCase",
-    "mycase_long_description": [
-      "Ensure that your MyCase campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your MyCase campaign list."
-    ],
-    "mycase_instruction": [
-      "Click the Activate button on the left side of this window.",
-      "Enter your MyCase username and password to allow access to LEX Reception.",
-      "Confirm the action by clicking Allow. The integration will now be activated."
-    ],
-    "smokeball_description": "Export your call intake to Smokeball",
-    "smokeball_cardtitle": "LEX Reception - Smokeball",
-    "smokeball_long_description": [
-      "Ensure that your Smokeball campaign reaches the intended target audience with LEX Reception. For every new customer created at LEX Reception, this integration will automatically add corresponding contact information to your Smokeball campaign list."
-    ],
-    "smokeball_instruction": [
-      "Click the Activate button on the left side of this window.",
-      "Enter your Smokeball username and password to allow access to LEX Reception.",
+      "Enter your Filevine username and password to allow access to HelloSells.",
       "Confirm the action by clicking Allow. The integration will now be activated."
     ],
     "video_meeting_integrations": "Video meeting integrations",

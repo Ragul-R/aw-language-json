@@ -144,8 +144,10 @@
     "emptystate_staff_2_class": "Contact the account admin to assign you to classes. This is required to book group sessions",
     "onoff_tooltip_service": "Make this service visible/hidden to Booking Page visitors",
     "onoff_tooltip_class": "Make this class visible/hidden to Booking Page visitors",
-    "servicecat_empty": "No services in this category. Add Services to this category and make them easier to find on your Booking Page",
-    "classcat_empty": "No classes in this category. Add classes to this category and make them easier to find on your Booking Page",
+    "service_cat_empty_title": "No services in this category.",
+    "service_cat_empty_description": "Add services to this category and make them easier to find on your Booking Page",
+    "class_cat_empty_title": "No classes in this category.",
+    "class_cat_empty_description": "Add classes to this category and make them easier to find on your Booking Page",
     "serviceempty_acc": "There are no services in your account. Head to Services & classes to create some and add them to categories",
     "classempty_acc": "There are no classes in your account. Head to Services & classes to create some and add them to categories",
     "service_name": "Service name",
@@ -168,6 +170,9 @@
     "discard_heading": "Discard changes and leave?",
     "discard_description": "Unsaved changes will disappear forever.",
     "discard_confirm": "Yes, discard",
-    "discard_keep": "Keep editing"
+    "discard_keep": "Keep editing",
+    "service_category_deleted": "Service category has been deleted",
+    "class_category_deleted": "Class category has been deleted",
+    "class_updated": "Class updated"
   }
 }
