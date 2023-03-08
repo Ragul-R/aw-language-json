@@ -642,6 +642,10 @@
     "something_went_wrong_deactivate": "Something went wrong, please deactivate and activate again.",
     "disconect_message": "Disconnecting would result in permanent deletion of the workflow. Are you sure you still want to disconnect?",
     "alert_disconnect_integration": "Disconnect <APP NAME>?",
+    "label_connected": "Connected",
+    "label_disconnectd": "Disconnected",
+    "label_pro_tag": "Try Pro",
+    "label_draft": "Draft",
     "mapper": {
       "Services_mapper": "Service",
       "service_cap": "SERVICES",

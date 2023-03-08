@@ -200,34 +200,32 @@
     "app_tour": [
       {
         "tour_step": "tour_welcome",
-        "caption": "Grow your business",
-        "description": "Reach your customers, collaborate with your team and connect with prospects, using one app. From Anywhere.",
+        "caption": "All your business communications in one place",
+        "description": "Connect with your clients and team anywhere, anytime, with the SignMore app. Your office at your fingertips.",
         "list": [
-          "Access all your messages",
-          "Connect with your team any time",
-          "Video call with one-click",
-          "Manage your calls and contacts",
-          "Welcome your customers"
+          "Access and edit client messages",
+          "Chat with your team",
+          "Check your usage",
+          "Update your availability status"
         ]
       },
       {
         "tour_step": "tour_inbound",
-        "caption": "Access all your messages",
-        "description": "Get a real-time feed of all your latest calls and messages, in one intuitive inbox.",
+        "caption": "View messages instantly",
+        "description": "Get a real-time feed of all your calls and messages in one convenient inbox.",
         "list": [
-          "Receive instant notifications",
-          "View a summary of your messages",
-          "Track past customer interactions",
-          "Listen to call recordings",
-          "Add notes for your team"
+          "Access customer messages",
+          "Connect with your team",
+          "Manage your account on the go",
+          "Keep interactions secure"
         ]
       },
       {
         "tour_step": "tour_connect",
-        "caption": "Connect any time",
+        "caption": "Connect with your customers and team",
         "description": "Chat one-to-one with your colleagues and customers, or collaborate in a group.",
         "list": [
-          "Create team groups for projects",
+          "Create team collabs for projects",
           "Update your availability",
           "Respond to direct messages",
           "Share files quickly and easily"
@@ -235,10 +233,10 @@
       },
       {
         "tour_step": "tour_teleport",
-        "caption": "Effortless one-click video calling",
+        "caption": "Offer video calls without the need for software downloads or subscriptions.",
         "description": "Create your unique meeting room URL and host easy and secure online video chats.",
         "list": [
-          "Catch-up 1-on-1 with your peers",
+          "Use your mobile camera for on-site calls",
           "Invite up to 25 participants",
           "Share and record your screen",
           "Lock your meeting room for privacy"
@@ -249,17 +247,17 @@
         "caption": "Manage your calls and contacts",
         "description": "View recent calls, contact information and interaction history using your all-in-one online phonebook.",
         "list": [
-          "Make calls from BusinessID",
-          "Edit team and customer details",
+          "Make calls from your business phone line",
+          "Edit team and client details",
           "View your contacts' latest updates"
         ]
       },
       {
         "tour_step": "tour_settings",
         "caption": "Welcome your customers",
-        "description": "Add a personal touch to your service by customizing how our live receptionists receive your callers.",
+        "description": "Professional receptionists answering your calls and handling client inquiries 24/7.",
         "list": [
-          "Create bespoke call scripts",
+          "Create customized call scripts",
           "Manage your call flow, 24/7",
           "Update your business information",
           "View and edit your billing details"

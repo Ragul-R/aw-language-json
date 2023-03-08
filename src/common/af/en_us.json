@@ -268,5 +268,7 @@
     ]
   },
   "months" : "Months",
-  "days" : "Days"
+  "days" : "Days",
+  "booking_page": "Booking Page",
+  "minute": "Minute"
 }

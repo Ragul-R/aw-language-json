@@ -149,7 +149,7 @@
     "cancellations": "Cancellations",
     "cancelled_bookings": "Automate notifications for cancelled bookings",
     "appointment_reminders": "Appointment reminders",
-    "booking_page": "Booking page",
+    "booking_page": "Booking Page",
     "images": "Images",
     "common_collabs": "Common Collabs",
     "easyshare": "EasyShare",
@@ -198,6 +198,7 @@
     "minutes": "minutes",
     "mins": "mins",
     "months" : "Months",
-    "days" : "Days"
+    "days" : "Days",
+    "minute": "Minute"
   }
 }
