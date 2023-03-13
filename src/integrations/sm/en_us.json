@@ -77,7 +77,7 @@
     "paypal_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Log in with PayPal and authorize Setmore to connect.",
-      "A pop-up will inform you that the integration is Connectd. Click ‘Okay’.",
+      "A pop-up will inform you that the integration is connected.",
       [
         "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
@@ -104,7 +104,7 @@
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Log in with Square and authorize Setmore to connect.",
       "Select a business location.",
-      "A pop-up will inform you that your accounts are connected. Click ‘Okay’.",
+      "A pop-up will inform you that your accounts are connected.",
       [
         "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
@@ -113,26 +113,25 @@
     "lawpay_cardtitle": "Enable leads and clients to pay in advance through your Booking Page.",
     "lawpay_long_description": [
       "Empower your audience to pay ahead of consultations with LawPay. A payment gateway is added to your Booking Page, enabling visitors to schedule and pay securely via credit or debit card. Not only does this convenience help to convert more leads, but time spent on invoicing is massively reduced.",
-
       "Note: Currently, this integration is available to US-based users only."
     ],
     "lawpay_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Log in with your LawPay username and password.",
-      "A pop-up will inform you that the integration is Connectd. Click ‘Okay’.",
+      "A pop-up will inform you that the integration is connected.",
       [
         "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
     ],
     "stripe_description": "Collect credit and debit card payments easily at the point of booking.",
-    "stripe_cardtitle": "Enable promo codes and collect card payments at the point of booking.",
+    "stripe_cardtitle": "Collect credit and debit card payments easily at the point of booking.",
     "stripe_long_description": [
-      "Create an all-in-one online booking and payment system with Setmore and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar. Accept promo codes for extra flexibility and streamline bookkeeping by syncing transaction details between your accounts."
+      "Create an all-in-one online booking and payment system with Setmore and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar."
     ],
     "stripe_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
-      "Log in with Square and authorize Setmore to connect.",
-      "A pop-up will inform you that your accounts are connected. Click ‘Okay’.",
+      "Log in with Stripe and authorize Setmore to connect.",
+      "A pop-up will inform you that your accounts are connected.",
       [
         "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
@@ -153,10 +152,12 @@
     "booking widget_st3a2": "I’ll add the code myself",
     "booking widget_st4_1": "Step 4 - Where would you like to receive the code?",
     "booking widget_st4_2": "Copy the code below and paste it into your site:",
+    "booking widget_your_code": "Your code :",
     "joomla_description": "Feature a customizable ‘Book Now’ button on any page of your Joomla website.",
     "joomla_cardtitle": "Enable customers to book appointments through your Joomla website.",
     "joomla_long_description": [
-      "There’s zero need for your online audience to call or email you for an appointment. By connecting your Joomla website to your Booking Page, you allow every visitor to self-schedule right away. Add a ‘Book Now’ button or a dedicated booking section to any site page and capitalize on year-round traffic."
+      "There’s zero need for your online audience to call or email you for an appointment. By connecting your Joomla website to your Booking Page, you allow every visitor to self-schedule right away. Add a ‘Book Now’ button or a dedicated booking section to any site page and capitalize on year-round traffic.",
+      "Note: This integration works for J3 Joomla websites only."
     ],
     "joomla_instruction": [
       "Click the ‘Download’ button on the right-hand side of this window.",
@@ -167,9 +168,7 @@
     "jimdo_description": "Enhance your company’s Jimdo website with a customizable ‘Book Now’ button.",
     "jimdo_cardtitle": "Enhance your Jimdo website with a customizable ‘Book Now’ button.",
     "jimdo_long_description": [
-      "Your Jimdo site tells the world why your business is special. It’s a showcase of your services, your team’s expertise, customer testimonials and more. Enhance any page with a ‘Book now’ button to ensure captivated visitors can schedule appointments 24/7. When clicked, your Booking Page appears and shares your real-time availability.",
-
-      "Note: This integration works for J3 Joomla websites only."
+      "Your Jimdo site tells the world why your business is special. It’s a showcase of your services, your team’s expertise, customer testimonials and more. Enhance any page with a ‘Book now’ button to ensure captivated visitors can schedule appointments 24/7. When clicked, your Booking Page appears and shares your real-time availability."
     ],
     "jimdo_instruction": [
       "Copy the code provided below.",
@@ -348,7 +347,7 @@
       "For 1-way sync: Navigate to Settings > My team > Calendar and click ‘Get link’. Open Google Calendar and under ‘Other calendars’, add the URL.",
       "For 2-way sync: Navigate to Settings > My team > Calendar and scroll to the ‘Google sync’ section. Flip the ‘On/Off’ switch to on."
     ],
-    "office 365 calendar_description": "Reduce double booking by aligning your schedule across Setmore and Office 365 Calendar",
+    "office 365 calendar_description": "Reduce double booking by aligning your schedule across Setmore and Office 365 Calendar.",
     "office 365 calendar_cardtitle": "View your Setmore and Office 365 Calendar events in one place.",
     "office 365 calendar_long_description": [
       "Aligning your calendars is a must to keep tabs on your availability. 1-way sync is available to everyone and displays your Setmore appointments in Office 365 Calendar. 2-way sync is a Pro integration and mirrors events to and from Office 365 Calendar. Wave goodbye to double-booking with a centralized view of your schedule on any device."
@@ -403,7 +402,6 @@
     "zapier_cardtitle": "Create custom Zaps and connect Setmore to countless apps.",
     "zapier_long_description": [
       "From sending appointment details to a Trello board, to adding new customers to a ClickUp campaign, there’s a Zap for every type of business. Simply define a trigger (like booking an appointment) and the information to pull across (like appointment time and customer email). After your Zap is enabled, data is shared from Setmore automatically.",
-
       "Note: Depending on the action, some Zaps may require a Pro or Team account."
     ],
     "zapier_instruction": [
@@ -486,9 +484,9 @@
       "Click ‘Connect app’ to enable Setmore and HubSpot to share data."
     ],
     "mailchimp_description": "Automatically add your latest customers to targeted email campaigns.",
-    "mailchimp_cardtitle": "Automatically export customer details to your MailerLite contact list.",
+    "mailchimp_cardtitle": "Automatically onboard new customers to targeted email campaigns.",
     "mailchimp_long_description": [
-      "Build more connections and strengthen your marketing efforts with the Mailchimp integration. New customer details taken through Setmore are synced to your preferred Mailchimp subscriber list. The transfer happens instantly, helping save tons of time. Keep your audience engaged after that all-important first booking by sending valuable content straight to their inbox.."
+      "Build more connections and strengthen your marketing efforts with the Mailchimp integration. New customer details taken through Setmore are synced to your preferred Mailchimp subscriber list. The transfer happens instantly, helping save tons of time. Keep your audience engaged after that all-important first booking by sending valuable content straight to their inbox."
     ],
     "mailchimp_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
@@ -565,7 +563,6 @@
     "intercom_cardtitle": "Chat and take bookings, straight from Messenger and Inbox.",
     "intercom_long_description": [
       "Not only can leads connect with you through Intercom, they can schedule appointments too. Feature a convenient ‘Book now’ button on the Messenger home screen and share one in Inbox chats, offering people an instant route to reserve your time. One click and your Booking Page appears. Capitalize on website traffic, resolve queries faster and enhance every conversation.",
-
       "Note: Currently, your Setmore booking button will only be visible on desktop."
     ],
     "intercom_instruction": [
@@ -585,22 +582,22 @@
     "business_app_integrations": "Business app integrations",
     "marketing_integrations": "Marketing integrations",
     "accept_payments": "Accept payments",
-    "integration_connected": "<APP NAME> integration Connected",
-    "integration_disconnect": "<APP NAME> integration disconnected",
+    "integration_connected": "<APP NAME> Integration connected",
+    "integration_disconnect": "<APP NAME> Integration disconnected",
     "button_update": "Update",
     "button_copy": "Copy",
     "button_cancel": "Cancel",
     "button_manage": "Manage",
     "button_task_history": "Task History",
     "button_delete": "Delete",
-    "cash_connected": "Cash register Connected",
-    "cash_disconnect": "Cash register Disconnect",
+    "cash_connected": "Cash register connected",
+    "cash_disconnect": "Cash register disconnected",
     "to_enable_this": "To enable this integration, you must allow Setmore and <APP NAME>to share details",
     "choose_your_location": "Choose your location",
     "select_location": "Select Location",
-    "you_must_select": "You must select a business location to continue integrating your accounts. Please try again",
+    "you_must_select": "You must select a business location to continue integrating your accounts. Please try again.",
     "currency_mismatch": "Currency mismatch",
-    "payments_already": "Payments already Connected",
+    "payments_already": "<APP NAME> payments already connected",
     "authentication_is_not": "Authentication is not successful",
     "action_required": "Action Required",
     "to_host_video": "To host video appointments using <APP NAME>, you’ll need to switch off the <APP NAME integration>",
@@ -620,9 +617,9 @@
     "chat_with_us": "Chat with us",
     "call_us": "Call us",
     "button_connect": "Connect",
-    "button_disconnect": "disconnect",
+    "button_disconnect": "Disconnect",
     "button_yes_disconnect": "Yes, disconnect",
-    "button_support_article": "Support Article",
+    "button_support_article": "Support article",
     "button_download_plugin": "Download Plugin",
     "button_get_add_on": "Get Add-on",
     "button_sign_up": "Sign up",
@@ -636,29 +633,43 @@
     "instructions_title": "Instructions",
     "only_tagged_pictures": "Only tagged pictures from your Instagram account will be shown on your Booking page.",
     "button_copied": "Copied!",
-    "integration_updated": "<APP NAME> integration updated",
+    "integration_updated": "<APP NAME> Integration updated",
     "there_is_a_hickup": "There’s been a hiccup Something didn’t work quite right. Please try again.",
     "get_code": "Get code",
     "something_went_wrong_deactivate": "Something went wrong, please deactivate and activate again.",
-    "disconect_message": "Disconnecting would result in permanent deletion of the workflow. Are you sure you still want to disconnect?",
+    "disconect_message": "Are you sure you  want to disconnect this integration?",
     "alert_disconnect_integration": "Disconnect <APP NAME>?",
     "label_connected": "Connected",
-    "label_disconnectd": "Disconnected",
+    "label_disconnected": "Disconnected",
     "label_pro_tag": "Try Pro",
     "label_draft": "Draft",
+    "hashtag_updated": "HashTag Updated",
+    "id_saved": "<APP NAME> Id Saved.",
+    "tracking_code_saved": "<APP NAME> tracking code saved.",
+    "manage_integration": "Manage <APP NAME> integration",
+    "your_gtm_container_id": "Your GTM container ID",
+    "your_tracking_code": "Your tracking code",
+    "hashtag_example": "Eg: #instadaily, #entrepreneurs, #art.",
+    "hashtag_input_placeholder": "Eg: #entrepreneur, #innovation",
+    "gtm_example": "ex: GTM-xxxxxxx",
+    "maximum_limit_reached": "A maximum of 10 emails can be fired out from your account every 30 minutes. Please wait a moment and try again.",
     "mapper": {
-      "Services_mapper": "Service",
+      "Services_mapper": "Services",
       "service_cap": "SERVICES",
       "classes_cap": "CLASSES",
-      "Class Name_mapper": "Class",
+      "Class Name_mapper": "Classes",
       "mapper_save": "Save",
       "mapper_continue": "Continue",
       "mapper_cancel": "Cancel",
-      "Staff_mapper": "Staff",
+      "Staff_mapper": "My Team",
+      "team_member": "Team member",
       "email": "Email",
       "zoom_id": "Zoom ID",
       "assign_zoom_id": "Assign Zoom ID",
-      "add_video_link_to_all": "Add video link to all"
+      "add_video_link_to_all": "Add video link to all",
+      "no_email": "No Email",
+      "mins": "mins",
+      "free": "Free"
     }
   }
 }

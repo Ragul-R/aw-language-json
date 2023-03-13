@@ -79,14 +79,16 @@
     "sms_received": "SMS Received",
     "day": "day",
     "days": "days",
-    "minutes": "minutes",
-    "minute": "minute",
     "is_in_lunch": "Is in Lunch Break",
     "away": "Away",
     "offline": "Offline",
     "no_recent_calls": "No recent calls",
     "login": "Login",
     "enter_input_here": "Enter input here",
-    "add": "Add"
+    "add": "Add",
+    "minutes": "minutes",
+    "minute": "minute",
+    "minutes_cap": "Minutes",
+    "minute_cap": "Minute"
   }
 }
