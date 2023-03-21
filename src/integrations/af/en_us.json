@@ -1,361 +1,325 @@
 {
   "integrations": {
-"zendesk_description":"Export your call intake to Zendesk",
-"zendesk_cardtitle":"AnswerForce - Zendesk",
-"zendesk_long_description":[
-  "Ensure that your Zendesk campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Zendesk campaign list."
-],
-"zendesk_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Zendesk username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"franconnect_description":"Export your call intake to FranConnect",
-"franconnect_cardtitle":"AnswerForce - FranConnect",
-"franconnect_long_description":[
-  "Ensure that your FranConnect campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your FranConnect campaign list."
-],
-"franconnect_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your FranConnect username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"connectwise_description":"Export your call intake to ConnectWise",
-"connectwise_cardtitle":"AnswerForce - ConnectWise",
-"connectwise_long_description":[
+    "zendesk_description": "Export your call intake to Zendesk",
+    "zendesk_cardtitle": "AnswerForce - Zendesk",
+    "zendesk_long_description": [
+      "Ensure that your Zendesk campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Zendesk campaign list."
+    ],
+    "zendesk_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Zendesk username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "franconnect_description": "Export your call intake to FranConnect",
+    "franconnect_cardtitle": "AnswerForce - FranConnect",
+    "franconnect_long_description": [
+      "Ensure that your FranConnect campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your FranConnect campaign list."
+    ],
+    "franconnect_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your FranConnect username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "connectwise_description": "Export your call intake to ConnectWise",
+    "connectwise_cardtitle": "AnswerForce - ConnectWise",
+    "connectwise_long_description": [
       "Ensure that your ConnectWise campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your ConnectWise campaign list."
-],
-"connectwise_instruction":[
+    ],
+    "connectwise_instruction": [
       "Click the Activate button on the left side of this window.",
       "Enter your ConnectWise username and password to allow access to AnswerForce.",
       "Confirm the action by clicking Allow. The integration will now be activated."
-],
-"hubspot_description":"Export your call intake to HubSpot",
-"hubspot_cardtitle":"AnswerForce - HubSpot",
-"hubspot_long_description":[
-  "Ensure that your HubSpot campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your HubSpot campaign list."
-],
-"hubspot_instruction":[
-  "Click the Activate button on the left side of this window.",
-  "Enter your HubSpot username and password to allow access to AnswerForce.",
- "Confirm the action by clicking Allow. The integration will now be activated."
-],
-"mailchimp_description":"Export your call intake to Mailchimp",
-"mailchimp_cardtitle":"AnswerForce - Mailchimp",
-"mailchimp_long_description":[
-  "Ensure that your Mailchimp campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Mailchimp campaign list."
-],
-"mailchimp_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Mailchimp username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"improveit 360_description":"Export your call intake to Improveit360",
-"improveit 360_cardtitle":"AnswerForce - improveit 360",
-"improveit 360_long_description":[
-  "Ensure that your improveit 360 campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your improveit 360 campaign list."
-],
-"imporveit 360_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your improveit 360 username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"quickbooks_description":"Export your call intake to QuickBooks",
-"quickbooks_cardtitle":"AnswerForce - QuickBooks",
-"quickbooks_long_description":[
-  "Ensure that your Quickbooks campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Quickbooks campaign list."
-],
-"quickbooks_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Quickbooks username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"zoho crm_description":"Export your call intake to Zoho CRM",
-"zoho crm_cardtitle":"AnswerForce - Zoho CRM",
-"zoho crm_long_description":[
-  "Ensure that your Zoho CRM campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Zoho CRM campaign list."
-],
-"zoho crm_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Zoho CRM username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"less annoying crm_description":"Export your call intake to Less Annoying CRM",
-"less annoying crm_cardtitle":"AnswerForce - Less Annoying CRM",
-"less annoying crm_long_description":[
-  "Ensure that your Less Annoying CRM campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Less Annoying CRM campaign list."
-],
-"less annoying crm_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Less Annoying CRM username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"pipedrive_description":"Export your call intake to Pipedrive",
-"pipedrive_cardtitle":"AnswerForce - Pipedrive",
-"pipedrive_long_description":[
-  "Ensure that your Pipedrive campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Pipedrive campaign list."
-],
-"pipedrive_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Pipedrive username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"housecallpro_description":"Export your call intake to Housecall Pro.",
-"housecallpro_cardtitle":"AnswerForce - HousecallPro",
-"housecallpro_long_description":[
-  "Ensure that your HousecallPro campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your HousecallPro campaign list."
-],
-"housecallpro_instruction":[
-"Click the ‘Activate’ button on the left side of this window.",
-"Enter your HousecallPro username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"serviceminder_description":"Export your call intake to ServiceMinder",
-"serviceminder_cardtitle":"AnswerForce - ServiceMinder",
-"serviceminder_long_description":[
-  "Ensure that your ServiceMinder campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your ServiceMinder campaign list."
-],
-"serviceminder_instruction":[
-"Click the ‘Activate’ button on the left side of this window.",
-"Enter your ServiceMinder username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"insightly_description":"Export your call intake to Insightly",
-"insightly_cardtitle":"AnswerForce - Insightly",
-"insightly_long_description":[
-  "Ensure that your insightly campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your insightly campaign list."
-],
-"insightly_instruction":[
-"Click the ‘Activate’ button on the left side of this window.",
-"Enter your insightly username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"autotask_description":"Export your call intake to AutoTask",
-"autotask_cardtitle":"AnswerForce - Autotask",
-"autotask_long_description":[
-  "Ensure that your AutoTask campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your AutoTask campaign list."
-],
-"autotask_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your AutoTask username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."  
-],
-"keap_description":"Export your call intake to Keap",
-"keap_cardtitle":"AnswerForce - Keap",
-"keap_long_description":[
-  "Ensure that your Keap campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Keap campaign list."
-],
-"keap_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Keap username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"clio_description":"Export your call intake to Clio",
-"clio_cardtitle":"AnswerForce - Clio",
-"clio_long_description":[
-  "Ensure that your Clio campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Clio campaign list."
-],
-"clio_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Clio username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"fresh sales_description":"Export your call intake to Freshsales",
-"fresh sales_cardtitle":"AnswerForce - Fresh Sales",
-"fresh sales_long_description":[
-  "Ensure that your Fresh Sales campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Fresh Sales campaign list."
-],
-"fresh sales_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Fresh Sales username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"lexicata_description":"Export your call intake to Lexicata",
-"lexicata_cardtitle":"AnswerForce - Lexicata",
-"lexicata_long_description":[
-  "Ensure that your Lexicata campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Lexicata campaign list."
-],
-"lexicata_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Lexicata username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"clio grow_description":"Export your call intake to ClioGrow",
-"clio grow_cardtitle":"AnswerForce - Clio Grow",
-"clio grow_long_description":[
-  "Ensure that your Clio Grow campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Clio Grow campaign list."
-],
-"clio grow_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Clio Grow username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"outlook_description":"Export your call intake to Outlook",
-"outlook_cardtitle":"AnswerForce - Outlook",
-"outlook_long_description":[
-  "Ensure that your Outlook campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Outlook campaign list."
-],
-"outlook_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Outlook username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"constant contact_description":"Export your call intake to ConstantContact",
-"constant contact_cardtitle":"AnswerForce - Constant Contact",
-"constant contact_long_description":[
-  "Ensure that your Constant Contact campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Constant Contact campaign list."
-],
-"constant contact_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Constant Contact username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"slack_description":"Get notified on Slack channel",
-"slack_cardtitle":"AnswerForce - Slack",
-"slack_long_description":[
-"Ensure that your Slack campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Slack campaign list."
-],
-"slack_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Slack username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"podio_description":"Export your call intake to Podio",
-"podio_cardtitle":"AnswerForce - Podio",
-"podio_long_description":[
-  "Ensure that your Podio campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Podio campaign list."
-],
-"podio_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Podio username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"freshdesk_description":"Export your call intake to FreshDesk",
-"freshdesk_cardtitle":"AnswerForce - Freshdesk",
-"freshdesk_long_description":[
-  "Ensure that your Freshdesk campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Freshdesk campaign list."
-],
-"freshdesk_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Freshdesk username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"salesforce_description":"Export your call intake to SalesForce",
-"salesforce_cardtitle":"AnswerForce - Salesforce",
-"salesforce_long_description":[
- "Ensure that your Salesforce campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Salesforce campaign list."
-],
-"salesforce_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Salesforce username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"filevine_description":"Create Contact in FileVine",
-"filevine_cardtitle":"AnswerForce - Filevine",
-"filevine_long_description":[
-  "Ensure that your Filevine campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Filevine campaign list."
-],
-"filevine_instruction":[
-"Click the Activate button on the left side of this window.",
-"Enter your Filevine username and password to allow access to AnswerForce.",
-"Confirm the action by clicking Allow. The integration will now be activated."
-],
-"video_meeting_integrations":"Video meeting integrations",
-"social_media_integrations":"Social media integrations",
-"payment_integrations": "Payment integrations",
-"website_booking_integrations":"Website booking integrations",
-"sales_and_crm_integrations":"Sales and CRM integrations",
-"collaboration_integrations":"Collaboration integrations",
-"accounting_integrations":"Accounting integrations",
-"calendar_sync_integrations":"Calendar sync integrations",
-"business_app_integrations":"Business app integrations",
-"marketing_integrations":"Marketing integrations",
-"accept_payments":"Accept payments",
-"integration_activated": "<APP NAME> integration activated",
-"integration_deactivated": "<APP NAME> integration deactivated",
-"button_update":"Update",
-"button_copy":"Copy",
-"button_cancel": "Cancel",
-"button_manage":"Manage",
-"button_task_history":"Task History",
-"button_delete":"Delete",
-"cash_activated": "Cash register activated",
-"cash_deactivated": "Cash register deactivated",
-"to_enable_this":"To enable this integration, you must allow AnswerForce and <APP NAME>to share details",
-"choose_your_location":"Choose your location",
-"select_location":"Select Location",
-"you_must_select":"You must select a business location to continue integrating your accounts. Please try again",
-"currency_mismatch":"Currency mismatch",
-"payments_already":"Payments already activated",
-"authentication_is_not":"Authentication is not successful",
-"action_required":"Action Required",
-"to_host_video":"To host video appointments using <APP NAME>, you’ll need to switch off the <APP NAME integration>",
-"to_enable_your":"To enable your team to host Google Meet appointments, you’ll need to open individual profiles and switch on ‘Google sync",
-"email_sent_successfully":"Email sent successfully",
-"error_in_sending":"Error in sending mail",
-"activate_a_payment":"Activate a payment integration to accept Booking Page payments",
-"refund_initiated":"Refund initiated",
-"something_went_wrong":"Something went wrong",
-"button_okay":"Okay",
-"yes_switch_off":"Yes, switch off",
-"yes_switch_on":"Yes switch on",
-"yes_open":"Yes, open",
-"answerforce_is_currently":"AnswerForce is currently syncing your <APP NAME>. Please wait a few moments before de-activating the sync. Thank you for your patience!",
-"sync_in_progress":"Sync in progress",
-"need_more_help":"Need more help?",
-"support_team_contact":"Chat with our support team from inside your account, call us at <CONTACT NUMBER> or email <SUPPORT EMAIL>.",
-"button_activate":"Activate",
-"button_deactivate":"Deactivate",
-"button_support_article":"Support Article",
-"button_download_plugin":"Download Plugin",
-"button_get_add_on":"Get Add-on",
-"button_sign_up":"Sign up",
-"are_you_sure":"Are you sure?",
-"due_diligence":"<BRAND NAME>: Perform due diligence",
-"integration_meets_complaince":"Before activating, make sure that your use of the integration meets compliance and data security requirements, such as HIPAA, in your area <Terms of Service>.",
-"button_continue_activation":"Continue Activation",
-"usage_alert":"<BRAND NAME> Usage",
-"third_party_integration":"By enabling a 3rd Party Integration service, you hereby agree to assume HIPAA liability for your use of this service and agree to our HIPAA compliant <Terms of Service>.",
-"your_hashtags":"Your hashtags :",
-"instructions_title":"Instructions",
-"only_tagged_pictures":"Only tagged pictures from your Instagram account will be shown on your Booking page.",
-"button_copied" : "Copied!",
-"integration_updated": "<APP NAME> integration updated","there_is_a_hickup": "There’s been a hiccup Something didn’t work quite right. Please try again.",
-    "get_code": "Get code",
-    "something_went_wrong_deactivate": "Something went wrong, please deactivate and activate again.",
-    "disconect_message": "Are you sure you  want to disconnect this integration?",
-    "alert_disconnect_integration": "Disconnect <APP NAME>?",
-    "label_connected": "Connected",
-    "label_disconnected": "Disconnected",
-    "label_pro_tag": "Try Pro",
-    "label_draft": "Draft",
-    "hashtag_updated": "HashTag Updated",
-    "id_saved": "<APP NAME> Id Saved.",
-    "tracking_code_saved": "<APP NAME> tracking code saved.",
-    "manage_integration": "Manage <APP NAME> integration",
-    "your_gtm_container_id": "Your GTM container ID",
-    "your_tracking_code": "Your tracking code",
-    "hashtag_example": "Eg: #instadaily, #entrepreneurs, #art.",
-    "hashtag_input_placeholder": "Eg: #entrepreneur, #innovation",
-    "gtm_example": "ex: GTM-xxxxxxx",
-    "maximum_limit_reached":"A maximum of 10 emails can be fired out from your account every 30 minutes. Please wait a moment and try again.",
-    "mapper": {
-      "Services_mapper": "Services",
-      "service_cap": "SERVICES",
-      "classes_cap": "CLASSES",
-      "Class Name_mapper": "Classes",
-      "mapper_save": "Save",
-      "mapper_continue": "Continue",
-      "mapper_cancel": "Cancel",
-      "Staff_mapper": "My Team",
-      "team_member": "Team member",
-      "email": "Email",
-      "zoom_id": "Zoom ID",
-      "assign_zoom_id": "Assign Zoom ID",
-      "add_video_link_to_all": "Add video link to all",
-      "no_email": "No Email",
-      "mins": "mins",
-      "free": "Free"
-    }
-  }
+    ],
+    "hubspot_description": "Export your call intake to HubSpot",
+    "hubspot_cardtitle": "AnswerForce - HubSpot",
+    "hubspot_long_description": [
+      "Ensure that your HubSpot campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your HubSpot campaign list."
+    ],
+    "hubspot_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your HubSpot username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "mailchimp_description": "Export your call intake to Mailchimp",
+    "mailchimp_cardtitle": "AnswerForce - Mailchimp",
+    "mailchimp_long_description": [
+      "Ensure that your Mailchimp campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Mailchimp campaign list."
+    ],
+    "mailchimp_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Mailchimp username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "improveit 360_description": "Export your call intake to Improveit360",
+    "improveit 360_cardtitle": "AnswerForce - improveit 360",
+    "improveit 360_long_description": [
+      "Ensure that your improveit 360 campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your improveit 360 campaign list."
+    ],
+    "imporveit 360_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your improveit 360 username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "quickbooks_description": "Export your call intake to QuickBooks",
+    "quickbooks_cardtitle": "AnswerForce - QuickBooks",
+    "quickbooks_long_description": [
+      "Ensure that your Quickbooks campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Quickbooks campaign list."
+    ],
+    "quickbooks_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Quickbooks username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "zoho crm_description": "Export your call intake to Zoho CRM",
+    "zoho crm_cardtitle": "AnswerForce - Zoho CRM",
+    "zoho crm_long_description": [
+      "Ensure that your Zoho CRM campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Zoho CRM campaign list."
+    ],
+    "zoho crm_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Zoho CRM username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "less annoying crm_description": "Export your call intake to Less Annoying CRM",
+    "less annoying crm_cardtitle": "AnswerForce - Less Annoying CRM",
+    "less annoying crm_long_description": [
+      "Ensure that your Less Annoying CRM campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Less Annoying CRM campaign list."
+    ],
+    "less annoying crm_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Less Annoying CRM username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "pipedrive_description": "Export your call intake to Pipedrive",
+    "pipedrive_cardtitle": "AnswerForce - Pipedrive",
+    "pipedrive_long_description": [
+      "Ensure that your Pipedrive campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Pipedrive campaign list."
+    ],
+    "pipedrive_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Pipedrive username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "housecallpro_description": "Export your call intake to Housecall Pro.",
+    "housecallpro_cardtitle": "AnswerForce - HousecallPro",
+    "housecallpro_long_description": [
+      "Ensure that your HousecallPro campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your HousecallPro campaign list."
+    ],
+    "housecallpro_instruction": [
+      "Click the ‘Activate’ button on the left side of this window.",
+      "Enter your HousecallPro username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "serviceminder_description": "Export your call intake to ServiceMinder",
+    "serviceminder_cardtitle": "AnswerForce - ServiceMinder",
+    "serviceminder_long_description": [
+      "Ensure that your ServiceMinder campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your ServiceMinder campaign list."
+    ],
+    "serviceminder_instruction": [
+      "Click the ‘Activate’ button on the left side of this window.",
+      "Enter your ServiceMinder username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "insightly_description": "Export your call intake to Insightly",
+    "insightly_cardtitle": "AnswerForce - Insightly",
+    "insightly_long_description": [
+      "Ensure that your insightly campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your insightly campaign list."
+    ],
+    "insightly_instruction": [
+      "Click the ‘Activate’ button on the left side of this window.",
+      "Enter your insightly username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "autotask_description": "Export your call intake to AutoTask",
+    "autotask_cardtitle": "AnswerForce - Autotask",
+    "autotask_long_description": [
+      "Ensure that your AutoTask campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your AutoTask campaign list."
+    ],
+    "autotask_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your AutoTask username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "keap_description": "Export your call intake to Keap",
+    "keap_cardtitle": "AnswerForce - Keap",
+    "keap_long_description": [
+      "Ensure that your Keap campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Keap campaign list."
+    ],
+    "keap_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Keap username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "clio_description": "Export your call intake to Clio",
+    "clio_cardtitle": "AnswerForce - Clio",
+    "clio_long_description": [
+      "Ensure that your Clio campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Clio campaign list."
+    ],
+    "clio_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Clio username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "fresh sales_description": "Export your call intake to Freshsales",
+    "fresh sales_cardtitle": "AnswerForce - Fresh Sales",
+    "fresh sales_long_description": [
+      "Ensure that your Fresh Sales campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Fresh Sales campaign list."
+    ],
+    "fresh sales_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Fresh Sales username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "lexicata_description": "Export your call intake to Lexicata",
+    "lexicata_cardtitle": "AnswerForce - Lexicata",
+    "lexicata_long_description": [
+      "Ensure that your Lexicata campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Lexicata campaign list."
+    ],
+    "lexicata_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Lexicata username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "clio grow_description": "Export your call intake to ClioGrow",
+    "clio grow_cardtitle": "AnswerForce - Clio Grow",
+    "clio grow_long_description": [
+      "Ensure that your Clio Grow campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Clio Grow campaign list."
+    ],
+    "clio grow_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Clio Grow username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "outlook_description": "Export your call intake to Outlook",
+    "outlook_cardtitle": "AnswerForce - Outlook",
+    "outlook_long_description": [
+      "Ensure that your Outlook campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Outlook campaign list."
+    ],
+    "outlook_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Outlook username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "constant contact_description": "Export your call intake to ConstantContact",
+    "constant contact_cardtitle": "AnswerForce - Constant Contact",
+    "constant contact_long_description": [
+      "Ensure that your Constant Contact campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Constant Contact campaign list."
+    ],
+    "constant contact_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Constant Contact username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "slack_description": "Get notified on Slack channel",
+    "slack_cardtitle": "AnswerForce - Slack",
+    "slack_long_description": [
+      "Ensure that your Slack campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Slack campaign list."
+    ],
+    "slack_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Slack username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "podio_description": "Export your call intake to Podio",
+    "podio_cardtitle": "AnswerForce - Podio",
+    "podio_long_description": [
+      "Ensure that your Podio campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Podio campaign list."
+    ],
+    "podio_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Podio username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "freshdesk_description": "Export your call intake to FreshDesk",
+    "freshdesk_cardtitle": "AnswerForce - Freshdesk",
+    "freshdesk_long_description": [
+      "Ensure that your Freshdesk campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Freshdesk campaign list."
+    ],
+    "freshdesk_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Freshdesk username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "salesforce_description": "Export your call intake to SalesForce",
+    "salesforce_cardtitle": "AnswerForce - Salesforce",
+    "salesforce_long_description": [
+      "Ensure that your Salesforce campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Salesforce campaign list."
+    ],
+    "salesforce_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Salesforce username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "filevine_description": "Create Contact in FileVine",
+    "filevine_cardtitle": "AnswerForce - Filevine",
+    "filevine_long_description": [
+      "Ensure that your Filevine campaign reaches the intended target audience with AnswerForce. For every new customer created at AnswerForce, this integration will automatically add corresponding contact information to your Filevine campaign list."
+    ],
+    "filevine_instruction": [
+      "Click the Activate button on the left side of this window.",
+      "Enter your Filevine username and password to allow access to AnswerForce.",
+      "Confirm the action by clicking Allow. The integration will now be activated."
+    ],
+    "video_meeting_integrations": "Video meeting integrations",
+    "social_media_integrations": "Social media integrations",
+    "payment_integrations": "Payment integrations",
+    "website_booking_integrations": "Website booking integrations",
+    "sales_and_crm_integrations": "Sales and CRM integrations",
+    "collaboration_integrations": "Collaboration integrations",
+    "accounting_integrations": "Accounting integrations",
+    "calendar_sync_integrations": "Calendar sync integrations",
+    "business_app_integrations": "Business app integrations",
+    "marketing_integrations": "Marketing integrations",
+    "accept_payments": "Accept payments",
+    "integration_activated": "<APP NAME> integration activated",
+    "integration_deactivated": "<APP NAME> integration deactivated",
+    "button_update": "Update",
+    "button_copy": "Copy",
+    "button_cancel": "Cancel",
+    "button_manage": "Manage",
+    "button_task_history": "Task History",
+    "button_delete": "Delete",
+    "cash_activated": "Cash register activated",
+    "cash_deactivated": "Cash register deactivated",
+    "to_enable_this": "To enable this integration, you must allow Setmore and <APP NAME>to share details",
+    "choose_your_location": "Choose your location",
+    "select_location": "Select Location",
+    "you_must_select": "You must select a business location to continue integrating your accounts. Please try again",
+    "currency_mismatch": "Currency mismatch",
+    "payments_already": "Payments already activated",
+    "authentication_is_not": "Authentication is not successful",
+    "action_required": "Action Required",
+    "to_host_video": "To host video appointments using <APP NAME>, you’ll need to switch off the <APP NAME integration>",
+    "to_enable_your": "To enable your team to host Google Meet appointments, you’ll need to open individual profiles and switch on ‘Google sync",
+    "email_sent_successfully": "Email sent successfully",
+    "error_in_sending": "Error in sending mail",
+    "activate_a_payment": "Activate a payment integration to accept Booking Page payments",
+    "refund_initiated": "Refund initiated",
+    "something_went_wrong": "Something went wrong",
+    "button_okay": "Okay",
+    "yes_switch_off": "Yes, switch off",
+    "yes_switch_on": "Yes switch on",
+    "yes_open": "Yes, open",
+    "setmore_is_currently": "Setmore is currently syncing your <APP NAME>. Please wait a few moments before de-activating the sync. Thank you for your patience!",
+    "sync_in_progress": "Sync in progress",
+    "need_more_help": "Need more help?",
+    "support_team_contact": "Chat with our support team from inside your account, call us at <CONTACT NUMBER> or email <SUPPORT EMAIL>.",
+    "button_activate": "Activate",
+    "button_deactivate": "Deactivate",
+    "button_support_article": "Support Article",
+    "button_download_plugin": "Download Plugin",
+    "button_get_add_on": "Get Add-on",
+    "button_sign_up": "Sign up",
+    "are_you_sure": "Are you sure?",
+    "due_diligence": "<BRAND NAME>: Perform due diligence",
+    "integration_meets_complaince": "Before activating, make sure that your use of the integration meets compliance and data security requirements, such as HIPAA, in your area <Terms of Service>.",
+    "button_continue_activation": "Continue Activation",
+    "usage_alert": "<BRAND NAME> Usage",
+    "third_party_integration": "By enabling a 3rd Party Integration service, you hereby agree to assume HIPAA liability for your use of this service and agree to our HIPAA compliant <Terms of Service>.",
+    "your_hashtags": "Your hashtags :",
+    "instructions_title": "Instructions",
+    "only_tagged_pictures": "Only tagged pictures from your Instagram account will be shown on your Booking page.",
+    "button_copied": "Copied!",
+    "integration_updated": "<APP NAME> integration updated"
+  } 
 }

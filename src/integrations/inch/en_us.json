@@ -1,7 +1,7 @@
 {
   "integrations": {
-    "in_the_chair_banner_title": "Integrate your favorite apps",
-    "in_the_chair_banner_description": "Enhance customer experience by connecting In the Chair with your go-to marketing, video, payment and CRM platforms.",
+    "in the chair_banner_title": "Integrate your favorite apps",
+    "in the chair_banner_description": "Enhance customer experience by connecting In the Chair with your go-to marketing, video, payment and CRM platforms.",
     "google meet_description": "Provide crystal-clear video appointments through Google Meet.",
     "google meet_cardtitle": "Provide crystal-clear video appointments with Google Meet.",
     "google meet_long_description": [
@@ -127,15 +127,19 @@
     "stripe_description": "Collect credit and debit card payments easily at the point of booking.",
     "stripe_cardtitle": "Collect credit and debit card payments easily at the point of booking.",
     "stripe_long_description": [
-      "Create an all-in-one online booking and payment system with In the Chair and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar."
+      "Create an all-in-one online booking and payment system with Setmore and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar."
     ],
     "stripe_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
-      "Log in with Stripe and authorize In the Chair to connect.",
+      "Log in with Stripe and authorize Setmore to connect.",
       "A pop-up will inform you that your accounts are connected.",
       [
         "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
+    ],
+    "stripe_preferences": [
+      "Promo codes",
+      "Enable customers to use promo codes generated via your Stripe account on your Booking Page."
     ],
     "booking widget_description": "Display a convenient ‘Book now’ button that opens your Booking Page.",
     "booking widget_cardtitle": "Empower customers to book appointments through your website.",
@@ -346,8 +350,8 @@
     ],
     "google calendar_instruction": [
       "Verify that both In the Chair and Google Calendar are set to the same time zone.",
-      "For 1-way sync: Navigate to Settings > My team > Calendar and click ‘Get link’. Open Google Calendar and under ‘Other calendars’, add the URL.",
-      "For 2-way sync: Navigate to Settings > My team > Calendar and scroll to the ‘Google sync’ section. Flip the ‘On/Off’ switch to on."
+      "For 1-way sync: Navigate to Settings > My team > Integration and click ‘Get link’. Open Google Calendar and under ‘Other calendars’, add the URL.",
+      "For 2-way sync: Navigate to Settings > My team > Integration and scroll to the ‘Google sync’ section. Flip the ‘On/Off’ switch to on."
     ],
     "office 365 calendar_description": "Reduce double booking by aligning your schedule across In the Chair and Office 365 Calendar.",
     "office 365 calendar_cardtitle": "View your In the Chair and Office 365 Calendar events in one place.",
@@ -356,8 +360,8 @@
     ],
     "office 365 calendar_instruction": [
       "Verify that both In the Chair and Office 365 Calendar are set to the same time zone.",
-      "For 1-way sync: Navigate to Settings > My team > Calendar and click ‘Get link’. Open Office 365 Calendar and in the ‘Open calendar’ menu, add the URL.",
-      "For 2-way sync: Navigate to Settings > My team > Calendar and scroll to the ‘Office 365 sync’ section. Flip the ‘On/Off’ switch to on."
+      "For 1-way sync: Navigate to Settings > My team > Integration and click ‘Get link’. Open Office 365 Calendar and in the ‘Open calendar’ menu, add the URL.",
+      "For 2-way sync: Navigate to Settings > My team > Integration and scroll to the ‘Office 365 sync’ section. Flip the ‘On/Off’ switch to on."
     ],
     "gmail_description": "Book appointments straight from customer emails in your Gmail inbox.",
     "gmail_cardtitle": "Book appointments straight from your Gmail inbox.",
@@ -575,17 +579,17 @@
       "Click ‘Add apps to your Messenger’ and select an audience.",
       "Click ‘Add an app’ and select the ‘In the Chair’ app. Add your booking link and customize the button text and heading."
     ],
-    "video_meeting_integrations": "Video meeting integrations",
-    "social_media_integrations": "Social media integrations",
-    "payment_integrations": "Payment integrations",
-    "website_booking_integrations": "Website booking integrations",
-    "sales_and_crm_integrations": "Sales and CRM integrations",
-    "collaboration_integrations": "Collaboration integrations",
-    "accounting_integrations": "Accounting integrations",
-    "calendar_sync_integrations": "Calendar sync integrations",
-    "business_app_integrations": "Business app integrations",
-    "marketing_integrations": "Marketing integrations",
-    "accept_payments": "Accept payments",
+    "video_meeting_integrations": "Video meeting",
+    "social_media_integrations": "Social media",
+    "payment_integrations": "Payment",
+    "website_booking_integrations": "Website booking",
+    "sales_and_crm_integrations": "Sales and CRM",
+    "collaboration_integrations": "Collaboration",
+    "accounting_integrations": "Accounting",
+    "calendar_sync_integrations": "Calendar sync",
+    "business_app_integrations": "Business app",
+    "marketing_integrations": "Marketing",
+    "accept_payments": "Payment integrations",
     "integration_connected": "<APP NAME> Integration connected",
     "integration_disconnect": "<APP NAME> Integration disconnected",
     "button_update": "Update",
@@ -596,9 +600,9 @@
     "button_delete": "Delete",
     "cash_connected": "Cash register connected",
     "cash_disconnect": "Cash register disconnected",
-    "to_enable_this": "To enable this integration, you must allow In the Chair and <APP NAME>to share details",
-    "choose_your_location": "Choose your location",
-    "select_location": "Select Location",
+    "to_enable_this": "To enable this integration, you must allow In the Chair and <APP NAME> to share details",
+    "choose_your_location": "Choose location",
+    "select_location": "Select location",
     "you_must_select": "You must select a business location to continue integrating your accounts. Please try again.",
     "currency_mismatch": "Currency mismatch",
     "payments_already": "<APP NAME> payments already connected",
@@ -627,7 +631,7 @@
     "button_download_plugin": "Download Plugin",
     "button_get_add_on": "Get Add-on",
     "button_sign_up": "Sign up",
-    "are_you_sure": "Are you sure?",
+    "are_you_sure": "Are you sure you  want to disconnect this integration?",
     "due_diligence": "<BRAND NAME>: Perform due diligence",
     "integration_meets_complaince": "Before activating, make sure that your use of the integration meets compliance and data security requirements, such as HIPAA, in your area <Terms of Service>.",
     "button_continue_activation": "Continue Activation",
@@ -641,8 +645,8 @@
     "there_is_a_hickup": "There’s been a hiccup Something didn’t work quite right. Please try again.",
     "get_code": "Get code",
     "something_went_wrong_deactivate": "Something went wrong, please deactivate and activate again.",
-    "disconect_message": "Are you sure you  want to disconnect this integration?",
-    "alert_disconnect_integration": "Disconnect <APP NAME>?",
+    "disconect_message": "Disconnecting would result in permanent deletion of the workflow. Are you sure you still want to disconnect?",
+    "alert_disconnect_integration": "Disconnect <APP NAME>",
     "label_connected": "Connected",
     "label_disconnected": "Disconnected",
     "label_pro_tag": "Try Pro",
