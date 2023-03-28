@@ -177,6 +177,10 @@
     "transaction_id": "ID Transação",
     "discount": "Desconto",
     "total_paid": "Total Pago",
-    "refund": "Reembolso"
+    "refund": "Reembolso",
+    "support" : "Apoiando sua marca 24/7.",
+    "real_people" : "Somos pessoas reais, não bots",
+    "book_expert" : "Agendar com um especialista",
+    "see_hs" : "Veja ajuda e suporte para mais"
   }
 }

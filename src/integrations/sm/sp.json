@@ -1,7 +1,7 @@
 {
   "integrations": {
     "setmore_banner_title": "Integre sus aplicaciones favoritas",
-    "setmore_banner_description": "EUna experiencia de cliente significativa tiene un principio y un medio, pero no un final. Comienza con la reserva, sin embargo, quieres crear una conexión que dure.",
+    "setmore_banner_description": "Mejore la experiencia del cliente conectando Setmore con sus plataformas de marketing, video, pago y CRM.",
     "google meet_description": "Proporcionar citas en vídeo claras a través de Google Meet.",
     "google meet_cardtitle": "Proporcionar citas en vídeo claras con Google Meet.",
     "google meet_long_description": [
@@ -125,9 +125,9 @@
       ]
     ],
     "stripe_description": "Recopile pagos con tarjeta de crédito y débito fácilmente en el momento de la reserva.",
-    "stripe_cardtitle": "Recopile pagos con tarjeta de crédito y débito fácilmente en el momento de la reserva.",
+    "stripe_cardtitle": "Habilite códigos promocionales y recopile pagos en el momento de la reserva.",
     "stripe_long_description": [
-      "Cree un sistema de reserva y pago online todo en uno con Setmore y Stripe. Los clientes pueden pagar por adelantado las citas a través de su Página de Reserva y puede aceptar pagos en persona a través de su calendario."
+      "CCree un sistema de reserva y pago online todo en uno con Setmore y Stripe. Los clientes pueden pagar por adelantado las citas a través de su Página de Reserva y puede aceptar pagos en persona a través de su calendario. Acepte los códigos promocionales para conseguir una flexibilidad adicional y simplificar la contabilidad sincronizando los detalles de la transacción entre sus cuentas."
     ],
     "stripe_instruction": [
       "Haga clic en el botón 'Conectar' del lado derecho de esta ventana.",
@@ -137,6 +137,12 @@
         "Por defecto, los pagos en la Página de Reserva son opcionales. Para hacer que los pagos sean obligatorios vaya a Ajustes > Pagos > Pagos de la Página de Reserva."
       ]
     ],
+    "stripe_preferences": [
+      "Códigos promocionales",
+      "Permita a sus clientes utilizar códigos promocionales generados con su cuenta de Stripe en su Página de Reserva."
+    ],
+    "stripe_coupon_activate": "Promo code enabled",
+    "stripe_coupon_deactivate": "Promo code disabled",
     "booking widget_description": "Muestre un conveniente botón 'Reservar ahora' que abra su Página de Reserva.",
     "booking widget_cardtitle": "Anime a los clientes a reservar una cita a través de su sitio web.",
     "booking widget_long_description": [
@@ -157,7 +163,8 @@
     "joomla_description": "Cuente con un botón 'Reservar ahora' personalizable en cualquier página de su sitio web de Joomla.",
     "joomla_cardtitle": "Permita a sus clientes reservar citas a través de su sitio web de Joomla.",
     "joomla_long_description": [
-      "No hay necesidad de que su audiencia online lo llame o le envíe un correo electrónico para reservar una cita. Al conectar su sitio web de Joomla a su Página de Reserva, permitirá que cada visitante autoprograme una cita al instante. Añada un botón 'Reservar ahora' o una sección de reserva dedicada a cualquier página del sitio y capitalice el tráfico durante todo el año."
+      "No hay necesidad de que su audiencia online lo llame o le envíe un correo electrónico para reservar una cita. Al conectar su sitio web de Joomla a su Página de Reserva, permitirá que cada visitante autoprograme una cita al instante. Añada un botón 'Reservar ahora' o una sección de reserva dedicada a cualquier página del sitio y capitalice el tráfico durante todo el año.",
+      "Nota: Esta integración es válida solo para sitios web J3 Joomla."
     ],
     "joomla_instruction": [
       "Haga clic en el botón 'Descargar' en el lado derecho de esta ventana.",
@@ -168,9 +175,7 @@
     "jimdo_description": "Mejore el sitio web de su empresa en Jimdo con un botón 'Reservar ahora' personalizable.",
     "jimdo_cardtitle": "Mejore su sitio web en Jimdo con un botón 'Reservar ahora' personalizable.",
     "jimdo_long_description": [
-      "Su sitio en Jimdo le dice al mundo por qué su negocio es especial. Es una exhibición de sus servicios, de la experiencia de su equipo, de los testimonios de clientes y más. Mejore cualquier página con un botón 'Reservar ahora' para garantizar que los visitantes cautivados puedan programar citas las 24 horas, los 7 días de la semana. Al hacer clic, aparecerá su Página de Reserva y compartirá su disponibilidad en tiempo real.",
-
-      "Nota: Esta integración es válida solo para sitios web J3 Joomla."
+      "Su sitio en Jimdo le dice al mundo por qué su negocio es especial. Es una exhibición de sus servicios, de la experiencia de su equipo, de los testimonios de clientes y más. Mejore cualquier página con un botón 'Reservar ahora' para garantizar que los visitantes cautivados puedan programar citas las 24 horas, los 7 días de la semana. Al hacer clic, aparecerá su Página de Reserva y compartirá su disponibilidad en tiempo real."
     ],
     "jimdo_instruction": [
       "Copie el código proporcionado a continuación.",
@@ -657,6 +662,8 @@
     "hashtag_input_placeholder": "Por ejemplo:  #entrepreneurs, #innovation",
     "gtm_example": "ex: GTM-xxxxxxx",
     "maximum_limit_reached": "Se puede enviar un máximo de 10 correos electrónicos desde tu cuenta cada 30 minutos. Espera un momento y vuelve a intentarlo.",
+    "failed_to_activate": "Failed to activate",
+    "unable_to_deactivate": "Unable to deactivate",
     "mapper": {
       "Services_mapper": "Servicios",
       "service_cap": "SERVICIOS",

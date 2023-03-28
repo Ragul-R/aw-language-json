@@ -23,12 +23,16 @@ module.exports = {
             fileName: `brand/sm_sp.json`,
           },
           {
-            pattern: `./src/**/sm/sp.json`,
+            pattern: `./src/**/sm/pt.json`,
             fileName: `brand/sm_pt.json`,
           },
           {
             pattern: `./src/**/inch/sp.json`,
             fileName: `brand/inch_sp.json`,
+          },
+          {
+            pattern: `./src/**/inch/sp.json`,
+            fileName: `brand/inch_pt.json`,
           }
         ],
       },

@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode=development",
     "push:en": "webpack --mode=production && gsutil cp -z \"json\" dist/brand/*.json gs://full-assets/anywhereworks/app-assets/language/v1",
-    "push:sp": "webpack --mode=production && gsutil cp -z \"json\" dist/brand/sm_sp.json gs://full-assets/anywhereworks/app-assets/language/v1",
+    "push:sp": "webpack --mode=production && gsutil cp -z \"json\" dist/brand/sm_en_us.json gs://full-assets/anywhereworks/app-assets/language/v1",
     "push:pt": "webpack --mode=production && gsutil cp -z \"json\" dist/pt.json gs://full-assets/anywhereworks/app-assets/language/v1",
     "push:en_uk": "webpack --mode=production && gsutil cp -z \"json\" dist/en_uk.json gs://full-assets/anywhereworks/app-assets/language/v1",
     "plop": "plop"

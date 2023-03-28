@@ -113,7 +113,6 @@
     "lawpay_cardtitle": "Enable leads and clients to pay in advance through your Booking Page.",
     "lawpay_long_description": [
       "Empower your audience to pay ahead of consultations with LawPay. A payment gateway is added to your Booking Page, enabling visitors to schedule and pay securely via credit or debit card. Not only does this convenience help to convert more leads, but time spent on invoicing is massively reduced.",
-
       "Note: Currently, this integration is available to US-based users only."
     ],
     "lawpay_instruction": [
@@ -127,20 +126,22 @@
     "stripe_description": "Collect credit and debit card payments easily at the point of booking.",
     "stripe_cardtitle": "Collect credit and debit card payments easily at the point of booking.",
     "stripe_long_description": [
-      "Create an all-in-one online booking and payment system with Setmore and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar."
+      "Create an all-in-one online booking and payment system with In the chair and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar."
     ],
     "stripe_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
-      "Log in with Stripe and authorize Setmore to connect.",
+      "Log in with Stripe and authorize In the chair to connect.",
       "A pop-up will inform you that your accounts are connected.",
       [
         "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
     ],
-    "stripe_preferences": [
+    "stript_preferences": [
       "Promo codes",
       "Enable customers to use promo codes generated via your Stripe account on your Booking Page."
     ],
+    "stript_coupon_activate": "Activated",
+    "stript_coupon_deactivate": "Deactivated",
     "booking widget_description": "Display a convenient ‘Book now’ button that opens your Booking Page.",
     "booking widget_cardtitle": "Empower customers to book appointments through your website.",
     "booking widget_long_description": [
@@ -173,7 +174,6 @@
     "jimdo_cardtitle": "Enhance your Jimdo website with a customizable ‘Book Now’ button.",
     "jimdo_long_description": [
       "Your Jimdo site tells the world why your business is special. It’s a showcase of your services, your team’s expertise, customer testimonials and more. Enhance any page with a ‘Book now’ button to ensure captivated visitors can schedule appointments 24/7. When clicked, your Booking Page appears and shares your real-time availability.",
-
       "Note: This integration works for J3 Joomla websites only."
     ],
     "jimdo_instruction": [
@@ -408,7 +408,6 @@
     "zapier_cardtitle": "Create custom Zaps and connect In the Chair to countless apps.",
     "zapier_long_description": [
       "From sending appointment details to a Trello board, to adding new customers to a ClickUp campaign, there’s a Zap for every type of business. Simply define a trigger (like booking an appointment) and the information to pull across (like appointment time and customer email). After your Zap is enabled, data is shared from In the Chair automatically.",
-
       "Note: Depending on the action, some Zaps may require a Pro or Team account."
     ],
     "zapier_instruction": [
@@ -570,7 +569,6 @@
     "intercom_cardtitle": "Chat and take bookings, straight from Messenger and Inbox.",
     "intercom_long_description": [
       "Not only can leads connect with you through Intercom, they can schedule appointments too. Feature a convenient ‘Book now’ button on the Messenger home screen and share one in Inbox chats, offering people an instant route to reserve your time. One click and your Booking Page appears. Capitalize on website traffic, resolve queries faster and enhance every conversation.",
-
       "Note: Currently, your In the Chair booking button will only be visible on desktop."
     ],
     "intercom_instruction": [

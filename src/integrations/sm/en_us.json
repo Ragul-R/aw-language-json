@@ -124,9 +124,9 @@
       ]
     ],
     "stripe_description": "Collect credit and debit card payments easily at the point of booking.",
-    "stripe_cardtitle": "Collect credit and debit card payments easily at the point of booking.",
+    "stripe_cardtitle": "Enable promo codes and collect card payments at the point of booking.",
     "stripe_long_description": [
-      "Create an all-in-one online booking and payment system with Setmore and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar."
+      "Create an all-in-one online booking and payment system with Setmore and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar. Accept promo codes for extra flexibility and streamline bookkeeping by syncing transaction details between your accounts."
     ],
     "stripe_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
@@ -140,6 +140,8 @@
       "Promo codes",
       "Enable customers to use promo codes generated via your Stripe account on your Booking Page."
     ],
+    "stripe_coupon_activate": "Promo code enabled",
+    "stripe_coupon_deactivate": "Promo code disabled",
     "booking widget_description": "Display a convenient ‘Book now’ button that opens your Booking Page.",
     "booking widget_cardtitle": "Empower customers to book appointments through your website.",
     "booking widget_long_description": [
@@ -585,7 +587,7 @@
     "calendar_sync_integrations": "Calendar sync",
     "business_app_integrations": "Business app",
     "marketing_integrations": "Marketing",
-    "accept_payments": "Payment",
+    "accept_payments": "Payment integrations",
     "integration_connected": "<APP NAME> Integration connected",
     "integration_disconnect": "<APP NAME> Integration disconnected",
     "button_update": "Update",
@@ -657,6 +659,8 @@
     "hashtag_input_placeholder": "Eg: #entrepreneur, #innovation",
     "gtm_example": "ex: GTM-xxxxxxx",
     "maximum_limit_reached": "A maximum of 10 emails can be fired out from your account every 30 minutes. Please wait a moment and try again.",
+    "failed_to_activate": "Failed to activate",
+    "unable_to_deactivate": "Unable to deactivate",
     "mapper": {
       "Services_mapper": "Services",
       "service_cap": "SERVICES",
