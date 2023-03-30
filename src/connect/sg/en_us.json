@@ -211,6 +211,7 @@
     "attachment" : "Attachment",
     "image" : "Image",
     "start_a_chat" : "Start a chat and it’ll display here.",
-    "welcome" : "Welcome"
+    "welcome" : "Welcome",
+    "lastseen_now" : "Last seen just now!"
   }
 }

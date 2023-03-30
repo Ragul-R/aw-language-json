@@ -125,9 +125,9 @@
       ]
     ],
     "stripe_description": "Recopile pagos con tarjeta de crédito y débito fácilmente en el momento de la reserva.",
-    "stripe_cardtitle": "Habilite códigos promocionales y recopile pagos en el momento de la reserva.",
+    "stripe_cardtitle": "Recopile pagos con tarjeta de crédito y débito fácilmente en el momento de la reserva.",
     "stripe_long_description": [
-      "CCree un sistema de reserva y pago online todo en uno con Setmore y Stripe. Los clientes pueden pagar por adelantado las citas a través de su Página de Reserva y puede aceptar pagos en persona a través de su calendario. Acepte los códigos promocionales para conseguir una flexibilidad adicional y simplificar la contabilidad sincronizando los detalles de la transacción entre sus cuentas."
+      "CCree un sistema de reserva y pago online todo en uno con Setmore y Stripe. Los clientes pueden pagar por adelantado las citas a través de su Página de Reserva y puede aceptar pagos en persona a través de su calendario."
     ],
     "stripe_instruction": [
       "Haga clic en el botón 'Conectar' del lado derecho de esta ventana.",
@@ -590,7 +590,7 @@
     "calendar_sync_integrations": "Integraciones de sincronización de calendario",
     "business_app_integrations": "Integraciones de aplicaciones comerciales",
     "marketing_integrations": "Integraciones de marketing",
-    "accept_payments": "Aceptar pagos",
+    "accept_payments": "Integraciones de pago",
     "integration_connected": "<APP NAME> Integración conectada",
     "integration_disconnect": "<APP NAME> Integración desconectada",
     "button_update": "Actualizar",
@@ -646,7 +646,7 @@
     "there_is_a_hickup": "Ha ocurrido un error. Algo no ha ido bien. Por favor, inténtelo de nuevo.",
     "get_code": "Obtener código",
     "something_went_wrong_deactivate": "Algo salió mal, por favor desactive y vuelva a activar.",
-    "disconect_message": "Are you sure you  want to disconnect this integration?",
+    "disconect_message": "Disconnecting would result in permanent deletion of the workflow. Are you sure you still want to disconnect?",
     "alert_disconnect_integration": "Desconectar <APP NAME>",
     "label_connected": "Conectado",
     "label_disconnected": "Desconectado",

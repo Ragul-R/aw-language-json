@@ -211,6 +211,7 @@
     "attachment": "Adjunto",
     "image": "Imagen",
     "start_a_chat": "Inicie un chat y se mostrará aquí.",
-    "welcome": "Bienvenido"
+    "welcome": "Bienvenido",
+    "lastseen_now" : "Visto por última vez"
   }
 }

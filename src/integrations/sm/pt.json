@@ -124,13 +124,13 @@
       ]
     ],
     "stripe_description": "Colete pagamentos em cartão de crédito e débito facilmente no momento do agendamento",
-    "stripe_cardtitle": "Habilite códigos promocionais e colete pagamentos em cartão no momento do agendamento",
+    "stripe_cardtitle": "Colete pagamentos em cartão de crédito e débito facilmente no momento do agendamento",
     "stripe_long_description": [
-      "Crie um sistema de agendamento e pagamento on-line tudo-em-um com Setmore e Stripe. Clientes podem pagar adiantados para compromissos através da sua Página de Agendamento e você pode aceitar pagamentos em pessoa pelo seu calendário. Aceite códigos promocionais para maior flexibilidade e simplifique a contabilidade sincronizando os detalhes da transação entre suas contas."
+      "Crie um sistema de agendamento e pagamento on-line tudo-em-um com Setmore e Stripe. Clientes podem pagar adiantados para compromissos através da sua Página de Agendamento e você pode aceitar pagamentos em pessoa pelo seu calendário."
     ],
     "stripe_instruction": [
       "Clique no botão ''Conectar'' no lado direito desta janela.",
-      "Faça login com Square e autorize a conexão da Setmomre.",
+      "Faça login com Stripe e autorize a conexão da Setmomre.",
       "Um pop-up lhe informará que suas contas estão conectadas.",
       [
         "Por padrão pagamentos da Página de Agendamento são opcionais. Para tornar pagamentos obrigatórios vá para Configurações>Pagamentos>Pagamentos da Página de Agendamento."
@@ -152,7 +152,7 @@
     "booking widget_st1a2": "No lado da minha página a todo momento",
     "booking widget_st2": "Passo 2: O que acontece quando o botão é clicado?",
     "booking widget_st2a1": "Uma janela de agendamento aparecerá na página do meu site",
-    "booking widget_st2a2": "Uma janela de agendamento aparecerá na página do meu site",
+    "booking widget_st2a2": "Minha Página de Agendamento abrirá em uma nova aba do navegador",
     "booking widget_st3": "Passo 3: Como você vai adicionar o código do botão no seu site?",
     "booking widget_st3a1": "Meu web guru vai adicionar o código",
     "booking widget_st3a2": "Adicionarei o código eu mesmo",
@@ -163,7 +163,7 @@
     "joomla_cardtitle": "Capacite os clientes para agendar diretamente do seu Joomla site.",
     "joomla_long_description": [
       "TNão existe nessecidade de seu público online te ligar ou mandar email para um compromisso. Ao conectar seu site Joomla à sua página de agendamento, você permite que todos os visitantes façam o agendamento imediatamente. Adicione um botão ‘Agendar agora’ ou uma seção de agendamento dedicada a qualquer página do site e capitalize o tráfego durante todo o ano.",
-      
+
       "Nota: Esta integração funciona apenas para sites J3 Joomla."
     ],
     "joomla_instruction": [
@@ -272,7 +272,7 @@
       "Publique suas alterações e seu botão de agendamento estará pronto."
     ],
     "square online_your_code": "Seu código:",
-    "salesforce_description": "Importe novos clientes da Setmore para sua base de dados Salesforce..",
+    "salesforce_description": "Importe novos clientes da Setmore para sua base de dados Salesforce.",
     "salesforce_cardtitle": "Feche mais negócios fornecendo detalhes de clientes para Salesforce.",
     "salesforce_long_description": [
       "Automaticamente crie um contato na Salesforce quando um cliente é adicionado na Setmore. Seus leads e clientes mais novos começam a receber comunicações personalizadas, ajudando a manter seus serviços em mente. Os campos de dados são mapeados de uma plataforma para outra, garantindo a transferência correta dos detalhes de contato e eliminando a necessidade de atualizações manuais."
@@ -291,7 +291,7 @@
     ],
     "insightly_instruction": [
       "Clique no botão ''Conectar'' no lado direito desta janela, depois em ‘Continuar’.",
-      "2. Em um nova aba, entre na sua conta Insightly e vá para Perfil>Configurações do Usuário> Chave API Copie a chave API.",
+      "Em um nova aba, entre na sua conta Insightly e vá para Perfil>Configurações do Usuário> Chave API Copie a chave API.",
       "Cole a chave API na Setmore quando solicitado e clique ‘Continuar’.",
       "Selecione ''Criar ou  Atualizar Contato'' e clique ''Continuar'' uma última vez.",
       "Mapeie os campos de dados (como nome e email) entre Setmore e Inisghtly.",
@@ -341,7 +341,7 @@
     "quickbooks_instruction": [
       "Clique no botão ''Conectar'' no lado direito desta janela.",
       "Entre com seus detalhes de conta QuickBooks.",
-      "Selecione uma lista para receber detalhes de pagamentos da Setmore..",
+      "Selecione uma lista para receber detalhes de pagamentos da Setmore.",
       "Mapeie os campos de dados entre Setmore e QuickBooks então teste a integração."
     ],
     "google calendar_description": "Sincronize detalhes de compromissos da Setmore com o Calendário Google.",
@@ -360,7 +360,7 @@
       "Alinhar seus calendários é necessário para acompanhar suas disponibilidade. Sincronização unidirecional do Google Calendar está disponível para todos e exibe seus compromissos Setmore no Calendário Google. Sincronização bidirecional é uma integração Pro e espelha eventos de e para o Calendário Office 365. Diga adeus ao agendamento duplo com uma visualização centralizada da sua agenda em qualquer dispositivo."
     ],
     "office 365 calendar_instruction": [
-      "Certifique-se que Setmore e 365 Calendar estão com o mesmo fuso-horário..",
+      "Certifique-se que Setmore e 365 Calendar estão com o mesmo fuso-horário.",
       "Para sincronização unidirecional: Navegue até Configurações>Minha Equipe>Calendário e clique em ‘Pegar link’ Abra o Calendário Office 365 e no menu ‘Abrir Calendário’ adicione o URL",
       "Para sincronização bidirecional: Navegue até Configurações>Minha Equipe>Calendário e role até a seção ‘Sincronização Office 365’ Mude o ''Ligado/Desligado'' para ligado."
     ],

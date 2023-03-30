@@ -181,6 +181,10 @@
     "support" : "Apoiando sua marca 24/7.",
     "real_people" : "Somos pessoas reais, não bots",
     "book_expert" : "Agendar com um especialista",
-    "see_hs" : "Veja ajuda e suporte para mais"
+    "see_hs" : "Veja ajuda e suporte para mais",
+    "minutes": "minutos",
+    "minute": "minuto",
+    "minutes_caps": "Minutos",
+    "minute_caps": "Minuto"
   }
 }
