@@ -212,6 +212,7 @@
     "image" : "Image",
     "start_a_chat" : "Start a chat and it’ll display here.",
     "welcome" : "Welcome",
-    "lastseen_now" : "Last seen just now!"
+    "lastseen_now" : "Last seen just now!",
+    "about_a_minutes": "About a minute"
   }
 }

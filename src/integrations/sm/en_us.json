@@ -124,9 +124,9 @@
       ]
     ],
     "stripe_description": "Collect credit and debit card payments easily at the point of booking.",
-    "stripe_cardtitle": "Enable promo codes and collect card payments at the point of booking.",
+    "stripe_cardtitle": "Collect credit and debit card payments easily at the point of booking.",
     "stripe_long_description": [
-      "Create an all-in-one online booking and payment system with Setmore and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar. Accept promo codes for extra flexibility and streamline bookkeeping by syncing transaction details between your accounts."
+      "Create an all-in-one online booking and payment system with Setmore and Stripe. Customers can pay in advance for appointments through your Booking Page, and you can accept payments in-person through your calendar."
     ],
     "stripe_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
