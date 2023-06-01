@@ -190,9 +190,9 @@
     ],
     "shopify_instruction": [
       "Copy the code provided below.",
-      "Log into Shopify and go to Themes > Customize. In the left navigation, open the ‘Custom HTML’ settings.",
-      "Paste your code into the HTML box located in ‘Content’.",
-      "Publish your changes and your booking button is ready."
+      "Log into Shopify and go to Themes > Customize. In the left navigation, choose 'Sections' > 'Add scection' and then the ‘Custom liquid’ option.",
+      "Paste your code into the 'Custom Liquid' box.",
+      "Save your changes and your booking button is ready."
     ],
     "shopify_your_code": "Your code :",
     "squarespace_description": "Empower visitors to book while browsing your Squarespace website.",
@@ -659,6 +659,17 @@
     "hashtag_input_placeholder": "Eg: #entrepreneur, #innovation",
     "gtm_example": "ex: GTM-xxxxxxx",
     "maximum_limit_reached": "A maximum of 10 emails can be fired out from your account every 30 minutes. Please wait a moment and try again.",
+    "failed_to_activate": "Failed to activate",
+    "unable_to_deactivate": "Unable to deactivate",
+    "to_activate_google_reserve": "To activate and benefit from Reserve with Google, your business must meet the following requirements:",
+    "google_reserve_st1": "Step 1: Review your business address",
+    "google_reserve_st2": "Step 2: Review your services",
+    "google_reserve_sta2": "The following services are missing prices, or contain special characters and will be hidden on Reserve with Google until edited.",
+    "edit_services": "Edit services",
+    "google_reserve_st3": "Step 3: Is your business verified by Google?",
+    "google_reserve_sta3": "Verified businesses appear to customers on Google Search and Maps. If your business does, it's probably already verified. Your verified by Google address must match the address listed in Setmore.",
+    "learn_more": "Learn More",
+    "button_save": "Save",
     "mapper": {
       "Services_mapper": "Services",
       "service_cap": "SERVICES",
