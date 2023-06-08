@@ -190,7 +190,7 @@
     ],
     "shopify_instruction": [
       "Copy the code provided below.",
-      "Log into Shopify and go to Themes > Customize. In the left navigation, choose 'Sections' > 'Add scection' and then the ‘Custom liquid’ option.",
+      "Log into Shopify and go to Themes > Customize. In the left navigation, choose 'Sections' > 'Add section' and then the ‘Custom liquid’ option.",
       "Paste your code into the 'Custom Liquid' box.",
       "Save your changes and your booking button is ready."
     ],
@@ -376,21 +376,18 @@
     "google analytics_description": "Track what visitors do when they land on your company’s Booking Page.",
     "google analytics_cardtitle": "Gather visitor and performance insights from your Booking Page.",
     "google analytics_long_description": [
-      "Add a Google Analytics tracking code to your Booking Page and gain crucial visitor insights. With access to in-depth demographic and behavior data, you can tailor marketing to your highest-value audience. Discover how many visitors are booking appointments, the amount of traffic engaging with different services, the platforms visitors were routed from and more."
+      "Add a Google Analytics measurement ID to your Booking Page and gain crucial visitor insights. With access to in-depth demographic and behavior data, you can tailor marketing to your highest-value audience. Discover how many visitors are booking appointments, the amount of traffic engaging with different services, the platforms visitors were routed from and more."
     ],
     "google analytics_instruction": [
-      "Open a new browser tab and log into Google Analytics.",
-      "Click ‘Create property’ and specify a property name, time zone and currency.",
-      "Click ‘Show advanced options’ and switch on ‘Create a universal analytics property’.",
-      "For the website URL, enter your Booking Page URL. Click ‘Create a universal analytics property only’ and ‘Next’.",
-      "Specify the data you’d like to capture and click ‘Create’ to establish your property.",
-      "Copy the tracking ID at the top of the screen.",
-      "Return here and paste the tracking ID in the form field provided.",
+      "Log into your Google Analytics account and follow this support article to get your measurement ID. Copy the ID.",
+      "Return here and paste the ID in the form field below.",
+      "Click ‘Update’. A message will appear confirming that the ID was saved.",
       [
         "After completing these steps, you’ll be able to track Booking Page data in your Google Analytics account. Simply head to Realtime > Events."
       ]
     ],
-    "google analytics_your_tracking_id": "Your tracking ID",
+    "google analytics_your_tracking_id": "Your measurement ID",
+    "ga_example": "G-KQZXX9QM9C",
     "serviceminder_description": "Automatically send customer details to your ServiceMinder account.",
     "serviceminder_cardtitle": "Keep your ServiceMinder list up-to-date with no manual transfers.",
     "serviceminder_long_description": [
@@ -450,10 +447,7 @@
     "answerconnect_long_description": [
       "Never miss a call with help from AnswerConnect. Your business is equipped with live call agents who ensure every customer receives a warm welcome. Not only do agents follow your custom script, they schedule appointments on your behalf. Focus on providing your services while AnswerConnect agents line up new bookings in your Setmore calendar."
     ],
-    "answerconnect_instruction": [
-      "Sign up for an AnswerConnect account.",
-      "Email help@setmore.com and request for your AnswerConnect and Setmore accounts to be linked."
-    ],
+    "answerconnect_instruction": ["Sign up for an AnswerConnect account."],
     "google tag manager_description": "Tailor your online Booking Page by monitoring how visitors engage and navigate.",
     "google tag manager_cardtitle": "Monitor how visitors engage with your custom Booking Page.",
     "google tag manager_long_description": [

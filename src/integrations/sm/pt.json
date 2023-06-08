@@ -374,24 +374,21 @@
       "Busque ''Setmore para Gmail'' e instale o add-on.",
       "O add-on agora estará disponível no painel lateral Para concluir a configuração, clique no complemento e digite seu nome de usuário e senha Setmore."
     ],
-    "google analytics_description": "Rastreie o que visitantes fazem quando eles entram na Página de Agendamento da sua empresa.",
-    "google analytics_cardtitle": "Receba insights de visitantes e performance da sua Página de Agendamento.",
+    "google analytics_description": "Track what visitors do when they land on your company’s Booking Page.",
+    "google analytics_cardtitle": "Gather visitor and performance insights from your Booking Page.",
     "google analytics_long_description": [
-      "AAdicione um código de rastreamento do Google Analytics à sua página de agendamento e obtenha informações cruciais sobre os visitantes. Com acesso a dados demográficos e comportamentais detalhados, você pode adaptar o marketing ao seu público de maior valor. Descubra quantos visitantes estão agendando compromissos, a quantidade de tráfego envolvido com diferentes serviços de onde os visitantes das plataformas foram roteados e muito mais."
+      "Add a Google Analytics measurement ID to your Booking Page and gain crucial visitor insights. With access to in-depth demographic and behavior data, you can tailor marketing to your highest-value audience. Discover how many visitors are booking appointments, the amount of traffic engaging with different services, the platforms visitors were routed from and more."
     ],
     "google analytics_instruction": [
-      "Abra uma nova aba e logue no Google Analytics.",
-      "Clique ‘Criar Propriedade’ e especifique um nome de propriedade, fuso horario e moeda.",
-      "Clique ‘Mostrar opções avançadas’ e ligue ‘Criar uma propriedade universal de analytics’.",
-      "Para o URL do site, insira seu URL da Página de Agendamento Clique ‘Criar apenas uma propriedade universal de analytics’ e ‘Próximo’.",
-      "Especifique os dados que quer capturar e clique ‘Criar’ para estabelecer sua propriedade.",
-      "Copie o ID de rastreio no topo da tela;",
-      "Retorne e cole o ID no campo fornecido.",
+      "Log into your Google Analytics account and follow this support article to get your measurement ID. Copy the ID.",
+      "Return here and paste the ID in the form field below.",
+      "Click ‘Update’. A message will appear confirming that the ID was saved.",
       [
-        "Depois de concluir essas etapas, você poderá rastrear os dados da Página de Agendamento em sua conta do Google Analytics. Basta ir até Tempo Real>Eventos."
+        "After completing these steps, you’ll be able to track Booking Page data in your Google Analytics account. Simply head to Realtime > Events."
       ]
     ],
-    "google analytics_your_tracking_id": "Seu ID de Rastreamento.",
+    "google analytics_your_tracking_id": "Your measurement ID",
+    "ga_example": "G-KQZXX9QM9C",
     "serviceminder_description": "Envie automaticamente detalhes de cliente para sua conta ServiceMinder.",
     "serviceminder_cardtitle": "Mantenha sua lista do Serviceminder atualizada sem transferências manuais.",
     "serviceminder_long_description": [
