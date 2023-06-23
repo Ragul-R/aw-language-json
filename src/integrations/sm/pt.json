@@ -190,10 +190,10 @@
       "Adicione um botão ‘Agendar Agora’ ao seu site Shopify e transforme tráfego em novos clientes. Visitantes podem auto-agendar seus serviços no pico do interesse rápida e facilmente. Quando um compromisso é agendado, os detalhes chegam ao seu calendário e a Setmore envia confirmações por e-mail para você e seu convidado."
     ],
     "shopify_instruction": [
-      "Copie o código abaixo",
-      "Faça login na Shopify e vá para Configurações > Personalizar. Na barra de navegação esquerda abra as configurações ‘HTML personalizado’.",
-      "Cole seu código na caixa HTML localizada em ''Conteúdo''.",
-      "Publique suas altterações e seu botão de agendamento estará pronto."
+      "Copy the code provided below.",
+      "Log into Shopify and go to Themes > Customize. In the left navigation, choose 'Sections' > 'Add section' and then the ‘Custom liquid’ option.",
+      "Paste your code into the 'Custom Liquid' box.",
+      "Save your changes and your booking button is ready."
     ],
     "shopify_your_code": "Seu código :",
     "squarespace_description": "Capacite visitantes a agendar enquanto navegando no seu site Squarespace.",
@@ -380,7 +380,7 @@
       "Add a Google Analytics measurement ID to your Booking Page and gain crucial visitor insights. With access to in-depth demographic and behavior data, you can tailor marketing to your highest-value audience. Discover how many visitors are booking appointments, the amount of traffic engaging with different services, the platforms visitors were routed from and more."
     ],
     "google analytics_instruction": [
-      "Log into your Google Analytics account and follow this support article to get your measurement ID. Copy the ID.",
+      "Log into your Google Analytics account and follow this ~support article <gaSupportUrl>~ to get your measurement ID. Copy the ID.",
       "Return here and paste the ID in the form field below.",
       "Click ‘Update’. A message will appear confirming that the ID was saved.",
       [
@@ -388,7 +388,7 @@
       ]
     ],
     "google analytics_your_tracking_id": "Your measurement ID",
-    "ga_example": "G-KQZXX9QM9C",
+    "ga_example": "ex: G-XXXXXXXXXX",
     "serviceminder_description": "Envie automaticamente detalhes de cliente para sua conta ServiceMinder.",
     "serviceminder_cardtitle": "Mantenha sua lista do Serviceminder atualizada sem transferências manuais.",
     "serviceminder_long_description": [
@@ -448,10 +448,7 @@
     "answerconnect_long_description": [
       "Nunca perca uma chamada com ajuda do AnswerConnect Sua empresa está equipada com agentes de chamada ao vivo que garantem que cada cliente receba uma recepção calorosa. Os agentes não apenas seguem seu script personalizado, mas também agendam compromissos em seu nome. Concentre-se em fornecer seus serviços enquanto os agentes do AnswerConnect alinham novas agendamentos em seu calendário Setmore."
     ],
-    "answerconnect_instruction": [
-      "Cadastre uma conta AnswerConnect.",
-      "Envie um e-mail para help@setmore.com e solicite que suas contas AnswerConnect e Setmore sejam vinculadas."
-    ],
+    "answerconnect_instruction": ["Cadastre uma conta AnswerConnect."],
     "google tag manager_description": "Personalize sua Página de Agendamento on-line monitorando como os visitantes interagem e navegam.",
     "google tag manager_cardtitle": "Monitore como visitantes engajam com sua Página de Agendamento personalizada.",
     "google tag manager_long_description": [
@@ -550,17 +547,18 @@
       "Mapeie os campos de dados (como nome e email) entre Freshsales e Setmore Isso garante que os dados relevantes preencham os campos relevantes.",
       "Teste a integração para completar."
     ],
-    "reserve with google_description": "Seja descoberto, agendado e pago a partir dos resultados de pesquisa do Google.",
-    "reserve with google_cardtitle": "Seja descoberto e agendado nos resultados de pesquisa do Google.",
+    "reserve with google_description": "Get discovered and booked from Google Search and Maps.",
+    "reserve with google_cardtitle": "Get discovered and booked from Google Search and Maps.",
     "reserve with google_long_description": [
-      "Aprimore seu Perfil comercial do Google com um conveniente botão 'Agendar'. Os clientes podem agendar compromissos diretamente dos resultados de pesquisa e do Google Maps. Não há necessidade de ligar para o e-mail ou visitar seu site, ajudando a agilizar o processo de agendamento. Provedores de área local aparecem primeiro nos resultados – certifique-se de que seu perfil comercial se destaque e concorra a esse tráfego."
+      "Enhance your Google Business Profile with a convenient ‘Book’ button that opens your Booking Page. Customers can self-schedule appointments straight from Google search results and Google Maps. There’s no need to call, email or visit to check your availability. Local area providers appear first in results – ensure your Business Profile competes for all that traffic.",
+      "Note: Reserve with Google is available to US businesses only, excluding medical and retail."
     ],
     "reserve with google_instruction": [
-      "Clique no botão ''Conectar'' no lado direito desta janela.",
-      "Confirme seu endereço comercial e se sua empresa foi verificada pelo Google.",
-      "Clique em 'Enviar para o Google' e você será notificado de que o Agendar com o Google está conectado.",
+      "Click the ‘Connect’ button on the right-hand side of this window.",
+      "Confirm your business address and that your business is Google-verified.",
+      "Click ‘Submit to Google’ and you’ll be notified that Reserve with Google is connected.",
       [
-        "Observe que o Agendar com o Google está disponível para tipos de negócios específicos baseados nos EUA. Depois de conectar suas contas, normalmente leva até 72 horas para que as alterações sejam refletidas em seu perfil comercial do Google."
+        "After connecting your accounts, it typically takes 1-3 days for changes to reflect in your Google Business Profile."
       ]
     ],
     "intercom_description": "Converse e receba agendamentos diretamente do Messenger e da caixa de entrada.",

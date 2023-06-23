@@ -1,6 +1,6 @@
 {
   "connect": {
-    "search_or_start_a_conversation": "Search or Start a conversation",
+    "search_or_start_a_conversation": "Search or start a conversation",
     "new_sms": "New SMS",
     "create_new_collab": "Create New Collab",
     "suggestions": "Suggestions",
@@ -87,7 +87,7 @@
     "custom": "Custom",
     "end_time": "End Time",
     "return_date": "Return Date",
-    "days": "Days",
+    "days": "days",
     "day": "Day",
     "week": "Week",
     "i_available": "I'm available",

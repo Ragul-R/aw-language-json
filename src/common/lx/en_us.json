@@ -130,7 +130,7 @@
     "fr": "F",
     "sa": "S",
     "su": "S",
-    "full_name": "Full Name",
+    "full_name": "Full name",
     "select": "Select",
     "hours": "hours",
     "hour": "hour",
@@ -270,7 +270,7 @@
     ]
   },
   "months": "Months",
-  "days": "Days",
+  "days": "days",
   "minutes": "minutes",
   "minute": "minute",
   "minutes_cap": "Minutes",

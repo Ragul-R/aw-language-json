@@ -130,7 +130,7 @@
     "fr": "F",
     "sa": "S",
     "su": "S",
-    "full_name": "Full Name",
+    "full_name": "Full name",
     "select": "Select",
     "hours": "hours",
     "hour": "hour",
@@ -245,7 +245,7 @@
     ]
   },
   "months" : "Months",
-  "days" : "Days",
+  "days" : "days",
   "support" : "Supporting your brand 24/7.",
   "real_people" : "We’re real people, not bots ",
   "book_expert" : "Book with an expert",

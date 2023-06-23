@@ -9,6 +9,7 @@
     "link": "Link",
     "qr_code": "QR code",
     "book_new_appt": "‘Book new appointment’ button",
+    "appt_date_and_time": "Appoinment date and time",
     "teammember": "Team member",
     "enable_book_again": "Enable customers to book again directly from their email notifications.",
     "trynew_book_exp": "Try a new booking experience",
