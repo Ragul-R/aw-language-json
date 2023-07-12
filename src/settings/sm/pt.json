@@ -847,6 +847,10 @@
     "outstanding_balance": "Saldo pendente",
     "users": "Usuários",
     "custom_bookingpage": "Sua Página de agendamento personalizada",
-    "full_name": "Nome completo"
+    "full_name": "Nome completo",
+    "setmores_branding": "Remover marca da Setmore",
+    "learn_more": "Saber mais",
+    "failed": "fracassado",
+    "change_language_message": "A língua padrão do app mudará de $ para $"
   }
 }
