@@ -447,7 +447,9 @@
     "answerconnect_long_description": [
       "Never miss a call with help from AnswerConnect. Your business is equipped with live call agents who ensure every customer receives a warm welcome. Not only do agents follow your custom script, they schedule appointments on your behalf. Focus on providing your services while AnswerConnect agents line up new bookings in your Setmore calendar."
     ],
-    "answerconnect_instruction": ["Sign up for an AnswerConnect account."],
+    "answerconnect_instruction": [
+      "Sign up for an AnswerConnect account."
+    ],
     "google tag manager_description": "Tailor your online Booking Page by monitoring how visitors engage and navigate.",
     "google tag manager_cardtitle": "Monitor how visitors engage with your custom Booking Page.",
     "google tag manager_long_description": [
@@ -546,20 +548,34 @@
       "Map the data fields (e.g. name, email address) between Setmore and Freshsales. This ensures the correct data populates the relevant fields.",
       "Test the integration to complete."
     ],
-    "reserve with google_description": "Get discovered and booked from Google Search and Maps.",
-    "reserve with google_cardtitle": "Get discovered and booked from Google Search and Maps.",
+    "reserve with google_description": "Get discovered, booked and paid from Google search results.",
+    "reserve with google_cardtitle": "Get discovered and booked from Google search results.",
     "reserve with google_long_description": [
-      "Enhance your Google Business Profile with a convenient ‘Book’ button that opens your Booking Page. Customers can self-schedule appointments straight from Google search results and Google Maps. There’s no need to call, email or visit to check your availability. Local area providers appear first in results – ensure your Business Profile competes for all that traffic.",
-      "Note: Reserve with Google is available to US businesses only, excluding medical and retail."
+      "Enhance your Google Business Profile with a convenient ‘Book’ button. Customers can self-schedule appointments straight from search results and Google Maps. There’s no need to call, email or visit your website, helping to streamline the booking process. Local area providers appear first in results – ensure your Business Profile that stands out and compete for that traffic."
     ],
     "reserve with google_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Confirm your business address and that your business is Google-verified.",
       "Click ‘Submit to Google’ and you’ll be notified that Reserve with Google is connected.",
       [
-        "After connecting your accounts, it typically takes 1-3 days for changes to reflect in your Google Business Profile."
+        "Please note that Reserve with Google is available to specific business types based in the US. After connecting your accounts, it typically takes up to 72 hours for changes to reflect in your Google Business Profile."
       ]
     ],
+    "to_activate_google_reserve":"To activate and benefit from Reserve with Google, your business must meet the following requirements:",
+    "google_reserve_st1": "Step 1: Business address",
+    "google_reserve_street_st1": "Street address is required",
+"google_reserve_city_st1": "City is required",
+"google_reserve_State_st1": "State is required",
+"google_reserve_zip_st1": "Zip code is required",
+    "google_reserve_st2": "Step 2: Services",
+    "google_reserve_all_invalid_sta2": "Before submitting to Google, you'll need to remove special characters from the following service names.",
+    "google_reserve_below_all_invalid_sta2": "Please remove special characters to continue submitting to Google.",
+    "google_reserve_sta2": "If any services require editing, they'll display below.",
+    "google_reserve_below_invalid_sta2": "Services with special characters in names cannot be submitted to Google",
+    "edit_services": "Edit service names",
+    "google_reserve_st3": "Step 3: Is your business verified by Google?",
+    "google_reserve_sta3": "Verified businesses appear to customers on Google Search and Maps. If your business does, it's probably already verified. Your verified by Google address must match the address listed in Setmore.",
+    "learn_more": "Learn More",
     "intercom_description": "Chat and take bookings, straight from Messenger and Inbox.",
     "intercom_cardtitle": "Chat and take bookings, straight from Messenger and Inbox.",
     "intercom_long_description": [
@@ -656,15 +672,10 @@
     "maximum_limit_reached": "A maximum of 10 emails can be fired out from your account every 30 minutes. Please wait a moment and try again.",
     "failed_to_activate": "Failed to activate",
     "unable_to_deactivate": "Unable to deactivate",
-    "to_activate_google_reserve": "To activate and benefit from Reserve with Google, your business must meet the following requirements:",
-    "google_reserve_st1": "Step 1: Review your business address",
-    "google_reserve_st2": "Step 2: Review your services",
-    "google_reserve_sta2": "The following services are missing prices, or contain special characters and will be hidden on Reserve with Google until edited.",
-    "edit_services": "Edit services",
-    "google_reserve_st3": "Step 3: Is your business verified by Google?",
-    "google_reserve_sta3": "Verified businesses appear to customers on Google Search and Maps. If your business does, it's probably already verified. Your verified by Google address must match the address listed in Setmore.",
-    "learn_more": "Learn More",
     "button_save": "Save",
+    "button_submit_to_google": "Submit to Google",
+    "incorrect_id": "Enter valid ID",
+    "already_integrated": "Account already integrated with same ID",
     "mapper": {
       "Services_mapper": "Services",
       "service_cap": "SERVICES",

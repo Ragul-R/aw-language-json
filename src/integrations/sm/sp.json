@@ -190,10 +190,10 @@
       "Añada un botón 'Reservar ahora' a su página de Shopify y convierta el tráfico en nuevos clientes. Los visitantes pueden autoprogramar sus servicios en el clímax de su interés de forma rápida y fácil. Cuando se reserva una cita, los detalles aparecen en su calendario y Setmore envía confirmaciones por correo electrónico su invitado y a usted."
     ],
     "shopify_instruction": [
-      "Copy the code provided below.",
-      "Log into Shopify and go to Themes > Customize. In the left navigation, choose 'Sections' > 'Add section' and then the ‘Custom liquid’ option.",
+      "Copie el código proporcionado a continuación.",
+      "Inicie sesión en Shopify y vaya a Temas > Personalizar. En la navegación de la izquierda, elija 'Secciones' > 'Añadir sección' y luego la opción â€~Liquid personalizadoâ€™.",
       "Paste your code into the 'Custom Liquid' box.",
-      "Save your changes and your booking button is ready."
+      "Guarde los cambios y su botón de reserva estará listo."
     ],
     "shopify_your_code": "Su código :",
     "squarespace_description": "Anime a los visitantes a reservar mientras navegan por su sitio web de Squarespace.",
@@ -374,20 +374,20 @@
       "Busque 'Setmore para Gmail' e instale el complemento.",
       "El complemento ahora estará disponible en el panel lateral. Para finalizar la configuración haga clic en el complemento e introduzca su nombre de usuario y contraseña de Setmore."
     ],
-    "google analytics_description": "Track what visitors do when they land on your company’s Booking Page.",
-    "google analytics_cardtitle": "Gather visitor and performance insights from your Booking Page.",
+    "google analytics_description": "Haga un seguimiento de lo que hacen los visitantes cuando acceden a la página de reservas de su empresa.",
+    "google analytics_cardtitle": "Obtenga información sobre los visitantes y el rendimiento de su página de reservas.",
     "google analytics_long_description": [
-      "Add a Google Analytics measurement ID to your Booking Page and gain crucial visitor insights. With access to in-depth demographic and behavior data, you can tailor marketing to your highest-value audience. Discover how many visitors are booking appointments, the amount of traffic engaging with different services, the platforms visitors were routed from and more."
+      "Añada un ID de medición de Google Analytics a su página de reservas y obtenga información crucial sobre los visitantes. Con acceso a datos demográficos y de comportamiento detallados, puede adaptar el marketing a su público de mayor valor. Descubra cuántos visitantes reservan citas, la cantidad de tráfico que utiliza los distintos servicios, las plataformas desde las que se dirigen los visitantes y mucho más."
     ],
     "google analytics_instruction": [
-      "Log into your Google Analytics account and follow this ~support article <gaSupportUrl>~ to get your measurement ID. Copy the ID.",
-      "Return here and paste the ID in the form field below.",
-      "Click ‘Update’. A message will appear confirming that the ID was saved.",
+      "Acceda a su cuenta de Google Analytics y siga este ~artículo de soporte <gaSupportUrl>~ para obtener su ID de medición. Copie el ID.",
+      "Vuelva aquí y pegue el ID en el campo del formulario que aparece a continuación.",
+      "Haga clic en â€~Actualizarâ€™. Aparecerá un mensaje confirmando que se ha guardado el ID.",
       [
-        "After completing these steps, you’ll be able to track Booking Page data in your Google Analytics account. Simply head to Realtime > Events."
+        "Después de completar estos pasos, usted será capaz de realizar un seguimiento de los datos de la página de reservas en su cuenta de Google Analytics. Simplemente vaya a Tiempo real > Eventos."
       ]
     ],
-    "google analytics_your_tracking_id": "Your measurement ID",
+    "google analytics_your_tracking_id": "Su ID de medición",
     "ga_example": "ex: G-XXXXXXXXXX",
     "serviceminder_description": "Envíe automáticamente datos de clientes a su cuenta de ServiceMinder.",
     "serviceminder_cardtitle": "Mantenga actualizada su lista de ServiceMinder sin transferencias manuales.",
@@ -550,20 +550,34 @@
       "Mapee los campos de datos (por ejemplo, dirección de correo electrónico y nombre) entre Setmore y Freshsales. Esto garantiza que los datos correctos establezcan los campos relevantes.",
       "Pruebe la integración para completar."
     ],
-    "reserve with google_description": "Get discovered and booked from Google Search and Maps.",
-    "reserve with google_cardtitle": "Get discovered and booked from Google Search and Maps.",
+    "reserve with google_description": "Get discovered, booked and paid from Google search results.",
+    "reserve with google_cardtitle": "Get discovered and booked from Google search results.",
     "reserve with google_long_description": [
-      "Enhance your Google Business Profile with a convenient ‘Book’ button that opens your Booking Page. Customers can self-schedule appointments straight from Google search results and Google Maps. There’s no need to call, email or visit to check your availability. Local area providers appear first in results – ensure your Business Profile competes for all that traffic.",
-      "Note: Reserve with Google is available to US businesses only, excluding medical and retail."
+      "Enhance your Google Business Profile with a convenient ‘Book’ button. Customers can self-schedule appointments straight from search results and Google Maps. There’s no need to call, email or visit your website, helping to streamline the booking process. Local area providers appear first in results – ensure your Business Profile that stands out and compete for that traffic."
     ],
     "reserve with google_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Confirm your business address and that your business is Google-verified.",
       "Click ‘Submit to Google’ and you’ll be notified that Reserve with Google is connected.",
       [
-        "After connecting your accounts, it typically takes 1-3 days for changes to reflect in your Google Business Profile."
+        "Please note that Reserve with Google is available to specific business types based in the US. After connecting your accounts, it typically takes up to 72 hours for changes to reflect in your Google Business Profile."
       ]
     ],
+    "to_activate_google_reserve": "To activate and benefit from Reserve with Google, your business must meet the following requirements:",
+    "google_reserve_st1": "Step 1: Business address",
+    "google_reserve_street_st1": "Street address is required",
+    "google_reserve_city_st1": "City is required",
+    "google_reserve_State_st1": "State is required",
+    "google_reserve_zip_st1": "Zip code is required",
+    "google_reserve_st2": "Step 2: Services",
+    "google_reserve_all_invalid_sta2": "Before submitting to Google, you'll need to remove special characters from the following service names.",
+    "google_reserve_below_all_invalid_sta2": "Please remove special characters to continue submitting to Google.",
+    "google_reserve_sta2": "If any services require editing, they'll display below.",
+    "google_reserve_below_invalid_sta2": "Services with special characters in names cannot be submitted to Google",
+    "edit_services": "Edit service names",
+    "google_reserve_st3": "Step 3: Is your business verified by Google?",
+    "google_reserve_sta3": "Verified businesses appear to customers on Google Search and Maps. If your business does, it's probably already verified. Your verified by Google address must match the address listed in Setmore.",
+    "learn_more": "Learn More",
     "intercom_description": "Chatea y toma reservaciones, directamente desde Messenger e Inbox.",
     "intercom_cardtitle": "Chatea y toma reservaciones, directamente desde Messenger e Inbox.",
     "intercom_long_description": [
@@ -659,17 +673,12 @@
     "hashtag_input_placeholder": "Por ejemplo:  #entrepreneurs, #innovation",
     "gtm_example": "ex: GTM-xxxxxxx",
     "maximum_limit_reached": "Se puede enviar un máximo de 10 correos electrónicos desde tu cuenta cada 30 minutos. Espera un momento y vuelve a intentarlo.",
-    "failed_to_activate": "Failed to activate",
-    "unable_to_deactivate": "Unable to deactivate",
-    "to_activate_google_reserve": "Para activar y beneficiarse de Reserva con Google, su negocio debe cumplir con los siguientes requisitos:",
-    "google_reserve_st1": "Paso 1: Revisa la dirección de tu empresa",
-    "google_reserve_st2": "Paso 2: Revisa tus servicios",
-    "google_reserve_sta2": "A los siguientes servicios les faltan precios, o contienen caracteres especiales y se ocultarán en Reserva con Google hasta que se editen.",
-    "edit_services": "Editar servicios",
-    "google_reserve_st3": "Paso 3: ¿Su negocio está verificado por Google?",
-    "google_reserve_sta3": "Los negocios verificados aparecen a los clientes en Google Search y Maps. Si su negocio aparece, probablemente ya esté verificado. Su dirección verificada por Google debe coincidir con la dirección que aparece en Setmore.",
-    "learn_more": "Aprender más",
+    "failed_to_activate": "Error de activación",
+    "unable_to_deactivate": "No se puede desactivar",
     "button_save": "Guardar",
+    "button_submit_to_google": "Submit to Google",
+    "incorrect_id": "Introduzca un ID válido",
+    "already_integrated": "ACuenta ya integrada con el mismo ID",
     "mapper": {
       "Services_mapper": "Servicios",
       "service_cap": "SERVICIOS",

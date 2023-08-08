@@ -209,6 +209,7 @@
     "minutes": "minutos",
     "minute": "minuto",
     "minutes_caps": "Minutos",
-    "minute_caps": "Minuto"
+    "minute_caps": "Minuto",
+    "duplicate": "Duplicado"
   }
 }
