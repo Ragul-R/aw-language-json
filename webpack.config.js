@@ -2,7 +2,7 @@ const path = require("path");
 const MergeJsonWebpackPlugin = require("merge-jsons-webpack-plugin");
 
 const patterns = [];
-['ac', 'af', 'hs', 'lx', 'wr', 'sm', 'sg', 'inch', 'sf', 'aw'].map((b) => {
+['ac', 'af', 'hs', 'lx', 'wr', 'sm', 'sg', 'inch', 'sf', 'aw', 'lp'].map((b) => {
   patterns.push(
     {
       pattern: `./src/**/${b}/en_us.json`,
