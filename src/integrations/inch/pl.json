@@ -1,0 +1,686 @@
+{
+  "integrations": {
+    "setmore_banner_title": "Podłącz swoje ulubione aplikacje",
+    "setmore_banner_description": "Popraw obsługę klienta, łącząc Setmore z platformami marketingowymi, wideo, płatniczymi i CRM.",
+    "google meet_description": "Zapewniaj krystalicznie czyste spotkania wideo za pośrednictwem Google Meet.",
+    "google meet_cardtitle": "Zapewniaj krystalicznie czyste spotkania wideo dzięki Google Meet.",
+    "google meet_long_description": [
+      "Dotrzyj do większej liczby klientów, szybko i wygodnie, dzięki integracji z Google Meet. Możesz świadczyć swoje usługi wirtualnie i otworzyć swoją firmę na globalną publiczność. Gdy usługa wideo jest zarezerwowana, zarówno usługodawca, jak i klient otrzymują link Google Meet w swoich potwierdzeniach e-mail."
+    ],
+    "google meet_instruction": [
+      " Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Aby włączyć spotkania wideo dla określonych członków zespołu, wybierz opcję 'Mój zespół'.",
+      "W każdym profilu zespołu wybierz zakładkę \"Kalendarz\". Obok opcji Kalendarza Google kliknij 'Połącz'.",
+      "Przejdź do Ustawienia > Usługi i określ usługi, które mają być udostępniane za pośrednictwem wideo"
+    ],
+    "zoom_description": "Umożliw swojemu zespołowi dodawanie linków wideo Zoom do spotkań i sesji grupowych.",
+    "zoom_cardtitle": "Dodawanie linków wideo Zoom do spotkań i sesji grupowych.",
+    "zoom_long_description": [
+      "Spotkaj się z klientami z całego świata bez konieczności podróżowania. Integracja Zoom umożliwia wybór usług do zaoferowania za pośrednictwem wideo. Po dokonaniu rezerwacji Setmore automatycznie dołącza link Zoom do potwierdzeń e-mail dostawcy i gości. Wystarczy jedno kliknięcie, aby dołączyć do prezentacji produktu, spotkania zespołu lub webinaru."
+    ],
+    "zoom_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Wprowadź dane swojego konta Zoom i pozwól Setmore się połączyć.",
+      "Określ usługi i zajęcia, które mają być udostępniane za pośrednictwem wideo. Linki Zoom zostaną utworzone w tle."
+    ],
+    "teleport_description": "Oferuj spotkania wideo jednym kliknięciem bez konieczności pobierania plików.",
+    "teleport_cardtitle": "Oferuj spotkania wideo jednym kliknięciem bez konieczności pobierania plików.",
+    "teleport_long_description": [
+      "Organizuj wirtualne spotkania przez Teleport i łącz się z członkami zespołu i klientami na całym świecie. Możesz rozmawiać twarzą w twarz za pomocą kliknięcia linku, zmniejszając potrzebę podróży. Po zarezerwowaniu usługi obsługującej Teleport, Setmore automatycznie generuje link do spotkania i dodaje go do potwierdzeń e-mail pracowników i gości."
+    ],
+    "teleport_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Kliknij przycisk 'Zarządzaj integracją' i wybierz usługi i zajęcia, które mają być udostępniane za pośrednictwem wideo.",
+      "Kliknij 'Zapisz', a dla odpowiednich rezerwacji zostanie wygenerowany link do spotkania Teleport."
+    ],
+    "facebook_description": "Przenieś odwiedzających od polubienia i udostępnienia do rezerwacji spotkań online.",
+    "facebook_cardtitle": "Przenieś odwiedzających od polubienia i udostępnienia do planowania spotkań online.",
+    "facebook_long_description": [
+      "Umożliw swoim odbiorcom planowanie spotkań za pośrednictwem Facebooka. Wyświetlając przycisk 'Zarezerwuj teraz' na swojej stronie i w reklamach, tworzysz zupełnie nowe kanały konwersji. Co więcej, klienci mogą również odwrócić swój czas za pośrednictwem Messengera. Nie muszą opuszczać swojej aplikacji społecznościowej, a każda rezerwacja ląduje w Twoim kalendarzu."
+    ],
+    "facebook_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się za pomocą danych swojego konta na Facebooku i pozwól Setmore połączyć się z.",
+      "Wybierz Menedżera biznesowego i stronę biznesową.",
+      "Potwierdź ustawienia i przycisk 'Zarezerwuj teraz' jest gotowy"
+    ],
+    "instagram bookings_description": "Przyjmuj spotkania w dzień i w nocy ze swojej strony biznesowej na Instagramie i reklam.",
+    "instagram bookings_cardtitle": "Akceptuj spotkania ze swojej strony biznesowej na Instagramie i reklam.",
+    "instagram bookings_long_description": [
+      "Spraw, by Twoja strona i reklamy na Instagramie działały wydajniej dzięki przyciskowi 'Zarezerwuj teraz'. Twoje treści umożliwiają widzom natychmiastowe planowanie spotkań. Nie muszą nawet opuszczać aplikacji Instagram. Nowe rezerwacje pojawiają się w kalendarzu Setmore w czasie rzeczywistym, a Ty i Twoi goście otrzymujecie natychmiastowe potwierdzenia."
+    ],
+    "instagram bookings_instruction": [
+      "Otwórz aplikację mobilną Instagram, przejdź do swojej strony i kliknij 'Edytuj profil'.",
+      "W sekcji 'Publiczne informacje biznesowe' wybierz 'Przyciski akcji'.",
+      "Wybierz opcję 'Zarezerwuj teraz' i wybierz Setmore z listy partnerów.",
+      "Zaloguj się do Setmore i kliknij 'Kontynuuj jako [your Instagram profile name]'.",
+      "W sekcji 'Potwierdź Swoją Firmę' dotknij 'Dalej', a przycisk 'Zarezerwuj Teraz' zostanie włączony.",
+      [
+        "Możesz także połączyć tę integrację w Internecie za pomocą swojego konta na Facebooku."
+      ]
+    ],
+    "instagram streaming_description": "Podkreśl jakość swoich usług, umieszczając posty na Instagramie na swojej Stronie Rezerwacji.",
+    "instagram streaming_cardtitle": "Wyróżnij swoją markę, umieszczając posty na Instagramie na swojej Stronie Rezerwacji.",
+    "instagram streaming_long_description": [
+      "Spersonalizuj swoją Stronę Rezerwacji za pomocą strumienia Instagram, który prezentuje Twoje usługi w akcji, udogodnienia, osiągnięcia zespołu i nie tylko. Wszystko, co musisz zrobić, to określić hashtag, a Twoja Strona Rezerwacji przyciągnie wszystkie nowe posty, które go używają. Oferując pełniejszy obraz swojej marki, możesz zachęcić więcej potencjalnych klientów do umówienia się na pierwsze spotkanie."
+    ],
+    "instagram streaming_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się za pomocą danych swojego konta na Instagramie i pozwól Setmore połączyć się z.",
+      "Wróć tutaj i określ jeden lub więcej hashtagów poniżej. Oznaczone posty będą wyświetlane w zakładce 'Zdjęcia' na Stronie Rezerwacji."
+    ],
+    "paypal_description": "Akceptuj płatności zbliżeniowe za pośrednictwem PayPal, kart kredytowych i debetowych i nie tylko.",
+    "paypal_cardtitle": "Akceptuj płatności zbliżeniowe za pośrednictwem PayPal, kart kredytowych i debetowych i nie tylko.",
+    "paypal_long_description": [
+      "Zaoferuj swoim klientom dodatkowe opcje płatności, łącząc Setmore z PayPal. Podczas nawigacji po Stronie Rezerwacji mogą oni dokonać przedpłaty za usługi za pomocą karty lub portfela cyfrowego PayPal. Szczegóły transakcji są odzwierciedlane z jednego konta na drugie w czasie rzeczywistym, co ułatwia śledzenie dochodów."
+    ],
+    "paypal_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się za pomocą PayPal i autoryzuj Setmore do połączenia.",
+      "Wyskakujące okienko poinformuje, że integracja jest połączona.",
+      [
+        "Domyślnie płatności Strony Rezerwacji są opcjonalne. Aby płatności były obowiązkowe, przejdź do Ustawienia > Płatności > płatności Strony Rezerwacji."
+      ]
+    ],
+    "cash_description": "Rozliczaj transakcje gotówkowe w różnych lokalizacjach i podczas podróży.",
+    "cash_cardtitle": "Rozliczanie transakcji gotówkowych w różnych lokalizacjach i w podróży.",
+    "cash_long_description": [
+      "Rejestruj płatności gotówkowe i twórz drukowane lub cyfrowe paragony dla swoich klientów. Po otwarciu kalendarza w celu utworzenia nowego spotkania można potwierdzić dokonanie płatności gotówkowej. Szczegóły transakcji są przechowywane w celu łatwego odniesienia i mogą być synchronizowane z aplikacją księgową."
+    ],
+    "cash_instruction": [
+      "Kliknij przycisk \"Połącz\" po prawej stronie tego okna.",
+      "Aby zarejestrować płatność gotówką, otwórz kalendarz i wybierz spotkanie.",
+      "Zobaczysz przycisk \"Nowa płatność\". Kliknij go i zarejestruj transakcję.",
+      [
+        "Aby przejrzeć poprzednie płatności, przejdź do Ustawienia > Płatności > Historia Płatności. Kasa może być używana w połączeniu z innymi integracjami płatności."
+      ]
+    ],
+    "square_description": "Otrzymuj zapłatę za swoje usługi za pośrednictwem Square, CashApp, Apple Pay lub Google Pay.",
+    "square_cardtitle": "Otrzymuj zapłatę za swoje usługi za pośrednictwem Square, CashApp, Apple Pay lub Google Pay.",
+    "square_long_description": [
+      "Uprość przyjmowanie płatności za swoje usługi dzięki integracji z Square. Możesz przetwarzać transakcje osobiste za pomocą kalendarza i aplikacji mobilnej, z dowolnego miejsca, w którym prowadzisz działalność. Ponadto klienci mogą rezerwować i przedpłacać spotkania online za pomocą Strony Rezerwacji."
+    ],
+    "square_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się za pomocą Square i autoryzuj Setmore do połączenia.",
+      "Wybierz lokalizację biznesową.",
+      "Wyskakujące okienko poinformuje, że konta są połączone.",
+      [
+        "Domyślnie płatności Strony Rezerwacji są opcjonalne. Aby płatności były obowiązkowe, przejdź do Ustawienia > Płatności > Płatności Strony Rezerwacji."
+      ]
+    ],
+    "lawpay_description": "Umożliwiaj potencjalnym klientom i klientom Twojej firmy płacenie przed konsultacjami.",
+    "lawpay_cardtitle": "Umożliwiaj potencjalnym klientom płacenie z góry za pośrednictwem Strony Rezerwacji.",
+    "lawpay_long_description": [
+      "Pozwól swoim odbiorcom na płacenie przed konsultacjami dzięki LawPay. Bramka płatności jest dodawana do Strony Rezerwacji, umożliwiając odwiedzającym zaplanowanie i bezpieczną płatność kartą kredytową lub debetową. Ta wygoda nie tylko pomaga konwertować więcej potencjalnych klientów, ale także znacznie skraca czas poświęcany na fakturowanie.",
+      "Note: Obecnie integracja ta jest dostępna tylko dla użytkowników z USA."
+    ],
+    "lawpay_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się za pomocą nazwy użytkownika i hasła LawPay.",
+      "Wyskakujące okienko poinformuje, że integracja jest połączona.",
+      [
+        "Domyślnie płatności Strony Rezerwacji są opcjonalne. Aby płatności były obowiązkowe, przejdź do Ustawienia > Płatności > Płatności Strony Rezerwacji."
+      ]
+    ],
+    "stripe_description": "Łatwe pobieranie płatności kartą kredytową i debetową w punkcie rezerwacji.",
+    "stripe_cardtitle": "Łatwe pobieranie płatności kartą kredytową i debetową w punkcie rezerwacji.",
+    "stripe_long_description": [
+      "Stwórz kompleksowy system rezerwacji i płatności online z Setmore i Stripe. Klienci mogą płacić z góry za spotkania za pośrednictwem strony rezerwacji, a Ty możesz przyjmować płatności osobiście za pośrednictwem kalendarza."
+    ],
+    "stripe_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się za pomocą Stripe i autoryzować Setmore do połączenia.",
+      "Wyskakujące okienko poinformuje, że konta są połączone.",
+      [
+        "Domyślnie płatności Strony Rezerwacji są opcjonalne. Aby płatności były obowiązkowe, przejdź do Ustawienia > Płatności > Płatności Strony Rezerwacji."
+      ]
+    ],
+    "stripe_preferences": [
+      "Promo codes",
+      "Umożliw klientom korzystanie z kodów promocyjnych wygenerowanych za pośrednictwem konta Stripe na Stronie Rezerwacji."
+    ],
+    "stripe_coupon_activate": "Kod promocyjny włączony",
+    "stripe_coupon_deactivate": "Kod promocyjny wyłączony",
+    "booking widget_description": "Wyświetlaj wygodny przycisk \"Zarezerwuj teraz\", który otwiera Stronę Rezerwacji.",
+    "booking widget_cardtitle": "Umożliwiaj klientom rezerwowanie spotkań za pośrednictwem swojej strony internetowej.",
+    "booking widget_long_description": [
+      "Dodaj przycisk 'Zarezerwuj Teraz' do dowolnej strony internetowej w zaledwie kilku krokach. Gdy odwiedzający klikną przycisk, Strona Rezerwacji otworzy się natychmiast. Możesz wybrać pomiędzy statycznym przyciskiem, który wyświetla się w jednej części strony, a przyciskiem wrapper, który pozostaje widoczny podczas przewijania. Umieść dowolną liczbę przycisków i korzystaj z wizyt nowych klientów."
+    ],
+    "booking widget_st1": "Krok 1: Gdzie będzie wyświetlany przycisk 'Zarezerwuj Teraz'?",
+    "booking widget_st1a1": "W określonej części mojej strony internetowej",
+    "booking widget_st1a2": "Z boku mojej strony internetowej przez cały czas",
+    "booking widget_st2": "Krok 2: Co się stanie po kliknięciu tego przycisku?",
+    "booking widget_st2a1": "Okno rezerwacji pojawi się na stronie mojej witryny",
+    "booking widget_st2a2": "Moja Strona Rezerwacji otworzy się w nowej karcie przeglądarki",
+    "booking widget_st3": "Krok 3: Jak dodać kod przycisku do witryny?",
+    "booking widget_st3a1": "Mój internetowy guru doda kod",
+    "booking widget_st3a2": "Samodzielnie dodam kod",
+    "booking widget_st4_1": "Krok 4 - Gdzie chcesz otrzymać kod?",
+    "booking widget_st4_2": "Skopiuj poniższy kod i wklej go na swojej stronie:",
+    "booking widget_your_code": "Twój kod :",
+    "joomla_description": "Umieść konfigurowalny przycisk 'Zarezerwuj Teraz' na dowolnej stronie swojej witryny Joomla.",
+    "joomla_cardtitle": "Umożliwiaj klientom rezerwowanie spotkań za pośrednictwem witryny Joomla.",
+    "joomla_long_description": [
+      "Nie ma potrzeby, aby Twoi odbiorcy online dzwonili lub wysyłali e-maile w celu umówienia się na spotkanie. Łącząc swoją witrynę Joomla ze Stroną Rezerwacji, umożliwiasz każdemu odwiedzającemu natychmiastowe samodzielne zaplanowanie wizyty. Dodaj przycisk \"Zarezerwuj Teraz\" lub dedykowaną sekcję rezerwacji do dowolnej strony witryny i wykorzystaj całoroczny ruch.",
+      "Note: Ta integracja działa tylko dla witryn J3 Joomla."
+    ],
+    "joomla_instruction": [
+      "Kliknij przycisk 'Pobierz' po prawej stronie tego okna.",
+      "Skopiuj klucz Setmore poniżej.",
+      "Zaloguj się na swoje konto Joomla, aby zakończyć integrację."
+    ],
+    "joomla_your_setmore_key": "Twój klucz Setmore :",
+    "jimdo_description": "Wzbogać swoją firmową stronę internetową Jimdo o konfigurowalny przycisk 'Zarezerwuj Teraz'.",
+    "jimdo_cardtitle": "Wzbogać swoją witrynę Jimdo o konfigurowalny przycisk 'Zarezerwuj Teraz'.",
+    "jimdo_long_description": [
+      "Twoja witryna Jimdo mówi światu, dlaczego Twoja firma jest wyjątkowa. To wizytówka Twoich usług, wiedzy Twojego zespołu, opinii klientów i nie tylko. Wzbogać dowolną stronę o przycisk 'Zarezerwuj teraz', aby zapewnić odwiedzającym możliwość planowania spotkań 24/7. Po kliknięciu przycisku pojawi się Strona Rezerwacji, która udostępni informacje o dostępności w czasie rzeczywistym."
+    ],
+    "jimdo_instruction": [
+      "Skopiuj poniższy kod.",
+      "W Edytorze Jimdo otwórz menu 'Elementy' i wybierz 'Dodaj Widżet/Element HTML'.",
+      "Umieść ten element w miejscu, w którym ma pojawić się przycisk 'Zarezerwuj teraz'.",
+      "Wklej kod i kliknij 'Zapisz', aby zakończyć."
+    ],
+    "jimdo_your_code": "Twój kod :",
+    "shopify_description": "Przekształć więcej potencjalnych klientów w klientów dzięki opcjom rezerwacji dla swojej witryny Shopify.",
+    "shopify_cardtitle": "Konwertuj więcej potencjalnych klientów dzięki opcjom rezerwacji dla swojej witryny Shopify.",
+    "shopify_long_description": [
+      "Dodaj przycisk 'Zarezerwuj Teraz' do swojej witryny Shopify i zamień ruch w nowych klientów. Odwiedzający mogą samodzielnie zaplanować swoje usługi w momencie największego zainteresowania, szybko i łatwo. Po zarezerwowaniu spotkania szczegóły trafiają do kalendarza, a Setmore wysyła potwierdzenia e-mailem zarówno do Ciebie, jak i Twojego gościa."
+    ],
+    "shopify_instruction": [
+      "Skopiuj poniższy kod.",
+      true,
+      "Wklej swój kod w polu 'Custom Liquid'.",
+      "Zapisz zmiany i przycisk rezerwacji jest gotowy."
+    ],
+    "shopify_your_code": "Twój kod :",
+    "squarespace_description": "Umożliw odwiedzającym dokonywanie rezerwacji podczas przeglądania witryny Squarespace.",
+    "squarespace_cardtitle": "Umożliw odwiedzającym dokonywanie rezerwacji podczas przeglądania witryny Squarespace.",
+    "squarespace_long_description": [
+      "Umieść przycisk 'Zarezerwuj Teraz' na dowolnej stronie i zaoferuj odwiedzającym witrynę natychmiastową ścieżkę do zarezerwowania czasu. Po kliknięciu, Strona Rezerwacji pojawi się na pierwszym planie, prezentując dostępność w czasie rzeczywistym. Użytkownicy mogą przeglądać Twoje treści, czytać o Twoich usługach i umówić się na spotkanie bez konieczności dzwonienia."
+    ],
+    "squarespace_instruction": [
+      "Skopiuj poniższy kod.",
+      "Zaloguj się do Squarespace, wybierz \"Strony\" i otwórz stronę, na której pojawi się przycisk 'Zarezerwuj Teraz'.",
+      "Kliknij kształt łezki, a zobaczysz opcje wstawiania nowego elementu. Wybierz 'Kod'.",
+      "Usuń domyślny kod i wklej kod z Setmore. Zapisz zmiany i przycisk 'Zarezerwuj Teraz' jest gotowy."
+    ],
+    "wix_description": "Zamień ruch w klientów, przyjmując rezerwacje za pośrednictwem witryny Wix.",
+    "wix_cardtitle": "Zamień ruch w klientów, przyjmując rezerwacje za pośrednictwem witryny Wix.",
+    "wix_long_description": [
+      "Ulepsz dowolną stronę swojej witryny Wix za pomocą przycisku 'Zarezerwuj Teraz'. Po jego kliknięciu klienci zostaną przekierowani na Stronę Rezerwacji i będą mogli samodzielnie umówić się na spotkanie. Oprócz promowania swoich usług, Twoja witryna przyciąga zupełnie nowych klientów. Nie ma potrzeby dokonywania żadnych zwrotów, ponieważ odwiedzający mogą samodzielnie potwierdzać spotkania w dowolnym momencie."
+    ],
+    "wix_instruction": [
+      "Skopiuj adres URL swojej Strony Rezerwacyjnej poniżej.",
+      "W Wix otwórz dowolną stronę i kliknij przycisk \"Dodaj\" (+) na lewym pasku nawigacyjnym.",
+      "Wybierz Osadź > Osadź niestandardowo > Osadź widżet.",
+      "Kliknij dwukrotnie widżet i wklej swój adres URL.",
+      "Kliknij 'Aktualizuj', aby wyświetlić Stronę Rezerwacji. Kliknij 'Opublikuj', aby zapisać."
+    ],
+    "wix_your_booking_url": "Adres URL Strony Rezerwacji :",
+    "wordpress_description": "Umożliwienie klientom dokonywania rezerwacji online za pośrednictwem witryny WordPress.",
+    "wordpress_cardtitle": "Umożliwienie odwiedzającym dokonywania rezerwacji 24/7 za pośrednictwem witryny WordPress.",
+    "wordpress_long_description": [
+      "Dodaj przycisk 'Zarezerwuj Teraz' do dowolnej strony witryny WordPress i ułatw odwiedzającym rezerwację czasu. Po kliknięciu, Twoja Strona Rezerwacji pojawi się z przodu i na środku. Ludzie mogą samodzielnie planować spotkania bez konieczności kontaktowania się z Tobą, przyspieszając podejmowanie decyzji i szybciej zapełniając Twój kalendarz."
+    ],
+    "wordpress_instruction": [
+      "Zaloguj się do WordPressa i kliknij 'Wtyczki' na lewym pasku nawigacyjnym.",
+      "Wybierz \"Dodaj Nowy\" i wyszukaj Setmore.",
+      "Zlokalizuj wtyczkę Setmore i wybierz Zainstaluj Teraz > Połącz. 'Aktywny' oznacza, że integracja przebiegła pomyślnie.",
+      "Wtyczka jest teraz widoczna na lewym pasku nawigacyjnym. Kliknij ją i zaloguj się do Setmore.",
+      "Postępuj zgodnie z ostatnimi instrukcjami i przycisk 'Zarezerwuj Teraz' jest gotowy."
+    ],
+    "wordpress_your_booking_url": "Adres URL Strony Rezerwacji :",
+    "drupal_description": "Umożliwiaj zmotywowanym potencjalnym klientom rezerwowanie spotkań bezpośrednio z Twojej witryny Drupal.",
+    "drupal_cardtitle": "Umożliwienie klientom dokonywania rezerwacji bezpośrednio przez witrynę Drupal.",
+    "drupal_long_description": [
+      "Wzbogać dowolną stronę swojej witryny Drupal o przycisk 'Zarezerwuj teraz'. W wygodny sposób otwiera on Stronę Rezerwacji, umożliwiając odwiedzającym samodzielne planowanie i opłacanie spotkań. Po dokonaniu rezerwacji potwierdzenie jest wysyłane do Ciebie i Twoich gości, a szczegóły spotkania lądują w Twoim kalendarzu."
+    ],
+    "drupal_instruction": [
+      "Kliknij przycisk 'Pobierz' po prawej stronie tego okna.",
+      "Skopiuj klucz Setmore podany poniżej.",
+      "W nowej zakładce zaloguj się do Drupala i kliknij Moduły > Zainstaluj nowy moduł.",
+      "Prześlij pobraną wtyczkę i kliknij 'Zainstaluj'.",
+      "Postępuj zgodnie z naszym artykułem pomocy technicznej, aby ustawić i zapisać przycisk 'Zarezerwuj teraz'."
+    ],
+    "drupal_your_setmore_key": "Twój klucz Setmore :",
+    "weebly_description": "Połącz swoją niestandardową Stronę Rezerwacji online z witryną Weebly",
+    "weebly_cardtitle": "Połącz swoją niestandardową Stronę Rezerwacji online z witryną Weebly.",
+    "weebly_long_description": [
+      "Umieść wygodny przycisk 'Zarezerwuj Teraz' na swojej witrynie Weebly i umożliw odwiedzającym planowanie spotkań 24/7. Kliknięcie przycisku otwiera Stronę Rezerwacji, na której użytkownicy mogą przeglądać dostępność, menu usług i nie tylko. Twoja witryna wykracza poza promowanie usług i konwertuje potencjalnych klientów, dając Ci przewagę nad konkurencją."
+    ],
+    "weebly_instruction": [
+      "Skopiuj poniższy kod.",
+      "W edytorze Weebly wybierz stronę i otwórz zestaw narzędzi.",
+      "Przeciągnij 'Kod Do Umieszczenia Na Stronie' w miejsce, w którym ma pojawić się przycisk 'Zarezerwuj Teraz'.",
+      "W oknie 'Edytuj Kod' wklej kod z Setmore. Opublikuj wprowadzone zmiany."
+    ],
+    "weebly_your_code": "Twój kod :",
+    "square online_description": "Dodaj opcje rezerwacji do dowolnej strony witryny Square Online swojej firmy.",
+    "square online_cardtitle": "Dodaj opcje rezerwacji spotkań do swojej witryny Square Online.",
+    "square online_long_description": [
+      "Dodaj przycisk 'Rezerwuj Teraz' do swojej witryny Square Online i zamień więcej ruchu w klientów. Po kliknięciu pojawi się Strona Rezerwacji. Uderzaj, póki żelazo gorące i umożliw odwiedzającym rezerwację zaraz po przejrzeniu Twoich usług i treści. Szczegóły nowych spotkań pojawiają się w kalendarzu Setmore w czasie rzeczywistym."
+    ],
+    "square online_instruction": [
+      "Skopiuj poniższy kod.",
+      "Zaloguj się do Square Online, otwórz stronę i wybierz 'Dodaj sekcję'.",
+      "Po lewej stronie wyświetlona zostanie lista elementów strony. Kliknij Kod do umieszczenia na stronie > Dodaj.",
+      "Poniżej 'Layout' ponownie dotknij 'Kod do umieszczenia na stronie' i wklej kod z Setmore.",
+      "Opublikuj zmiany, a przycisk 'Zarezerwuj Teraz' będzie gotowy."
+    ],
+    "square online_your_code": "Twój kod :",
+    "salesforce_description": "Importuj nowych klientów z Setmore do bazy danych Salesforce.",
+    "salesforce_cardtitle": "Zawieraj więcej transakcji, przekazując dane nowych klientów do Salesforce.",
+    "salesforce_long_description": [
+      "Automatycznie utwórz kontakt w Salesforce, gdy klient zostanie dodany do Setmore. Twoi nowi potencjalni klienci i klienci zaczną otrzymywać dopasowaną komunikację, pomagając pamiętać o Twoich usługach. Pola danych są mapowane z jednej platformy na drugą, zapewniając prawidłowe przesyłanie danych kontaktowych i eliminując potrzebę ręcznych aktualizacji."
+    ],
+    "salesforce_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Wprowadź dane swojego konta Salesforce i kliknij 'Zezwól', aby Setmore mógł się połączyć.",
+      "Wybierz 'Utwórz' i kliknij 'Kontynuuj'.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Salesforce. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Przetestuj integrację, aby zakończyć."
+    ],
+    "insightly_description": "Zoptymalizuj swój CRM, przekazując dane klientów bezpośrednio do Insightly.",
+    "insightly_cardtitle": "Przekazuj dane nowych klientów do Insightly i optymalizuj swój CRM.",
+    "insightly_long_description": [
+      "Importuj nowe leady i dane klientów bezpośrednio do preferowanej listy Insightly. Gdy klient zostanie dodany za pośrednictwem Strony Rezerwacji lub aplikacji, wpis zostanie odzwierciedlony w Insightly. Oprócz zaoszczędzenia godzin na ręcznym przesyłaniu danych, Twój zespół ma wszystkie informacje potrzebne do kontynuowania konwersacji i zwiększenia konwersji."
+    ],
+    "insightly_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna, a następnie 'Kontynuuj'.",
+      "W nowej karcie zaloguj się do Insightly i przejdź do Profil > Ustawienia użytkownika > Klucz API. Skopiuj klucz API.",
+      "Wklej klucz API do Setmore tam, gdzie pojawi się monit i kliknij 'Kontynuuj'.",
+      "Wybierz 'Utwórz lub Zaktualizuj Kontak' i kliknij 'Kontynuuj' po raz ostatni.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Insightly.",
+      "Przetestuj integrację, aby zakończyć."
+    ],
+    "clio_description": "Automatycznie przenieś dane nowego klienta z Setmore na swoje konto Clio.",
+    "clio_cardtitle": "Przenieś dane nowego klienta z Setmore do Clio w czasie rzeczywistym.",
+    "clio_long_description": [
+      "Skoncentruj się na bieżącej sprawie, podczas gdy istotne informacje o kliencie są automatycznie synchronizowane z Clio. Dzięki tej integracji dane kontaktowe zebrane za pośrednictwem aplikacji i strony Booking są odzwierciedlane na koncie Clio. Twój CRM pozostaje aktualny bez konieczności ręcznego przesyłania danych, umożliwiając zespołowi maksymalizację rozliczanych godzin i budowanie silniejszych relacji."
+    ],
+    "clio_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Wybierz 'Kontakty' jako wyzwalacz wysyłania danych do Clio.",
+      "Kliknij '+ Connect' i zaloguj się za pomocą danych konta Clio.",
+      "Wybierz 'Kontakty' jako cel. Gdy nowy klient zostanie dodany do Setmore, jego dane zostaną wykorzystane do utworzenia nowego kontaktu w Clio.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Clio. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Kliknij 'Kontynuuj' i przetestuj integrację, aby zakończyć."
+    ],
+    "zoho crm_description": "Zaktualizuj swoje listy kontaktów Zoho CRM o nowe dane klientów z Setmore.",
+    "zoho crm_cardtitle": "Synchronizuj dane klientów do i z konta Zoho CRM.",
+    "zoho crm_long_description": [
+      "Kiedy Twoi odbiorcy czują się zauważeni i zaangażowani, powracające wizyty same się o siebie zatroszczą. Synchronizuj dane klientów z Setmore do Zoho CRM i dołączaj osoby do dostosowanych kampanii e-mailowych. Dane zebrane za pośrednictwem aplikacji i strony Booking Page są odzwierciedlane dokładnie i w czasie rzeczywistym, co pozwala zaoszczędzić niezliczone godziny na ręcznym przesyłaniu danych."
+    ],
+    "zoho crm_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się przy użyciu nazwy użytkownika i hasła do Zoho CRM.",
+      "Wybierz listę docelową, aby otrzymywać dane klientów od Setmore. Kliknij 'Kontynuuj'.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Zoho CRM. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Przetestuj integrację do końca"
+    ],
+    "slack_description": "Otrzymuj automatyczne aktualizacje rezerwacji na wybranym kanale Slack.",
+    "slack_cardtitle": "Otrzymuj automatyczne aktualizacje rezerwacji w Slack.",
+    "slack_long_description": [
+      "Połącz Setmore ze Slack i otrzymuj aktualizacje rezerwacji na żywo w wyznaczonym kanale. Dzięki przekazywanym w czasie rzeczywistym informacjom o aktywności, wszyscy w kanale pozostają na bieżąco. Otrzymasz natychmiastowe powiadomienie, gdy spotkanie lub profil klienta zostanie utworzony lub edytowany. Nie ma potrzeby odświeżania skrzynki odbiorczej lub przełączania się między aplikacją kalendarza a czatem."
+    ],
+    "slack_instruction": [
+      "Kliknij przycisk \"Połącz\" po prawej stronie tego okna.",
+      "Wprowadź nazwę domeny Slack i kliknij 'Kontynuuj'.",
+      "Zaloguj się przy użyciu nazwy użytkownika i hasła Slack.",
+      "Wybierz kanał otrzymywania aktualizacji od Setmore i kliknij 'Autoryzuj', aby zakończyć."
+    ],
+    "quickbooks_description": "Automatyczny eksport szczegółów transakcji z Setmore do QuickBooks.",
+    "quickbooks_cardtitle": "Automatycznie eksportuj szczegóły płatności z Setmore do QuickBooks.",
+    "quickbooks_long_description": [
+      "Ułatw sobie prowadzenie księgowości, synchronizując szczegóły płatności z Setmore do QuickBooks. Brak konieczności przenoszenia danych między platformami pozwala zaoszczędzić cenny czas. Dokładność jest również zwiększona, ponieważ dane odzwierciedlają to, co zostało pierwotnie zarejestrowane. Czy wspomnieliśmy, że dane trafiają również do QuickBooks w czasie rzeczywistym? Oto jak połączyć aplikacje."
+    ],
+    "quickbooks_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się przy użyciu danych konta QuickBooks.",
+      "Wybierz listę, aby otrzymać szczegóły płatności od Setmore.",
+      "Zmapuj pola danych między Setmore i QuickBooks, a następnie przetestuj integrację."
+    ],
+    "google calendar_description": "Synchronizuj szczegóły spotkań z Setmore do Kalendarza Google i odwrotnie.",
+    "google calendar_cardtitle": "Wyświetlaj terminy z Setmore i Kalendarza Google w jednym miejscu.",
+    "google calendar_long_description": [
+      "Wyrównanie kalendarzy jest koniecznością, aby mieć kontrolę nad swoją dostępnością. 1-kierunkowa synchronizacja Kalendarza Google jest dostępna dla wszystkich i wyświetla spotkania Setmore w GCal. 2-kierunkowa synchronizacja Kalendarza Google jest integracją Pro i odzwierciedla wydarzenia do i z GCal. Pożegnaj się z podwójnymi rezerwacjami dzięki scentralizowanemu widokowi swojego harmonogramu na dowolnym urządzeniu."
+    ],
+    "google calendar_instruction": [
+      "Sprawdź, czy zarówno Setmore, jak i Kalendarz Google są ustawione na tę samą strefę czasową.",
+      "For 1-way sync:\"Przejdź do Ustawienia > Mój zespół > Integracja i kliknij 'Pobierz link'. Otwórz Kalendarz Google i w sekcji 'Inne kalendarze' dodaj adres URL.\"",
+      "For 2-way sync:\"Przejdź do Ustawienia > Mój zespół > Integracja i przewiń do sekcji 'Synchronizacja Google'. Przestaw przełącznik 'Włącz/Wyłącz' na 'Włącz'\""
+    ],
+    "office 365 calendar_description": "Zmniejsz liczbę podwójnych rezerwacji, dostosowując swój harmonogram w Setmore i Kalendarzu Office 365.",
+    "office 365 calendar_cardtitle": "Wyświetl wydarzenia z kalendarza Setmore i Office 365 w jednym miejscu.",
+    "office 365 calendar_long_description": [
+      "Wyrównanie kalendarzy jest koniecznością, aby mieć kontrolę nad swoją dostępnością. Synchronizacja 1-kierunkowa jest dostępna dla wszystkich i wyświetla spotkania Setmore w Kalendarzu Office 365. Synchronizacja dwukierunkowa jest integracją Pro i odzwierciedla wydarzenia do i z Kalendarza Office 365. Pożegnaj się z podwójnymi rezerwacjami dzięki scentralizowanemu widokowi harmonogramu na dowolnym urządzeniu."
+    ],
+    "office 365 calendar_instruction": [
+      "Sprawdź, czy Kalendarz Setmore i Kalendarz Office 365 są ustawione na tę samą strefę czasową.",
+      "For 1-way sync:\"Przejdź do Ustawienia > Mój zespół > Integracja i kliknij 'Pobierz link'. Otwórz Kalendarz Office 365 i w menu 'Otwórz kalendarz' dodaj adres URL.\"",
+      "For 2-way sync:\"Przejdź do Ustawienia > Mój zespół > Integracja i przewiń do sekcji 'Synchronizacja Office 365'. Przestaw przełącznik 'Włącz/Wyłącz' na pozycję włączoną\""
+    ],
+    "gmail_description": "Rezerwuj spotkania bezpośrednio z wiadomości e-mail od klientów w skrzynce odbiorczej Gmaila.",
+    "gmail_cardtitle": "Rezerwuj spotkania bezpośrednio ze skrzynki odbiorczej Gmail.",
+    "gmail_long_description": [
+      "Po kliknięciu dodatku Setmore dla Gmail w formularzu rezerwacji pojawi się następny dostępny termin spotkania. Wystarczy tylko potwierdzić szczegóły i zostaną one dodane do kalendarza. Nie ma potrzeby przełączania się między skrzynką odbiorczą a aplikacją do planowania, a klient otrzymuje natychmiastowe potwierdzenie rezerwacji."
+    ],
+    "gmail_instruction": [
+      "W Gmailu kliknij ikonę '+' w prawym panelu bocznym.",
+      "Wyszukaj 'Setmore dla Gmail' i zainstaluj dodatek.",
+      "Dodatek będzie teraz dostępny w panelu bocznym. Aby zakończyć konfigurację, kliknij dodatek i wprowadź swoją nazwę użytkownika i hasło Setmore."
+    ],
+    "google analytics_description": "Śledź, co robią odwiedzający, gdy trafią na Stronę Rezerwacji Twojej firmy.",
+    "google analytics_cardtitle": "Zbieraj informacje o odwiedzających i wydajności ze Strony Rezerwacji.",
+    "google analytics_long_description": [
+      "Dodaj ID pomiaru Google Analytics do swojej Strony Rezerwacji i uzyskaj kluczowe informacje o odwiedzających. Dzięki dostępowi do szczegółowych danych demograficznych i behawioralnych możesz dostosować marketing do swoich najbardziej wartościowych odbiorców. Dowiedz się, ilu odwiedzających rezerwuje spotkania, ile ruchu angażuje się w różne usługi, z jakich platform odwiedzający zostali przekierowani i nie tylko."
+    ],
+    "google analytics_instruction": [
+      "Zaloguj się na swoje konto Google Analytics i postępuj zgodnie z tym ~artykułem pomocy technicznej <gaSupportUrl>~, aby uzyskać ID pomiaru. Skopiuj ID.",
+      "Wróć tutaj i wklej ID w polu formularza poniżej.",
+      "Kliknij 'Aktualizuj'. Pojawi się komunikat potwierdzający, że ID zostało zapisane.",
+      [
+        "Po wykonaniu tych kroków będziesz mógł śledzić dane Strony Rezerwacji na swoim koncie Google Analytics. Wystarczy przejść do Realtime > Wydarzenia."
+      ]
+    ],
+    "google analytics_your_tracking_id": "Twoje ID pomiaru",
+    "ga_example": "np: G-XXXXXXXXXX",
+    "serviceminder_description": "Automatyczne wysyłanie danych klienta do konta ServiceMinder.",
+    "serviceminder_cardtitle": "Aktualizuj listę ServiceMinder bez konieczności ręcznego przenoszenia.",
+    "serviceminder_long_description": [
+      "Automatycznie synchronizuj dane nowych klientów z Setmore z preferowaną listą ServiceMinder. Ta integracja nie tylko oszczędza czas, ale także umożliwia wykorzystanie danych klientów w ukierunkowanych kampaniach e-mailowych. Upewnij się, że Twoi odbiorcy pozostają zaangażowani po wstępnych wycenach i zleceniach. Następnym razem, gdy będą potrzebować naprawy lub usługi w domu, Twoja firma będzie o nich pamiętać."
+    ],
+    "serviceminder_instruction": [
+      "W nowej karcie przeglądarki zaloguj się do ServiceMinder i przejdź do Administracja > Panel sterowania > Klucze API. Skopiuj klucz API i wróć do Setmore.",
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna, a następnie 'Kontynuuj'.",
+      "Wybierz listę docelową, aby otrzymywać dane klientów od Setmore. Kliknij 'Kontynuuj'.",
+      "Wybierz 'Kontakt' (aby udostępnić tylko nowe dane klienta) lub \"Aktualizuj kontakt\" (aby udostępnić nowe i edytowane dane klienta) i kliknij 'Kontynuuj'.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i ServiceMinder. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Przetestuj integrację, aby zakończyć."
+    ],
+    "zapier_description": "Twórz niestandardowe zapy i łącz Setmore z niezliczonymi aplikacjami innych fir.",
+    "zapier_cardtitle": "Twórz niestandardowe Zapy i łącz Setmore z niezliczonymi aplikacjami.",
+    "zapier_long_description": [
+      "Od wysyłania szczegółów spotkania do tablicy Trello, po dodawanie nowych klientów do kampanii ClickUp, istnieje Zap dla każdego rodzaju działalności. Wystarczy zdefiniować wyzwalacz (np. rezerwację spotkania) i informacje do pobrania (np. czas spotkania i adres e-mail klienta). Po włączeniu Zap dane są automatycznie udostępniane z Setmore.",
+      "Note:W zależności od działania, niektóre Zapy mogą wymagać konta Pro lub Team,"
+    ],
+    "zapier_instruction": [
+      "Zaloguj się do Zapier i kliknij 'Moje aplikacje'. Wyszukaj Setmore.",
+      "Kliknij ikonę Setmore i zaloguj się przy użyciu nazwy użytkownika i hasła. Setmore będzie teraz wyświetlany w sekcji 'Moje połączenia'.",
+      "Kliknij 'Make a Zap' i wybierz aplikację do połączenia. Następnie zdefiniuj wyzwalacz i akcję.",
+      "Potwierdź dane, które chcesz udostępnić z Setmore do innej aplikacji.",
+      "Kliknij 'Włącz Zap', aby zakończyć.",
+      [
+        "Aby uzyskać ilustrowane instrukcje dotyczące tworzenia Zapów, przeczytaj nasz artykuł pomocy technicznej."
+      ]
+    ],
+    "freshdesk_description": "Planuj osobiste i wirtualne spotkania bezpośrednio z pulpitu Freshdesk.",
+    "freshdesk_cardtitle": "Planowanie spotkań bezpośrednio z pulpitu Freshdesk.",
+    "freshdesk_long_description": [
+      "Obsługuj więcej zgłoszeń dzięki wtyczce Setmore dla Freshdesk. Agenci pomocy technicznej mogą przeglądać dostępność swojego zespołu i rezerwować spotkania z poziomu pulpitu nawigacyjnego. Pozwala to nie tylko ograniczyć liczbę połączeń tam i z powrotem, ale także szybciej kierować klientów do odpowiednich specjalistów. Dzięki integracjom Teleport i Zoom, agenci mogą również potwierdzać spotkania wideo dla rozwiązań zdalnych."
+    ],
+    "freshdesk_instruction": [
+      "Zaloguj się do Freshdesk i przejdź do Ustawienia > Aplikacje. Wyszukaj 'Setmore' w sklepie i zainstaluj wtyczkę.",
+      "Wtyczka pojawi się na lewym pasku nawigacyjnym pulpitu nawigacyjnego Freshdesk. Kliknij wtyczkę Setmore.",
+      "Kliknij 'Autoryzuj' i zaloguj się na swoje konto Setmore. Nastąpi przekierowanie do Freshdesk",
+      [
+        "Kliknięcie wtyczki Setmore spowoduje otwarcie strony rezerwacji w wyskakującym okienku."
+      ]
+    ],
+    "zendesk_description": "Umożliw swoim pracownikom pomocy technicznej rezerwowanie spotkań z poziomu Zendesk.",
+    "zendesk_cardtitle": "Umożliw swoim pracownikom pomocy technicznej rezerwowanie spotkań w Zendesk.",
+    "zendesk_long_description": [
+      "Dzięki widżetowi rezerwacji dla Zendesk agenci pomocy technicznej mogą wyświetlać dostępność w całym zespole z poziomu pulpitu nawigacyjnego. Umożliwi im to rezerwowanie spotkań dla klientów bez zbędnych czynności. Po zaplanowaniu spotkania zarówno dostawca, jak i klient otrzymują natychmiastowe potwierdzenie e-mailem. Obejmuje to wygodne łącze wideo, jeśli Twoja firma oferuje rozwiązania zdalne."
+    ],
+    "zendesk_instruction": [
+      "Zaloguj się do Zendesk i kliknij przycisk 'Produkty Zendesk' (cztery kwadraty) obok swojego awatara. Wybierz 'Centrum Administracyjne'.",
+      "Kliknij 'Aplikacje i integracje' na lewym pasku nawigacyjnym i wybierz 'Aplikacje Zendesk Support'.",
+      "W sekcji 'Moje Aplikacje' kliknij przycisk 'Marketplace'. Wybierz aplikację 'Setmore dla Wsparcia' i kliknij 'Zainstaluj'.",
+      "Postępuj zgodnie z instrukcjami uwierzytelniania i zaloguj się do Setmore.",
+      "Po zakończeniu uwierzytelniania kliknij ponownie 'Zainstaluj'."
+    ],
+    "answerconnect_description": "Pozwól zespołowi agentów odbierających połączenia 24/7 planować spotkania dla Ciebie.",
+    "answerconnect_cardtitle": "Pozwól zespołowi agentów telefonicznych 24/7 planować spotkania dla Ciebie.",
+    "answerconnect_long_description": [
+      "Nigdy nie przegap połączenia z pomocą AnswerConnect. Twoja firma jest wyposażona w agentów telefonicznych na żywo, którzy zapewniają, że każdy klient otrzyma ciepłe powitanie. Agenci nie tylko postępują zgodnie z Twoim niestandardowym skryptem, ale także planują spotkania w Twoim imieniu. Skoncentruj się na świadczeniu usług, podczas gdy agenci AnswerConnect ustawiają nowe rezerwacje w kalendarzu Setmore."
+    ],
+    "answerconnect_instruction": ["Zarejestruj konto AnswerConnect."],
+    "google tag manager_description": "Dostosuj swoją Stronę Rezerwacji online, monitorując sposób, w jaki odwiedzający angażują się i nawigują.",
+    "google tag manager_cardtitle": "Monitoruj, w jaki sposób odwiedzający korzystają z niestandardowej Strony Rezerwacji.",
+    "google tag manager_long_description": [
+      "Czy kiedykolwiek chciałeś dowiedzieć się więcej o swoich odbiorcach? Dzięki Google Tag Manager (GTM) uzyskasz cenne informacje o tym, kto odwiedza Twoją Stronę Rezerwacyjną i jak się po niej porusza. Zastosuj filtry i przeglądaj graficzne reprezentacje dogłębnych danych demograficznych. Jednorazowa konfiguracja daje nieograniczoną wiedzę. Wykorzystaj niestandardowe tagi, aby dostosować swoją Stronę Rezerwacji i zwiększyć konwersje."
+    ],
+    "google tag manager_instruction": [
+      "Otwórz nową kartę przeglądarki i zaloguj się do GTM. Kliknij 'Utwórz konto'.",
+      "Wypełnij formularz konfiguracji konta i kontenera, a następnie kliknij przycisk 'Utwórz'.",
+      "Skopiuj identyfikator kontenera GTM i wróć do Setmore. Wklej identyfikator w odpowiednie pole formularza i zapisz zmiany.",
+      [
+        "Aby dowiedzieć się, jak tworzyć tagi przechwytujące aktywność Strony Rezerwacji, przeczytaj nasz artykuł pomocy technicznej,"
+      ]
+    ],
+    "constant contact_description": "Natychmiastowe przesyłanie danych nowych klientów z Setmore do Constant Contact.",
+    "constant contact_cardtitle": "Automatycznie przesyłaj dane nowych klientów do Constant Contact.",
+    "constant contact_long_description": [
+      "Gdy nowy klient zostanie dodany do Setmore, jego dane zostaną odzwierciedlone na wybranej liście Constant Contact. Dzieje się to w czasie rzeczywistym i zapewnia aktualność CRM bez konieczności ręcznego przesyłania danych. Klienci mogą zostać włączeni do dostosowanych kampanii e-mailowych, zachęcających ich do ponownej rezerwacji i pozostania lojalnymi wobec Twojej marki."
+    ],
+    "constant contact_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna, a następnie 'Kontynuuj'.",
+      "Zaloguj się za pomocą nazwy użytkownika i hasła Stały Kontakt. Kliknij 'Zezwól', aby przyznać dostęp Setmore.",
+      "Wybierz 'Kontakt' (aby udostępnić tylko nowe dane klienta) lub 'Aktualizuj kontakt' (aby udostępnić nowe i edytowane dane klienta) i kliknij 'Kontynuuj'.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Constant Contact. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Przetestuj integrację, aby zakończyć."
+    ],
+    "hubspot_description": "Zbuduj listę kontaktów HubSpot z danymi nowych klientów z Setmore.",
+    "hubspot_cardtitle": "Zbuduj listę kontaktów HubSpot z nowymi klientami z Setmore.",
+    "hubspot_long_description": [
+      "Automatycznie eksportuj dane klientów do preferowanej listy kontaktów HubSpot. Od samego początku Twoi najnowsi fani otrzymują e-mailem odpowiednie wiadomości i oferty, pomagając im pamiętać o Twoich usługach. Nie ma potrzeby ręcznych aktualizacji, ponieważ dane zebrane za pośrednictwem aplikacji i Strony Rezerwacji są natychmiast odzwierciedlane w HubSpot."
+    ],
+    "hubspot_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się za pomocą nazwy użytkownika i hasła HubSpot.",
+      "Kliknij 'Połącz aplikację', aby umożliwić Setmore i HubSpot udostępnianie danych."
+    ],
+    "mailchimp_description": "Automatycznie dodawaj najnowszych klientów do ukierunkowanych kampanii e-mail.",
+    "mailchimp_cardtitle": "Automatycznie dołączaj nowych klientów do ukierunkowanych kampanii e-mailowych.",
+    "mailchimp_long_description": [
+      "Zbuduj więcej połączeń i wzmocnij swoje działania marketingowe dzięki integracji z Mailchimp. Dane nowych klientów pobierane przez Setmore są synchronizowane z preferowaną listą subskrybentów Mailchimp. Transfer odbywa się natychmiastowo, pomagając zaoszczędzić mnóstwo czasu. Zachowaj zaangażowanie odbiorców po dokonaniu pierwszej rezerwacji, wysyłając wartościowe treści bezpośrednio do ich skrzynki odbiorczej."
+    ],
+    "mailchimp_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Na ekranie 'Wyzwalacz konfiguracji' wstępnie wybrane zostaną 'Kontakty'. Kliknij 'Kontynuuj'.",
+      "Na ekranie 'Wybierz konto' kliknij 'Połącz'. Zaloguj się za pomocą nazwy użytkownika i hasła Mailchimp.",
+      "Na ekranie 'Autoryzuj Setmore' kliknij 'Zezwól'. Umożliwi to Setmore udostępnianie danych.",
+      "Wybierz listę subskrybentów, aby otrzymywać dane klientów od Setmore.",
+      "Zmapuj pola danych (np. imię i nazwisko, adres e-mail) między Setmore i Mailchimp. Zapewni to, że prawidłowe dane wypełnią odpowiednie pola. Kliknij 'Kontynuuj'.",
+      "Przetestuj integrację, aby zakończyć."
+    ],
+    "mailerlite_description": "Eksportuj dane klienta z Setmore, aby utworzyć subskrybentów w MailerLite.",
+    "mailerlite_cardtitle": "Automatycznie eksportuj dane klientów do listy kontaktów MailerLite.",
+    "mailerlite_long_description": [
+      "Oszczędzaj cenny czas, automatyzując zarządzanie kontaktami. Ta integracja wysyła dane nowych klientów z aplikacji i Strony Rezerwacji prosto do MailerLite. Wystarczy wybrać szczegóły do udostępnienia, a lista kontaktów zostanie zaktualizowana w tle. Podczas gdy Ty skupiasz się na świadczeniu usług, CRM pozostaje na bieżąco, a Twoi nowi goście otrzymują ukierunkowany marketing e-mailowy."
+    ],
+    "mailerlite_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna, a następnie 'Kontynuuj'.",
+      "Zaloguj się za pomocą nazwy użytkownika i hasła MailerLite.",
+      "Na ekranie 'Wyzwalacz konfiguracji' wstępnie wybrane zostaną 'Kontakty'. Kliknij 'Kontynuuj'.",
+      "Skopiuj i wklej swój klucz API (zobaczysz link do jego pobrania).",
+      "Na ekranie 'Konfiguracja celu' zostanie wstępnie wybrana opcja 'Utwórz lub zaktualizuj subskrybenta'. Kliknij 'Kontynuuj'.",
+      "Wybierz grupę subskrybentów, która będzie otrzymywać dane klientów od Setmore. Kliknij 'Kontynuuj'.",
+      "Przetestuj integrację, aby zakończyć."
+    ],
+    "keap_description": "Automatycznie dodawaj nowych klientów Setmore do dostosowanych kampanii Keap.",
+    "keap_cardtitle": "Automatycznie dołączaj nowych klientów do dostosowanych kampanii Keap.",
+    "keap_long_description": [
+      "Gdy profil klienta zostanie utworzony w Setmore, szczegóły zostaną zsynchronizowane z kontem Keap. Udostępniaj odpowiednie wiadomości lub oferty różnym segmentom odbiorców i zwiększaj zaangażowanie w swoje usługi. Mapując pola danych między platformami, nie pozostawiasz miejsca na błędy. Lista kontaktów Keap aktualizuje się w tle, oszczędzając cenny czas."
+    ],
+    "keap_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Zaloguj się za pomocą nazwy użytkownika i hasła Keap.",
+      "Kliknij 'Zezwól', aby umożliwić Setmore i Keap udostępnianie danych.",
+      "Przejdź do 'Ustawień', aby wyświetlić i edytować dane klienta, które zostaną zsynchronizowane z Keap."
+    ],
+    "xero_description": "Przesyłaj szczegóły płatności z Setmore do Xero w czasie rzeczywistym.",
+    "xero_cardtitle": "Przesyłaj szczegóły płatności z Setmore do Xero w czasie rzeczywistym.",
+    "xero_long_description": [
+      "Dokładnie śledź swoje przychody i oszczędzaj czas na ręcznym przesyłaniu danych dzięki integracji z Xero. Po włączeniu tej funkcji wszystkie transakcje są synchronizowane z Setmore do konta Xero, niezależnie od tego, czy przyjęto płatności gotówką, kartą czy cyfrowo. Szczegóły pojawiają się w Xero natychmiast i tak, jak zostały pierwotnie zarejestrowane, pomagając usprawnić księgowość."
+    ],
+    "xero_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Wybierz 'Faktura' jako wyzwalacz i kliknij 'Kontynuuj'.",
+      "Kliknij '+ Połącz' i zaloguj się przy użyciu danych konta Xero.",
+      "Zezwól na dostęp do Setmore i wybierz listę do odbierania danyc.",
+      "Zmapuj pola danych między Setmore i Xero, a następnie przetestuj integrację."
+    ],
+    "fresh sales_description": "Zsynchronizuj dane potencjalnych klientów i klientów z Freshsales, aby zorganizować potok.",
+    "fresh sales_cardtitle": "Zsynchronizuj dane potencjalnych klientów i klientów z Freshsales, aby zorganizować potok.",
+    "fresh sales_long_description": [
+      "Upewnij się, że Twoja baza danych CRM jest aktualna i umożliw swojemu zespołowi zwiększenie sprzedaży. Ta integracja eksportuje dane nowych potencjalnych klientów i klientów z Setmore do konta Freshsales. Niezależnie od tego, czy informacje kontaktowe i istotne notatki są gromadzone za pośrednictwem aplikacji Strony Rezerwacji, są one odzwierciedlane dokładnie i w czasie rzeczywistym."
+    ],
+    "fresh sales_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Wprowadź swój klucz API Freshsales i subdomenę, a następnie kliknij 'Kontynuuj'.",
+      "Wybierz listę docelową, aby otrzymywać dane klientów od Setmore. Kliknij 'Kontynuuj'.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Freshsales. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Przetestuj integrację, aby zakończyć."
+    ],
+    "reserve with google_description": "Daj się odkryć i zarezerwować w wyszukiwarce Google i Google Maps.",
+    "reserve with google_cardtitle": "Daj się odkryć i zarezerwować w wyszukiwarce Google i Google Maps.",
+    "reserve with google_long_description": [
+      "Wzbogać swój Profil Biznesowy Google o wygodny przycisk 'Rezerwuj', który otworzy Twoją Stronę Rezerwacji. Klienci mogą samodzielnie umawiać spotkania bezpośrednio z wyników wyszukiwania Google i Google Maps. Nie ma potrzeby dzwonienia, wysyłania e-maili lub odwiedzania, aby sprawdzić dostępność. Lokalni usługodawcy pojawiają się jako pierwsi w wynikach - upewnij się, że Twój Profil Biznesowy konkuruje o cały ten ruch.",
+      "Note: Usługa Rezerwuj z Google jest dostępna tylko dla firm z USA, z wyłączeniem branży medycznej i handlu detalicznego."
+    ],
+    "reserve with google_instruction": [
+      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
+      "Potwierdź adres swojej firmy i jej weryfikację w Google.",
+      "Kliknij 'Prześlij do Google', a otrzymasz powiadomienie, że usługa Rezerwuj z Google jest połączona.",
+      [
+        "Po połączeniu kont zazwyczaj potrzeba 1-3 dni, aby zmiany zostały odzwierciedlone w profilu biznesowym Google."
+      ]
+    ],
+    "intercom_description": "Czatuj i przyjmuj rezerwacje bezpośrednio z Messengera i skrzynki odbiorczej.",
+    "intercom_cardtitle": "Czatuj i przyjmuj rezerwacje bezpośrednio z Messengera i skrzynki odbiorczej.",
+    "intercom_long_description": [
+      "Potencjalni klienci mogą nie tylko łączyć się z Tobą przez Intercom, ale także planować spotkania. Umieść wygodny przycisk 'Zarezerwuj teraz' na ekranie głównym Messengera i udostępnij go w czatach w skrzynce odbiorczej, oferując ludziom natychmiastową możliwość zarezerwowania czasu. Jedno kliknięcie i pojawia się strona rezerwacji. Wykorzystaj ruch w witrynie, szybciej rozwiązuj zapytania i ulepszaj każdą rozmowę.",
+      "Note: Obecnie przycisk rezerwacji Setmore będzie widoczny tylko na komputerach stacjonarnych."
+    ],
+    "intercom_instruction": [
+      "Przejdź do Intercom App Store i zainstaluj 'Setmore'. Umożliwia to udostępnianie przycisku 'Zarezerwuj teraz' w czatach w skrzynce odbiorczej. Aby dodać go do Messengera, przejdź do kroku 2.",
+      "Otwórz pulpit nawigacyjny Intercom i kliknij 'Messenger' na lewym pasku nawigacyjnym.",
+      "Kliknij \"Dodaj aplikacje do Messengera\" i wybierz odbiorców.",
+      "Kliknij \"Dodaj aplikację\" i wybierz aplikację 'Setmore'. Dodaj link do rezerwacji i dostosuj tekst oraz nagłówek przycisku."
+    ],
+    "video_meeting_integrations": "Spotkanie wideo",
+    "social_media_integrations": "Media społecznościowe",
+    "payment_integrations": "Płatność",
+    "website_booking_integrations": "Rezerwacja na stronie internetowej",
+    "sales_and_crm_integrations": "Sprzedaż i CRM",
+    "collaboration_integrations": "Współpraca",
+    "accounting_integrations": "Księgowość",
+    "calendar_sync_integrations": "Synchronizacja kalendarza",
+    "business_app_integrations": "Aplikacja biznesowa",
+    "marketing_integrations": "Marketing",
+    "accept_payments": "Integracje płatności",
+    "integration_connected": "<APP NAME> Integracja połączona",
+    "integration_disconnect": "<APP NAME> Integracja rozłączona",
+    "button_update": "Zaktualizuj",
+    "button_copy": "Kopiuj",
+    "button_cancel": "Usuń",
+    "button_manage": "Zarządzaj",
+    "button_task_history": "Historia Zadań",
+    "button_delete": "Usuń",
+    "cash_connected": "Podłączona kasa fiskalna",
+    "cash_disconnect": "Kasa odłączona",
+    "to_enable_this": "Aby włączyć tę integrację, musisz zezwolić Setmore i <APP NAME> na udostępnianie szczegółów",
+    "choose_your_location": "Wybierz lokalizację",
+    "select_location": "Wybierz lokalizację",
+    "you_must_select": "Musisz wybrać lokalizację firmy, aby kontynuować integrację kont. Spróbuj ponownie",
+    "currency_mismatch": "Niedopasowanie walutowe",
+    "payments_already": "<APP NAME> płatności już połączone",
+    "authentication_is_not": "Uwierzytelnianie nie powiodło się",
+    "action_required": "Wymagane Działanie",
+    "to_host_video": "Aby organizować spotkania wideo przy użyciu <APP NAME integration>, należy wyłączyć integrację <APP NAME integration>",
+    "to_enable_your": "Aby umożliwić swojemu zespołowi organizowanie spotkań Google Meet, musisz otworzyć indywidualne profile i włączyć ‘Google sync",
+    "email_sent_successfully": "Wiadomość e-mail wysłana pomyślnie",
+    "error_in_sending": "Błąd podczas wysyłania poczty",
+    "connect_a_payment": "Podłącz integrację płatności, aby akceptować płatności Strony Rezerwacji",
+    "refund_initiated": "Rozpoczęto zwrot pieniędzy",
+    "something_went_wrong": "Coś poszło nie tak",
+    "button_okay": "O",
+    "yes_switch_off": "Tak, wyłącz",
+    "yes_switch_on": "Tak, włącz",
+    "yes_open": "Tak, otwórz",
+    "setmore_is_currently": "Aplikacja Setmore synchronizuje obecnie <APP NAME>. Odczekaj kilka chwil przed dezaktywacją synchronizacji. Dziękujemy za cierpliwość",
+    "sync_in_progress": "Synchronizacja w toku",
+    "have_a_question": "Masz pytanie",
+    "chat_with_us": "Czatuj z nami",
+    "call_us": "Zadzwoń do nas",
+    "button_connect": "Połącz",
+    "button_disconnect": "Rozłącz",
+    "button_yes_disconnect": "Tak, rozłącz",
+    "button_support_article": "Artykuł pomocniczy",
+    "button_download_plugin": "Pobierz Wtyczkę",
+    "button_get_add_on": "Pobierz dodatek",
+    "button_sign_up": "Zarejestruj się",
+    "are_you_sure": "Czy na pewno chcesz odłączyć tę integrację?",
+    "due_diligence": "<BRAND NAME>: Przeprowadzenie analizy due diligence",
+    "integration_meets_complaince": "Przed aktywacją należy upewnić się, że korzystanie z integracji spełnia wymagania dotyczące zgodności i bezpieczeństwa danych, takie jak HIPAA, w danym obszarze <Terms of Service>",
+    "button_continue_activation": "Kontynuuj aktywację",
+    "usage_alert": "<BRAND NAME> Użytkowanie",
+    "third_party_integration": "Włączając usługę integracji strony trzeciej, użytkownik niniejszym wyraża zgodę na przyjęcie odpowiedzialności HIPAA za korzystanie z tej usługi i wyraża zgodę na nasze <Terms of Service> zgodne z HIPAA",
+    "your_hashtags": "Twoje hashtagi :",
+    "instructions_title": "Instrukcje",
+    "only_tagged_pictures": "Tylko oznaczone zdjęcia z konta na Instagramie będą wyświetlane na stronie rezerwacji",
+    "button_copied": "Skopiowano!",
+    "integration_updated": "<APP NAME> Zaktualizowana integracja",
+    "there_is_a_hickup": "Wystąpiła usterka Coś nie zadziałało prawidłowo. Spróbuj ponownie..",
+    "get_code": "Zdobądź kod",
+    "something_went_wrong_deactivate": "Coś poszło nie tak, prosimy o dezaktywację i ponowną aktywację.",
+    "disconect_message": "Rozłączenie spowodowałoby trwałe usunięcie przepływu pracy. Czy na pewno chcesz się rozłączyć?",
+    "alert_disconnect_integration": "Rozłącz <APP NAME>",
+    "label_connected": "Połączono",
+    "label_disconnected": "Rozłączono",
+    "label_pro_tag": "Spróbuj Pro",
+    "label_draft": "Wersja robocza",
+    "hashtag_updated": "Zaktualizowano HashTag",
+    "id_saved": "<APP NAME> Zapisano Id.",
+    "tracking_code_saved": "<APP NAME> zapisany kod śledzenia.",
+    "manage_integration": "Zarządzaj integracją <APP NAME>",
+    "your_gtm_container_id": "Identyfikator kontenera GTM",
+    "your_tracking_code": "Twój kod śledzenia",
+    "hashtag_example": "Np: #instadaily, #entrepreneurs, #art.",
+    "hashtag_input_placeholder": "Np: #entrepreneur, #innovation",
+    "gtm_example": "np: GTM-xxxxxxx",
+    "maximum_limit_reached": "Co 30 minut z konta może zostać wysłanych maksymalnie 10 wiadomości e-mail. Poczekaj chwilę i spróbuj ponownie",
+    "failed_to_activate": "Nie udało się aktywować",
+    "unable_to_deactivate": "Nie można dezaktywować",
+    "to_activate_google_reserve": "Aby aktywować usługę Reserve w Google i czerpać z niej korzyści, firma musi spełniać następujące wymagania:",
+    "google_reserve_st1": "Krok 1: Przejrzyj adres swojej firmy",
+    "google_reserve_st2": "Krok 2: Przejrzyj swoje usługi",
+    "google_reserve_sta2": "Poniższe usługi nie mają cen lub zawierają znaki specjalne i będą ukryte w usłudze Reserve with Google do czasu ich edycji.",
+    "edit_services": "Edytuj usługi",
+    "google_reserve_st3": "Krok 3: Czy Twoja firma jest zweryfikowana przez Google",
+    "google_reserve_sta3": "Zweryfikowane firmy są widoczne dla klientów w wyszukiwarce i Mapach Google. Jeśli Twoja firma tak wygląda, prawdopodobnie jest już zweryfikowana. Adres zweryfikowany przez Google musi być zgodny z adresem podanym w Setmore.",
+    "learn_more": "Dowiedz się Więcej",
+    "button_save": "Zapisz",
+    "incorrect_id": "Wprowadź prawidłowe ID",
+    "already_integrated": "Konto jest już zintegrowane z tym samym ID",
+    "mapper": "",
+    "Services_mapper": "Usługi",
+    "service_cap": "USŁUGI",
+    "Class Name_mapper": "Zajęcia",
+    "mapper_save": "Zapisz",
+    "mapper_continue": "Kontynuuj",
+    "mapper_cancel": "Anuluj",
+    "Staff_mapper": "Mój Zespół",
+    "team_member": "Członek zespołu",
+    "email": "Email",
+    "zoom_id": "ID Zooma",
+    "assign_zoom_id": "Przypisz ID Zooma",
+    "add_video_link_to_all": "Dodaj link wideo do wszystkich",
+    "no_email": "Brak Emaila",
+    "mins": "minuty",
+    "free": "Darmow"
+  }
+}

@@ -177,6 +177,7 @@
     "take_effect_click_refresh": "Para que el cambio surta efecto, simplemente haga clic en 'Actualizar'.",
     "refresh" : "Actualizar",
     "months" : "Meses",
-    "days" : "días"
+    "days" : "días",
+    "campaign": "Campaña"
   }
 }

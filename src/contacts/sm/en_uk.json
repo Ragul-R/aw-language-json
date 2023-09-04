@@ -19,7 +19,6 @@
     "country": "Country",
     "british_indian_ocean_territory": "British Indian Ocean Territory",
     "india": "India",
-    "zipcode_/_postal_code": "Zipcode / Postal Code",
     "add_field": "Add field",
     "cancel": "Cancel",
     "save": "Save",
@@ -53,7 +52,6 @@
     "not_exactly": "Not exactly",
     "after": "After",
     "before": "Before",
-    "on": "On",
     "not_within_last": "Not Within last",
     "within_last": "Within last",
     "create_custom_segment": "Create custom segment",
@@ -255,7 +253,6 @@
     "sports_recreational_activities": "Sports/Recreational Activities",
     "other": "Other",
     "links": "LINKS",
-    "postal_code": "Postal code",
     "no_customers_display": "No customers to display",
     "search_for_country": "Search for country code prefix",
     "out_of": "out of",
@@ -301,6 +298,8 @@
     "nov": "Nov",
     "dec": "Dec",
     "title": "Title",
-    "all_day": "All day"
+    "all_day": "All day",
+    "zipcode_/_postal_code":"Postcode",
+    "postal_code":"Postcode"
   }
 }

@@ -188,6 +188,7 @@
     "minute_caps": "Minuto",
     "language_updated": "Língua Atualizada",
     "admin_has_updated_language": "O administrador da conta atualizou o idioma padrão do seu aplicativo de",
-    "take_effect_click_refresh": "Para que a alteração entre em vigor, basta clicar em ‘Atualizar’."
+    "take_effect_click_refresh": "Para que a alteração entre em vigor, basta clicar em ‘Atualizar’.",
+    "campaign": "Campanha"
   }
 }

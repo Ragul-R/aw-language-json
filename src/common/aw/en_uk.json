@@ -5,7 +5,6 @@
     "teleport": "Teleport",
     "learning": "Learning",
     "inbound": "Inbound",
-    "campaign": "Campaign",
     "calls": "calls",
     "done": "Done",
     "done_cs": "DONE",
@@ -152,7 +151,7 @@
     "cancellations": "Cancellations",
     "cancelled_bookings": "Automate notifications for cancelled bookings",
     "appointment_reminders": "Appointment reminders",
-    "booking_page": "Booking page",
+    "booking_page": "Booking Page",
     "images": "Images",
     "common_collabs": "Common Collabs",
     "easyshare": "EasyShare",
@@ -198,71 +197,14 @@
     "remove": "Remove",
     "admin": "Admin",
     "completed": "Completed",
-    "minutes": "minutes",
     "mins": "mins",
-    "app_tour": [
-      {
-        "tour_step": "tour_welcome",
-        "caption": "All your business communications in one place",
-        "description": "Connect with your clients and team anywhere, anytime, with the Lister Place app. Your office at your fingertips.",
-        "list": [
-          "Access and edit client messages",
-          "Chat with your team",
-          "Check your usage",
-          "Update your availability status"
-        ]
-      },
-      {
-        "tour_step": "tour_inbound",
-        "caption": "View messages in real time",
-        "description": "Get a real-time feed of all your calls and messages in one convenient inbox.",
-        "list": [
-          "Access client messages",
-          "Connect with your team",
-          "Manage your account on the go",
-          "Keep interactions secure"
-        ]
-      },
-      {
-        "tour_step": "tour_connect",
-        "caption": "Access all your messages",
-        "description": "Chat one-to-one with your colleagues and customers, or collaborate in a group.",
-        "list": [
-          "Create team groups for projects",
-          "Update your availability",
-          "Respond to direct messages",
-          "Share files quickly and easily"
-        ]
-      },
-      {
-        "tour_step": "tour_phone",
-        "caption": "Manage your calls and contacts",
-        "description": "View recent calls, contact information and interaction history using your all-in-one online phonebook.",
-        "list": [
-          "Make calls from your business line",
-          "Edit team and client details",
-          "View your contacts' latest updates"
-        ]
-      },
-      {
-        "tour_step": "tour_settings",
-        "caption": "Welcome your clients",
-        "description": "Receptionists answering your calls and handling client inquiries 24/7.",
-        "list": [
-          "Create customized call scripts",
-          "Manage your call flow, 24/7",
-          "Update your business information",
-          "View and edit your billing details"
-        ]
-      }
-    ],
-
     "months": "Months",
     "days": "days",
+    "minutes": "minutes",
     "minute": "minute",
     "minutes_cap": "Minutes",
     "minute_cap": "Minute",
-    "support": "Supporting your brand 24/7.",
+    "support": "Supporting your brand 24/7",
     "real_people": "We’re real people, not bots ",
     "book_expert": "Book with an expert",
     "see_hs": "See help & support for more",
@@ -289,6 +231,7 @@
     "october": "October",
     "november": "November",
     "december": "December",
-    "card": "Card"
+    "card": "Card",
+    "duplicate": "Duplicate"
   }
 }
