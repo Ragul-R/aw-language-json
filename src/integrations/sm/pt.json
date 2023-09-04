@@ -67,19 +67,21 @@
     "instagram streaming_instruction": [
       "Clique no botão ''Conectar'' no lado direito desta janela.",
       "Entre com sua conta Instagram e permita que a Setmore se conecte.",
-      "Volte aqui e especifique uma ou mais hashtags abaixo Posts marcados serão exibidos na aba ‘Fotos’ da sua Página de Agendamento."
+      "Return here and you’ll see ‘Your hashtags’ below. Type or paste a hashtag into the form field and click the ‘Update’ button. Posts that use the hashtag will display in the ‘Photos’ section of your Booking Page."
     ],
-    "paypal_description": "Aceite pagamentos sem contato por meio de cartões de crédito e débito PayPal e mais.",
-    "paypal_cardtitle": "Aceite pagamentos sem contato por meio de cartões de crédito e débito PayPal e mais.",
+    "hashtag_already_updated": "That hashtag is already used to stream posts.",
+    "invalid_hashtag": "Start your hashtag with # and don’t use spaces.",
+    "paypal_description": "Accept payments conveniently via PayPal, Venmo, credit and debit cards, and more.",
+    "paypal_cardtitle": "Accept payments conveniently via PayPal, Venmo, credit and debit cards, and more.",
     "paypal_long_description": [
-      "Ofereça aos seus clientes opções de pagamento adicionais conectando Setmore ao PayPal Quando navegando na sua Página de Agendamento eles podem pré-pagar por seus serviços com cartão ou carteira digital PayPal. Os detalhes da transação refletem de uma conta para outra em tempo real, simplificando o controle da receita."
-    ],
+      "Offer customers additional payment options by connecting Setmore to your PayPal business account. When using your online Booking Page, they can prepay for appointments by card, Venmo or their PayPal digital wallet.",
+      "Note: You must have a PayPal business account to enable this integration."
+   ],
     "paypal_instruction": [
-      "Clique no botão ''Conectar'' no lado direito desta janela.",
-      "Faça login com PayPal e autorize a conexão da Setmore.",
-      "Um pop-up lhe informará que a integração está Conectada.",
+      "Click the ‘Connect’ button on the right-hand side of this window.",
+      "Log in with PayPal and authorize Setmore to connect your business account.",
       [
-        "Por padrão pagamentos da Página de Agendamento são opcionais. Para tornar pagamentos obrigatórios vá para Configurações>Pagamentos>Pagamentos da Página de Agendamento"
+        "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
     ],
     "cash_description": "Preste contas de transações em dinheiro vivo em locais diferentes e em movimento",
@@ -159,11 +161,12 @@
     "booking widget_st4_1": "Passo 4 - Onde você quer receber o código?",
     "booking widget_st4_2": "Copie o código abaixo e cole no seu site",
     "booking widget_your_code": "Seu código :",
+    "enter_email": "Email address required",
+    "enter_valid_email": "Invalid email address",
     "joomla_description": "Exiba um botão customizável ''Agendar agora'' em qualquer página do seu site Joomla.",
     "joomla_cardtitle": "Capacite os clientes para agendar diretamente do seu Joomla site.",
     "joomla_long_description": [
       "TNão existe nessecidade de seu público online te ligar ou mandar email para um compromisso. Ao conectar seu site Joomla à sua página de agendamento, você permite que todos os visitantes façam o agendamento imediatamente. Adicione um botão ‘Agendar agora’ ou uma seção de agendamento dedicada a qualquer página do site e capitalize o tráfego durante todo o ano.",
-
       "Nota: Esta integração funciona apenas para sites J3 Joomla."
     ],
     "joomla_instruction": [
@@ -448,7 +451,9 @@
     "answerconnect_long_description": [
       "Nunca perca uma chamada com ajuda do AnswerConnect Sua empresa está equipada com agentes de chamada ao vivo que garantem que cada cliente receba uma recepção calorosa. Os agentes não apenas seguem seu script personalizado, mas também agendam compromissos em seu nome. Concentre-se em fornecer seus serviços enquanto os agentes do AnswerConnect alinham novas agendamentos em seu calendário Setmore."
     ],
-    "answerconnect_instruction": ["Cadastre uma conta AnswerConnect."],
+    "answerconnect_instruction": [
+      "Cadastre uma conta AnswerConnect."
+    ],
     "google tag manager_description": "Personalize sua Página de Agendamento on-line monitorando como os visitantes interagem e navegam.",
     "google tag manager_cardtitle": "Monitore como visitantes engajam com sua Página de Agendamento personalizada.",
     "google tag manager_long_description": [
@@ -560,7 +565,7 @@
         "Please note that Reserve with Google is available to specific business types based in the US. After connecting your accounts, it typically takes up to 72 hours for changes to reflect in your Google Business Profile."
       ]
     ],
-    "to_activate_google_reserve": "To activate and benefit from Reserve with Google, your business must meet the following requirements:",
+    "to_activate_google_reserve": "Follow these steps in order to meet Google’s requirements.",
     "google_reserve_st1": "Step 1: Business address",
     "google_reserve_street_st1": "Street address is required",
     "google_reserve_city_st1": "City is required",
@@ -572,8 +577,8 @@
     "google_reserve_sta2": "If any services require editing, they'll display below.",
     "google_reserve_below_invalid_sta2": "Services with special characters in names cannot be submitted to Google",
     "edit_services": "Edit service names",
-    "google_reserve_st3": "Step 3: Is your business verified by Google?",
-    "google_reserve_sta3": "Verified businesses appear to customers on Google Search and Maps. If your business does, it's probably already verified. Your verified by Google address must match the address listed in Setmore.",
+    "google_reserve_st3": "Step 3: Google verification",
+    "google_reserve_sta3": "Verified businesses appear in Google Search and Maps results. If your business appears, it’s most likely verified. Your Google-verified business address must match the address in Setmore.",
     "learn_more": "Learn More",
     "intercom_description": "Converse e receba agendamentos diretamente do Messenger e da caixa de entrada.",
     "intercom_cardtitle": "Converse e receba agendamentos diretamente do Messenger e da caixa de entrada.",
@@ -598,8 +603,8 @@
     "business_app_integrations": "Apps de Negócios",
     "marketing_integrations": "Marketing",
     "accept_payments": "Pagamento",
-    "integration_connected": "<APP NAME> Integração Conectada",
-    "integration_disconnect": "<APP NAME> Integração desconectada",
+    "integration_connected": "<APP NAME> Conectada",
+    "integration_disconnect": "<APP NAME> desconectada",
     "button_update": "Atualizar",
     "button_copy": "Copiar",
     "button_cancel": "Cancelar",
@@ -639,34 +644,46 @@
     "button_download_plugin": "Baixar Plugin",
     "button_get_add_on": "Adquirir Add-on",
     "button_sign_up": "Inscrever-se",
-    "are_you_sure": "Tem certeza que quer desconectar esta integraçao?",
     "due_diligence": "<BRAND NAME>: Realize a devida diligência",
     "integration_meets_complaince": "Antes de ativar, certifique-se de que o uso da integração atende aos requisitos de conformidade e segurança de dados, como HIPAA em sua área <Termos de serviço>.",
     "button_continue_activation": "Continuar Ativação",
     "usage_alert": "<BRAND NAME> Uso",
     "third_party_integration": "Ao habilitar um serviço de integração de terceiros, você concorda em assumir a responsabilidade HIPAA pelo uso deste serviço e concorda com nossos <Termos de Serviço> compatíveis com HIPAA.",
-    "your_hashtags": "Suas hashtags :",
+    "your_hashtags": "Suas hashtags:",
     "instructions_title": "Instruções",
-    "only_tagged_pictures": "Somente as fotos marcadas da sua conta do Instagram serão exibidas na sua Página de Agendamento.",
+    "only_tagged_pictures": "Deleting a hashtag stops your Booking Page from displaying past and future posts that use the hashtag.",
     "button_copied": "Copiado!",
     "integration_updated": "<APP NAME> Integração atualizada",
     "there_is_a_hickup": "Houve um erro. Algo não deu muito certo. Tente novamente.",
     "get_code": "Get code",
     "something_went_wrong_deactivate": "Something went wrong, please deactivate and activate again.",
+    "are_you_sure": "Tem certeza que quer desconectar esta integraçao?",
     "disconect_message": "Desconectar resultará em apagar permanentemente o fluxo de trabalho. Tem certeza que ainda quer desconectar?",
-    "alert_disconnect_integration": "Desconectar <APP NAME>",
+    "disconect_message_video_meeting_integrations": "New appointments will not have <APP NAME> links attached. <APP NAME> links for previously scheduled appointments will be removed, but the appointments will stay in your calendar.",
+    "disconect_message_social_media_integrations": "Your <APP NAME> page will no longer display the ‘Book now’ button that directs people to your Booking Page. To take bookings from  <APP NAME> again, you’ll need to reconnect your accounts.",
+    "disconect_message_social_media_integrations_instagram streaming": "Your Booking Page’s Photos section will no longer update with new Instagram posts. To stream posts from Instagram again, you’ll need to reconnect your accounts.",
+    "disconect_message_payment_integrations": "You’ll no longer be able to process payments through your calendar or Booking Page. However, previous payment data will remain in your accounts.",
+    "disconect_message_payment_integrations_paypal": "You’ll no longer be able to process payments through your Booking page. However, previous payment data will remain in your accounts.",
+    "disconect_message_payment_integrations_cash": "You’ll no longer be able to process payments through your calendar. However, previous payment data will remain in your accounts.",
+    "disconect_message_sales_and_crm_integrations": "Customer details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
+    "disconect_message_accounting_integrations": "Transaction details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
+    "disconect_message_calendar_sync_integrations": "New event details will no longer sync between your <BRAND NAME> and <APP NAME>. Previously synced events will only appear in the calendar they were created in.",
+    "disconect_message_marketing_integrations": "Customer details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
+    "disconect_message_business_app_integrations": "<APP NAME> will no longer track Booking Page activity, but data recorded previously will remain available in your account.",
+    "disconect_message_business_app_integrations_slack": "The Slack channel that receives booking and customer updates from Setmore will be deleted. To view this channel again, you’ll need to reconnect your accounts.",
+    "alert_disconnect_integration": "Desconectar <APP NAME>?",
     "label_connected": "Conectado",
     "label_disconnected": "Desconectado",
     "label_pro_tag": "Experimente Pro",
     "label_draft": "Rascunho",
-    "hashtag_updated": "HashTag atualizada",
+    "hashtag_updated": "Hashtag(s) atualizada",
     "id_saved": "<APP NAME> ID Salvo.",
     "tracking_code_saved": "<APP NAME> Código de rastreio salvo.",
     "manage_integration": "Gerenciar  <APP NAME> Integração",
     "your_gtm_container_id": "Seu ID de conteiner GTM",
     "your_tracking_code": "Seu código de rastreio",
-    "hashtag_example": "Eg: #instadaily, #entrepreneurs, #art #innovation.",
-    "hashtag_input_placeholder": "Eg: #entrepreneurs, #innovation.",
+    "hashtag_example": "E.g: #instadaily, #entrepreneurs, #art #innovation.",
+    "hashtag_input_placeholder": "E.g: #entrepreneurs, #innovation.",
     "gtm_example": "ex: GTM-xxxxxxx",
     "maximum_limit_reached": "Um máximo de 10 emails podem ser enviados da sua conta da cada 30 mintuos Espere um momento e tente novamente.",
     "failed_to_activate": "Falha na ativação",
@@ -675,6 +692,12 @@
     "button_submit_to_google": "Submit to Google",
     "incorrect_id": "Introduza um ID válido.",
     "already_integrated": "Conta já integrada com o mesmo ID",
+    "measurement_id_saved": "Measurement ID saved - tracking started",
+    "measurement_id_removed": "Measurement ID removed - tracking paused",
+    "yes_switch": "Yes, Switch",
+    "yes_enable": "Yes, Enable",
+    "button_save_and_continue": "Save and continue",
+    "button_save_and_complete": "Save and complete",
     "mapper": {
       "Services_mapper": "Serviço",
       "service_cap": "SERVIÇOS",
@@ -691,7 +714,14 @@
       "add_video_link_to_all": "Adicionar link de vídeo a todosl",
       "no_email": "Sem email",
       "mins": "Mins",
-      "free": "Grátis"
+      "free": "Grátis",
+      "service_alert_all": "All services will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled. if you'd like to revert any services back to <main name>, simply head to |Services| |&| |Classes|",
+      "service_alert_single": "This service is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this service back to <main name>, simply head to |Services| |&| |Classes|",
+      "class_alert_single": "This class is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this class back to <main name>",
+      "class_alert_all": "All classes will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled. if you'd like to revert any classes back to <main name>, simply head to |Services| |&| |Classes|",
+      "switch_tittle": "Switch to <APP NAME>?",
+      "enable_tittle_services": "Enable <APP NAME> for all services?",
+      "enable_tittle_classes": "Enable <APP NAME> for all classes?"
     }
   }
 }

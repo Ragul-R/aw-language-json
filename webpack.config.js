@@ -27,6 +27,10 @@ module.exports = {
             fileName: `brand/inch_pl.json`,
           },
           {
+            pattern: `./src/**/inch/en_uk.json`,
+            fileName: `brand/inch_en_uk.json`,
+          },
+          {
             pattern: `./src/**/sm/en_uk.json`,
             fileName: `brand/sm_en_uk.json`,
           },

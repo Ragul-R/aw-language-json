@@ -1,7 +1,7 @@
 {
   "integrations": {
-    "setmore_banner_title": "Podłącz swoje ulubione aplikacje",
-    "setmore_banner_description": "Popraw obsługę klienta, łącząc Setmore z platformami marketingowymi, wideo, płatniczymi i CRM.",
+    "in the chair_banner_title": "Podłącz swoje ulubione aplikacje",
+    "in the chair_banner_description": "Popraw obsługę klienta, łącząc  In the Chair z platformami marketingowymi, wideo, płatniczymi i CRM.",
     "google meet_description": "Zapewniaj krystalicznie czyste spotkania wideo za pośrednictwem Google Meet.",
     "google meet_cardtitle": "Zapewniaj krystalicznie czyste spotkania wideo dzięki Google Meet.",
     "google meet_long_description": [
@@ -16,17 +16,17 @@
     "zoom_description": "Umożliw swojemu zespołowi dodawanie linków wideo Zoom do spotkań i sesji grupowych.",
     "zoom_cardtitle": "Dodawanie linków wideo Zoom do spotkań i sesji grupowych.",
     "zoom_long_description": [
-      "Spotkaj się z klientami z całego świata bez konieczności podróżowania. Integracja Zoom umożliwia wybór usług do zaoferowania za pośrednictwem wideo. Po dokonaniu rezerwacji Setmore automatycznie dołącza link Zoom do potwierdzeń e-mail dostawcy i gości. Wystarczy jedno kliknięcie, aby dołączyć do prezentacji produktu, spotkania zespołu lub webinaru."
+      "Spotkaj się z klientami z całego świata bez konieczności podróżowania. Integracja Zoom umożliwia wybór usług do zaoferowania za pośrednictwem wideo. Po dokonaniu rezerwacji  In the Chair automatycznie dołącza link Zoom do potwierdzeń e-mail dostawcy i gości. Wystarczy jedno kliknięcie, aby dołączyć do prezentacji produktu, spotkania zespołu lub webinaru."
     ],
     "zoom_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
-      "Wprowadź dane swojego konta Zoom i pozwól Setmore się połączyć.",
+      "Wprowadź dane swojego konta Zoom i pozwól  In the Chair się połączyć.",
       "Określ usługi i zajęcia, które mają być udostępniane za pośrednictwem wideo. Linki Zoom zostaną utworzone w tle."
     ],
     "teleport_description": "Oferuj spotkania wideo jednym kliknięciem bez konieczności pobierania plików.",
     "teleport_cardtitle": "Oferuj spotkania wideo jednym kliknięciem bez konieczności pobierania plików.",
     "teleport_long_description": [
-      "Organizuj wirtualne spotkania przez Teleport i łącz się z członkami zespołu i klientami na całym świecie. Możesz rozmawiać twarzą w twarz za pomocą kliknięcia linku, zmniejszając potrzebę podróży. Po zarezerwowaniu usługi obsługującej Teleport, Setmore automatycznie generuje link do spotkania i dodaje go do potwierdzeń e-mail pracowników i gości."
+      "Organizuj wirtualne spotkania przez Teleport i łącz się z członkami zespołu i klientami na całym świecie. Możesz rozmawiać twarzą w twarz za pomocą kliknięcia linku, zmniejszając potrzebę podróży. Po zarezerwowaniu usługi obsługującej Teleport,  In the Chair automatycznie generuje link do spotkania i dodaje go do potwierdzeń e-mail pracowników i gości."
     ],
     "teleport_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
@@ -40,20 +40,20 @@
     ],
     "facebook_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
-      "Zaloguj się za pomocą danych swojego konta na Facebooku i pozwól Setmore połączyć się z.",
+      "Zaloguj się za pomocą danych swojego konta na Facebooku i pozwól  In the Chair połączyć się z.",
       "Wybierz Menedżera biznesowego i stronę biznesową.",
       "Potwierdź ustawienia i przycisk 'Zarezerwuj teraz' jest gotowy"
     ],
     "instagram bookings_description": "Przyjmuj spotkania w dzień i w nocy ze swojej strony biznesowej na Instagramie i reklam.",
     "instagram bookings_cardtitle": "Akceptuj spotkania ze swojej strony biznesowej na Instagramie i reklam.",
     "instagram bookings_long_description": [
-      "Spraw, by Twoja strona i reklamy na Instagramie działały wydajniej dzięki przyciskowi 'Zarezerwuj teraz'. Twoje treści umożliwiają widzom natychmiastowe planowanie spotkań. Nie muszą nawet opuszczać aplikacji Instagram. Nowe rezerwacje pojawiają się w kalendarzu Setmore w czasie rzeczywistym, a Ty i Twoi goście otrzymujecie natychmiastowe potwierdzenia."
+      "Spraw, by Twoja strona i reklamy na Instagramie działały wydajniej dzięki przyciskowi 'Zarezerwuj teraz'. Twoje treści umożliwiają widzom natychmiastowe planowanie spotkań. Nie muszą nawet opuszczać aplikacji Instagram. Nowe rezerwacje pojawiają się w kalendarzu  In the Chair w czasie rzeczywistym, a Ty i Twoi goście otrzymujecie natychmiastowe potwierdzenia."
     ],
     "instagram bookings_instruction": [
       "Otwórz aplikację mobilną Instagram, przejdź do swojej strony i kliknij 'Edytuj profil'.",
       "W sekcji 'Publiczne informacje biznesowe' wybierz 'Przyciski akcji'.",
-      "Wybierz opcję 'Zarezerwuj teraz' i wybierz Setmore z listy partnerów.",
-      "Zaloguj się do Setmore i kliknij 'Kontynuuj jako [your Instagram profile name]'.",
+      "Wybierz opcję 'Zarezerwuj teraz' i wybierz  In the Chair z listy partnerów.",
+      "Zaloguj się do  In the Chair i kliknij 'Kontynuuj jako [your Instagram profile name]'.",
       "W sekcji 'Potwierdź Swoją Firmę' dotknij 'Dalej', a przycisk 'Zarezerwuj Teraz' zostanie włączony.",
       [
         "Możesz także połączyć tę integrację w Internecie za pomocą swojego konta na Facebooku."
@@ -66,20 +66,22 @@
     ],
     "instagram streaming_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
-      "Zaloguj się za pomocą danych swojego konta na Instagramie i pozwól Setmore połączyć się z.",
-      "Wróć tutaj i określ jeden lub więcej hashtagów poniżej. Oznaczone posty będą wyświetlane w zakładce 'Zdjęcia' na Stronie Rezerwacji."
+      "Zaloguj się za pomocą danych swojego konta na Instagramie i pozwól  In the Chair połączyć się z.",
+      "Return here and you’ll see ‘Your hashtags’ below. Type or paste a hashtag into the form field and click the ‘Update’ button. Posts that use the hashtag will display in the ‘Photos’ section of your Booking Page."
     ],
-    "paypal_description": "Akceptuj płatności zbliżeniowe za pośrednictwem PayPal, kart kredytowych i debetowych i nie tylko.",
-    "paypal_cardtitle": "Akceptuj płatności zbliżeniowe za pośrednictwem PayPal, kart kredytowych i debetowych i nie tylko.",
+    "hashtag_already_updated": "That hashtag is already used to stream posts.",
+    "invalid_hashtag": "Start your hashtag with # and don’t use spaces.",
+    "paypal_description": "Accept payments conveniently via PayPal, Venmo, credit and debit cards, and more.",
+    "paypal_cardtitle": "Accept payments conveniently via PayPal, Venmo, credit and debit cards, and more.",
     "paypal_long_description": [
-      "Zaoferuj swoim klientom dodatkowe opcje płatności, łącząc Setmore z PayPal. Podczas nawigacji po Stronie Rezerwacji mogą oni dokonać przedpłaty za usługi za pomocą karty lub portfela cyfrowego PayPal. Szczegóły transakcji są odzwierciedlane z jednego konta na drugie w czasie rzeczywistym, co ułatwia śledzenie dochodów."
-    ],
+      "Offer customers additional payment options by connecting  In the Chair to your PayPal business account. When using your online Booking Page, they can prepay for appointments by card, Venmo or their PayPal digital wallet.",
+      "Note: You must have a PayPal business account to enable this integration."
+   ],
     "paypal_instruction": [
-      "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
-      "Zaloguj się za pomocą PayPal i autoryzuj Setmore do połączenia.",
-      "Wyskakujące okienko poinformuje, że integracja jest połączona.",
+      "Click the ‘Connect’ button on the right-hand side of this window.",
+      "Log in with PayPal and authorize  In the Chair to connect your business account.",
       [
-        "Domyślnie płatności Strony Rezerwacji są opcjonalne. Aby płatności były obowiązkowe, przejdź do Ustawienia > Płatności > płatności Strony Rezerwacji."
+        "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
     ],
     "cash_description": "Rozliczaj transakcje gotówkowe w różnych lokalizacjach i podczas podróży.",
@@ -102,7 +104,7 @@
     ],
     "square_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
-      "Zaloguj się za pomocą Square i autoryzuj Setmore do połączenia.",
+      "Zaloguj się za pomocą Square i autoryzuj  In the Chair do połączenia.",
       "Wybierz lokalizację biznesową.",
       "Wyskakujące okienko poinformuje, że konta są połączone.",
       [
@@ -126,11 +128,11 @@
     "stripe_description": "Łatwe pobieranie płatności kartą kredytową i debetową w punkcie rezerwacji.",
     "stripe_cardtitle": "Łatwe pobieranie płatności kartą kredytową i debetową w punkcie rezerwacji.",
     "stripe_long_description": [
-      "Stwórz kompleksowy system rezerwacji i płatności online z Setmore i Stripe. Klienci mogą płacić z góry za spotkania za pośrednictwem strony rezerwacji, a Ty możesz przyjmować płatności osobiście za pośrednictwem kalendarza."
+      "Stwórz kompleksowy system rezerwacji i płatności online z  In the Chair i Stripe. Klienci mogą płacić z góry za spotkania za pośrednictwem strony rezerwacji, a Ty możesz przyjmować płatności osobiście za pośrednictwem kalendarza."
     ],
     "stripe_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
-      "Zaloguj się za pomocą Stripe i autoryzować Setmore do połączenia.",
+      "Zaloguj się za pomocą Stripe i autoryzować  In the Chair do połączenia.",
       "Wyskakujące okienko poinformuje, że konta są połączone.",
       [
         "Domyślnie płatności Strony Rezerwacji są opcjonalne. Aby płatności były obowiązkowe, przejdź do Ustawienia > Płatności > Płatności Strony Rezerwacji."
@@ -159,6 +161,8 @@
     "booking widget_st4_1": "Krok 4 - Gdzie chcesz otrzymać kod?",
     "booking widget_st4_2": "Skopiuj poniższy kod i wklej go na swojej stronie:",
     "booking widget_your_code": "Twój kod :",
+    "enter_email": "Email address required",
+    "enter_valid_email": "Invalid email address",
     "joomla_description": "Umieść konfigurowalny przycisk 'Zarezerwuj Teraz' na dowolnej stronie swojej witryny Joomla.",
     "joomla_cardtitle": "Umożliwiaj klientom rezerwowanie spotkań za pośrednictwem witryny Joomla.",
     "joomla_long_description": [
@@ -167,10 +171,10 @@
     ],
     "joomla_instruction": [
       "Kliknij przycisk 'Pobierz' po prawej stronie tego okna.",
-      "Skopiuj klucz Setmore poniżej.",
+      "Skopiuj klucz  In the Chair poniżej.",
       "Zaloguj się na swoje konto Joomla, aby zakończyć integrację."
     ],
-    "joomla_your_setmore_key": "Twój klucz Setmore :",
+    "joomla_your_in_the_chair": "Twój klucz  In the Chair :",
     "jimdo_description": "Wzbogać swoją firmową stronę internetową Jimdo o konfigurowalny przycisk 'Zarezerwuj Teraz'.",
     "jimdo_cardtitle": "Wzbogać swoją witrynę Jimdo o konfigurowalny przycisk 'Zarezerwuj Teraz'.",
     "jimdo_long_description": [
@@ -186,7 +190,7 @@
     "shopify_description": "Przekształć więcej potencjalnych klientów w klientów dzięki opcjom rezerwacji dla swojej witryny Shopify.",
     "shopify_cardtitle": "Konwertuj więcej potencjalnych klientów dzięki opcjom rezerwacji dla swojej witryny Shopify.",
     "shopify_long_description": [
-      "Dodaj przycisk 'Zarezerwuj Teraz' do swojej witryny Shopify i zamień ruch w nowych klientów. Odwiedzający mogą samodzielnie zaplanować swoje usługi w momencie największego zainteresowania, szybko i łatwo. Po zarezerwowaniu spotkania szczegóły trafiają do kalendarza, a Setmore wysyła potwierdzenia e-mailem zarówno do Ciebie, jak i Twojego gościa."
+      "Dodaj przycisk 'Zarezerwuj Teraz' do swojej witryny Shopify i zamień ruch w nowych klientów. Odwiedzający mogą samodzielnie zaplanować swoje usługi w momencie największego zainteresowania, szybko i łatwo. Po zarezerwowaniu spotkania szczegóły trafiają do kalendarza, a  In the Chair wysyła potwierdzenia e-mailem zarówno do Ciebie, jak i Twojego gościa."
     ],
     "shopify_instruction": [
       "Skopiuj poniższy kod.",
@@ -204,8 +208,9 @@
       "Skopiuj poniższy kod.",
       "Zaloguj się do Squarespace, wybierz \"Strony\" i otwórz stronę, na której pojawi się przycisk 'Zarezerwuj Teraz'.",
       "Kliknij kształt łezki, a zobaczysz opcje wstawiania nowego elementu. Wybierz 'Kod'.",
-      "Usuń domyślny kod i wklej kod z Setmore. Zapisz zmiany i przycisk 'Zarezerwuj Teraz' jest gotowy."
+      "Usuń domyślny kod i wklej kod z  In the Chair. Zapisz zmiany i przycisk 'Zarezerwuj Teraz' jest gotowy."
     ],
+    "squarespace_your_code": "Your code :",
     "wix_description": "Zamień ruch w klientów, przyjmując rezerwacje za pośrednictwem witryny Wix.",
     "wix_cardtitle": "Zamień ruch w klientów, przyjmując rezerwacje za pośrednictwem witryny Wix.",
     "wix_long_description": [
@@ -226,9 +231,9 @@
     ],
     "wordpress_instruction": [
       "Zaloguj się do WordPressa i kliknij 'Wtyczki' na lewym pasku nawigacyjnym.",
-      "Wybierz \"Dodaj Nowy\" i wyszukaj Setmore.",
-      "Zlokalizuj wtyczkę Setmore i wybierz Zainstaluj Teraz > Połącz. 'Aktywny' oznacza, że integracja przebiegła pomyślnie.",
-      "Wtyczka jest teraz widoczna na lewym pasku nawigacyjnym. Kliknij ją i zaloguj się do Setmore.",
+      "Wybierz \"Dodaj Nowy\" i wyszukaj  In the Chair.",
+      "Zlokalizuj wtyczkę  In the Chair i wybierz Zainstaluj Teraz > Połącz. 'Aktywny' oznacza, że integracja przebiegła pomyślnie.",
+      "Wtyczka jest teraz widoczna na lewym pasku nawigacyjnym. Kliknij ją i zaloguj się do  In the Chair.",
       "Postępuj zgodnie z ostatnimi instrukcjami i przycisk 'Zarezerwuj Teraz' jest gotowy."
     ],
     "wordpress_your_booking_url": "Adres URL Strony Rezerwacji :",
@@ -239,12 +244,12 @@
     ],
     "drupal_instruction": [
       "Kliknij przycisk 'Pobierz' po prawej stronie tego okna.",
-      "Skopiuj klucz Setmore podany poniżej.",
+      "Skopiuj klucz  In the Chair podany poniżej.",
       "W nowej zakładce zaloguj się do Drupala i kliknij Moduły > Zainstaluj nowy moduł.",
       "Prześlij pobraną wtyczkę i kliknij 'Zainstaluj'.",
       "Postępuj zgodnie z naszym artykułem pomocy technicznej, aby ustawić i zapisać przycisk 'Zarezerwuj teraz'."
     ],
-    "drupal_your_setmore_key": "Twój klucz Setmore :",
+    "drupal_your_in_the_chair": "Twój klucz  In the Chair :",
     "weebly_description": "Połącz swoją niestandardową Stronę Rezerwacji online z witryną Weebly",
     "weebly_cardtitle": "Połącz swoją niestandardową Stronę Rezerwacji online z witryną Weebly.",
     "weebly_long_description": [
@@ -254,32 +259,32 @@
       "Skopiuj poniższy kod.",
       "W edytorze Weebly wybierz stronę i otwórz zestaw narzędzi.",
       "Przeciągnij 'Kod Do Umieszczenia Na Stronie' w miejsce, w którym ma pojawić się przycisk 'Zarezerwuj Teraz'.",
-      "W oknie 'Edytuj Kod' wklej kod z Setmore. Opublikuj wprowadzone zmiany."
+      "W oknie 'Edytuj Kod' wklej kod z  In the Chair. Opublikuj wprowadzone zmiany."
     ],
     "weebly_your_code": "Twój kod :",
     "square online_description": "Dodaj opcje rezerwacji do dowolnej strony witryny Square Online swojej firmy.",
     "square online_cardtitle": "Dodaj opcje rezerwacji spotkań do swojej witryny Square Online.",
     "square online_long_description": [
-      "Dodaj przycisk 'Rezerwuj Teraz' do swojej witryny Square Online i zamień więcej ruchu w klientów. Po kliknięciu pojawi się Strona Rezerwacji. Uderzaj, póki żelazo gorące i umożliw odwiedzającym rezerwację zaraz po przejrzeniu Twoich usług i treści. Szczegóły nowych spotkań pojawiają się w kalendarzu Setmore w czasie rzeczywistym."
+      "Dodaj przycisk 'Rezerwuj Teraz' do swojej witryny Square Online i zamień więcej ruchu w klientów. Po kliknięciu pojawi się Strona Rezerwacji. Uderzaj, póki żelazo gorące i umożliw odwiedzającym rezerwację zaraz po przejrzeniu Twoich usług i treści. Szczegóły nowych spotkań pojawiają się w kalendarzu  In the Chair w czasie rzeczywistym."
     ],
     "square online_instruction": [
       "Skopiuj poniższy kod.",
       "Zaloguj się do Square Online, otwórz stronę i wybierz 'Dodaj sekcję'.",
       "Po lewej stronie wyświetlona zostanie lista elementów strony. Kliknij Kod do umieszczenia na stronie > Dodaj.",
-      "Poniżej 'Layout' ponownie dotknij 'Kod do umieszczenia na stronie' i wklej kod z Setmore.",
+      "Poniżej 'Layout' ponownie dotknij 'Kod do umieszczenia na stronie' i wklej kod z  In the Chair.",
       "Opublikuj zmiany, a przycisk 'Zarezerwuj Teraz' będzie gotowy."
     ],
     "square online_your_code": "Twój kod :",
-    "salesforce_description": "Importuj nowych klientów z Setmore do bazy danych Salesforce.",
+    "salesforce_description": "Importuj nowych klientów z  In the Chair do bazy danych Salesforce.",
     "salesforce_cardtitle": "Zawieraj więcej transakcji, przekazując dane nowych klientów do Salesforce.",
     "salesforce_long_description": [
-      "Automatycznie utwórz kontakt w Salesforce, gdy klient zostanie dodany do Setmore. Twoi nowi potencjalni klienci i klienci zaczną otrzymywać dopasowaną komunikację, pomagając pamiętać o Twoich usługach. Pola danych są mapowane z jednej platformy na drugą, zapewniając prawidłowe przesyłanie danych kontaktowych i eliminując potrzebę ręcznych aktualizacji."
+      "Automatycznie utwórz kontakt w Salesforce, gdy klient zostanie dodany do  In the Chair. Twoi nowi potencjalni klienci i klienci zaczną otrzymywać dopasowaną komunikację, pomagając pamiętać o Twoich usługach. Pola danych są mapowane z jednej platformy na drugą, zapewniając prawidłowe przesyłanie danych kontaktowych i eliminując potrzebę ręcznych aktualizacji."
     ],
     "salesforce_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
-      "Wprowadź dane swojego konta Salesforce i kliknij 'Zezwól', aby Setmore mógł się połączyć.",
+      "Wprowadź dane swojego konta Salesforce i kliknij 'Zezwól', aby  In the Chair mógł się połączyć.",
       "Wybierz 'Utwórz' i kliknij 'Kontynuuj'.",
-      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Salesforce. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między  In the Chair i Salesforce. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
       "Przetestuj integrację, aby zakończyć."
     ],
     "insightly_description": "Zoptymalizuj swój CRM, przekazując dane klientów bezpośrednio do Insightly.",
@@ -290,13 +295,13 @@
     "insightly_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna, a następnie 'Kontynuuj'.",
       "W nowej karcie zaloguj się do Insightly i przejdź do Profil > Ustawienia użytkownika > Klucz API. Skopiuj klucz API.",
-      "Wklej klucz API do Setmore tam, gdzie pojawi się monit i kliknij 'Kontynuuj'.",
+      "Wklej klucz API do  In the Chair tam, gdzie pojawi się monit i kliknij 'Kontynuuj'.",
       "Wybierz 'Utwórz lub Zaktualizuj Kontak' i kliknij 'Kontynuuj' po raz ostatni.",
-      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Insightly.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między  In the Chair i Insightly.",
       "Przetestuj integrację, aby zakończyć."
     ],
-    "clio_description": "Automatycznie przenieś dane nowego klienta z Setmore na swoje konto Clio.",
-    "clio_cardtitle": "Przenieś dane nowego klienta z Setmore do Clio w czasie rzeczywistym.",
+    "clio_description": "Automatycznie przenieś dane nowego klienta z  In the Chair na swoje konto Clio.",
+    "clio_cardtitle": "Przenieś dane nowego klienta z  In the Chair do Clio w czasie rzeczywistym.",
     "clio_long_description": [
       "Skoncentruj się na bieżącej sprawie, podczas gdy istotne informacje o kliencie są automatycznie synchronizowane z Clio. Dzięki tej integracji dane kontaktowe zebrane za pośrednictwem aplikacji i strony Booking są odzwierciedlane na koncie Clio. Twój CRM pozostaje aktualny bez konieczności ręcznego przesyłania danych, umożliwiając zespołowi maksymalizację rozliczanych godzin i budowanie silniejszych relacji."
     ],
@@ -304,73 +309,73 @@
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
       "Wybierz 'Kontakty' jako wyzwalacz wysyłania danych do Clio.",
       "Kliknij '+ Connect' i zaloguj się za pomocą danych konta Clio.",
-      "Wybierz 'Kontakty' jako cel. Gdy nowy klient zostanie dodany do Setmore, jego dane zostaną wykorzystane do utworzenia nowego kontaktu w Clio.",
-      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Clio. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Wybierz 'Kontakty' jako cel. Gdy nowy klient zostanie dodany do  In the Chair, jego dane zostaną wykorzystane do utworzenia nowego kontaktu w Clio.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między  In the Chair i Clio. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
       "Kliknij 'Kontynuuj' i przetestuj integrację, aby zakończyć."
     ],
-    "zoho crm_description": "Zaktualizuj swoje listy kontaktów Zoho CRM o nowe dane klientów z Setmore.",
+    "zoho crm_description": "Zaktualizuj swoje listy kontaktów Zoho CRM o nowe dane klientów z  In the Chair.",
     "zoho crm_cardtitle": "Synchronizuj dane klientów do i z konta Zoho CRM.",
     "zoho crm_long_description": [
-      "Kiedy Twoi odbiorcy czują się zauważeni i zaangażowani, powracające wizyty same się o siebie zatroszczą. Synchronizuj dane klientów z Setmore do Zoho CRM i dołączaj osoby do dostosowanych kampanii e-mailowych. Dane zebrane za pośrednictwem aplikacji i strony Booking Page są odzwierciedlane dokładnie i w czasie rzeczywistym, co pozwala zaoszczędzić niezliczone godziny na ręcznym przesyłaniu danych."
+      "Kiedy Twoi odbiorcy czują się zauważeni i zaangażowani, powracające wizyty same się o siebie zatroszczą. Synchronizuj dane klientów z  In the Chair do Zoho CRM i dołączaj osoby do dostosowanych kampanii e-mailowych. Dane zebrane za pośrednictwem aplikacji i strony Booking Page są odzwierciedlane dokładnie i w czasie rzeczywistym, co pozwala zaoszczędzić niezliczone godziny na ręcznym przesyłaniu danych."
     ],
     "zoho crm_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
       "Zaloguj się przy użyciu nazwy użytkownika i hasła do Zoho CRM.",
-      "Wybierz listę docelową, aby otrzymywać dane klientów od Setmore. Kliknij 'Kontynuuj'.",
-      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Zoho CRM. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Wybierz listę docelową, aby otrzymywać dane klientów od  In the Chair. Kliknij 'Kontynuuj'.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między  In the Chair i Zoho CRM. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
       "Przetestuj integrację do końca"
     ],
     "slack_description": "Otrzymuj automatyczne aktualizacje rezerwacji na wybranym kanale Slack.",
     "slack_cardtitle": "Otrzymuj automatyczne aktualizacje rezerwacji w Slack.",
     "slack_long_description": [
-      "Połącz Setmore ze Slack i otrzymuj aktualizacje rezerwacji na żywo w wyznaczonym kanale. Dzięki przekazywanym w czasie rzeczywistym informacjom o aktywności, wszyscy w kanale pozostają na bieżąco. Otrzymasz natychmiastowe powiadomienie, gdy spotkanie lub profil klienta zostanie utworzony lub edytowany. Nie ma potrzeby odświeżania skrzynki odbiorczej lub przełączania się między aplikacją kalendarza a czatem."
+      "Połącz  In the Chair ze Slack i otrzymuj aktualizacje rezerwacji na żywo w wyznaczonym kanale. Dzięki przekazywanym w czasie rzeczywistym informacjom o aktywności, wszyscy w kanale pozostają na bieżąco. Otrzymasz natychmiastowe powiadomienie, gdy spotkanie lub profil klienta zostanie utworzony lub edytowany. Nie ma potrzeby odświeżania skrzynki odbiorczej lub przełączania się między aplikacją kalendarza a czatem."
     ],
     "slack_instruction": [
       "Kliknij przycisk \"Połącz\" po prawej stronie tego okna.",
       "Wprowadź nazwę domeny Slack i kliknij 'Kontynuuj'.",
       "Zaloguj się przy użyciu nazwy użytkownika i hasła Slack.",
-      "Wybierz kanał otrzymywania aktualizacji od Setmore i kliknij 'Autoryzuj', aby zakończyć."
+      "Wybierz kanał otrzymywania aktualizacji od  In the Chair i kliknij 'Autoryzuj', aby zakończyć."
     ],
-    "quickbooks_description": "Automatyczny eksport szczegółów transakcji z Setmore do QuickBooks.",
-    "quickbooks_cardtitle": "Automatycznie eksportuj szczegóły płatności z Setmore do QuickBooks.",
+    "quickbooks_description": "Automatyczny eksport szczegółów transakcji z  In the Chair do QuickBooks.",
+    "quickbooks_cardtitle": "Automatycznie eksportuj szczegóły płatności z  In the Chair do QuickBooks.",
     "quickbooks_long_description": [
-      "Ułatw sobie prowadzenie księgowości, synchronizując szczegóły płatności z Setmore do QuickBooks. Brak konieczności przenoszenia danych między platformami pozwala zaoszczędzić cenny czas. Dokładność jest również zwiększona, ponieważ dane odzwierciedlają to, co zostało pierwotnie zarejestrowane. Czy wspomnieliśmy, że dane trafiają również do QuickBooks w czasie rzeczywistym? Oto jak połączyć aplikacje."
+      "Ułatw sobie prowadzenie księgowości, synchronizując szczegóły płatności z  In the Chair do QuickBooks. Brak konieczności przenoszenia danych między platformami pozwala zaoszczędzić cenny czas. Dokładność jest również zwiększona, ponieważ dane odzwierciedlają to, co zostało pierwotnie zarejestrowane. Czy wspomnieliśmy, że dane trafiają również do QuickBooks w czasie rzeczywistym? Oto jak połączyć aplikacje."
     ],
     "quickbooks_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
       "Zaloguj się przy użyciu danych konta QuickBooks.",
-      "Wybierz listę, aby otrzymać szczegóły płatności od Setmore.",
-      "Zmapuj pola danych między Setmore i QuickBooks, a następnie przetestuj integrację."
+      "Wybierz listę, aby otrzymać szczegóły płatności od  In the Chair.",
+      "Zmapuj pola danych między  In the Chair i QuickBooks, a następnie przetestuj integrację."
     ],
-    "google calendar_description": "Synchronizuj szczegóły spotkań z Setmore do Kalendarza Google i odwrotnie.",
-    "google calendar_cardtitle": "Wyświetlaj terminy z Setmore i Kalendarza Google w jednym miejscu.",
+    "google calendar_description": "Synchronizuj szczegóły spotkań z  In the Chair do Kalendarza Google i odwrotnie.",
+    "google calendar_cardtitle": "Wyświetlaj terminy z  In the Chair i Kalendarza Google w jednym miejscu.",
     "google calendar_long_description": [
-      "Wyrównanie kalendarzy jest koniecznością, aby mieć kontrolę nad swoją dostępnością. 1-kierunkowa synchronizacja Kalendarza Google jest dostępna dla wszystkich i wyświetla spotkania Setmore w GCal. 2-kierunkowa synchronizacja Kalendarza Google jest integracją Pro i odzwierciedla wydarzenia do i z GCal. Pożegnaj się z podwójnymi rezerwacjami dzięki scentralizowanemu widokowi swojego harmonogramu na dowolnym urządzeniu."
+      "Wyrównanie kalendarzy jest koniecznością, aby mieć kontrolę nad swoją dostępnością. 1-kierunkowa synchronizacja Kalendarza Google jest dostępna dla wszystkich i wyświetla spotkania  In the Chair w GCal. 2-kierunkowa synchronizacja Kalendarza Google jest integracją Pro i odzwierciedla wydarzenia do i z GCal. Pożegnaj się z podwójnymi rezerwacjami dzięki scentralizowanemu widokowi swojego harmonogramu na dowolnym urządzeniu."
     ],
     "google calendar_instruction": [
-      "Sprawdź, czy zarówno Setmore, jak i Kalendarz Google są ustawione na tę samą strefę czasową.",
+      "Sprawdź, czy zarówno  In the Chair, jak i Kalendarz Google są ustawione na tę samą strefę czasową.",
       "For 1-way sync:\"Przejdź do Ustawienia > Mój zespół > Integracja i kliknij 'Pobierz link'. Otwórz Kalendarz Google i w sekcji 'Inne kalendarze' dodaj adres URL.\"",
       "For 2-way sync:\"Przejdź do Ustawienia > Mój zespół > Integracja i przewiń do sekcji 'Synchronizacja Google'. Przestaw przełącznik 'Włącz/Wyłącz' na 'Włącz'\""
     ],
-    "office 365 calendar_description": "Zmniejsz liczbę podwójnych rezerwacji, dostosowując swój harmonogram w Setmore i Kalendarzu Office 365.",
-    "office 365 calendar_cardtitle": "Wyświetl wydarzenia z kalendarza Setmore i Office 365 w jednym miejscu.",
+    "office 365 calendar_description": "Zmniejsz liczbę podwójnych rezerwacji, dostosowując swój harmonogram w  In the Chair i Kalendarzu Office 365.",
+    "office 365 calendar_cardtitle": "Wyświetl wydarzenia z kalendarza  In the Chair i Office 365 w jednym miejscu.",
     "office 365 calendar_long_description": [
-      "Wyrównanie kalendarzy jest koniecznością, aby mieć kontrolę nad swoją dostępnością. Synchronizacja 1-kierunkowa jest dostępna dla wszystkich i wyświetla spotkania Setmore w Kalendarzu Office 365. Synchronizacja dwukierunkowa jest integracją Pro i odzwierciedla wydarzenia do i z Kalendarza Office 365. Pożegnaj się z podwójnymi rezerwacjami dzięki scentralizowanemu widokowi harmonogramu na dowolnym urządzeniu."
+      "Wyrównanie kalendarzy jest koniecznością, aby mieć kontrolę nad swoją dostępnością. Synchronizacja 1-kierunkowa jest dostępna dla wszystkich i wyświetla spotkania  In the Chair w Kalendarzu Office 365. Synchronizacja dwukierunkowa jest integracją Pro i odzwierciedla wydarzenia do i z Kalendarza Office 365. Pożegnaj się z podwójnymi rezerwacjami dzięki scentralizowanemu widokowi harmonogramu na dowolnym urządzeniu."
     ],
     "office 365 calendar_instruction": [
-      "Sprawdź, czy Kalendarz Setmore i Kalendarz Office 365 są ustawione na tę samą strefę czasową.",
+      "Sprawdź, czy Kalendarz  In the Chair i Kalendarz Office 365 są ustawione na tę samą strefę czasową.",
       "For 1-way sync:\"Przejdź do Ustawienia > Mój zespół > Integracja i kliknij 'Pobierz link'. Otwórz Kalendarz Office 365 i w menu 'Otwórz kalendarz' dodaj adres URL.\"",
       "For 2-way sync:\"Przejdź do Ustawienia > Mój zespół > Integracja i przewiń do sekcji 'Synchronizacja Office 365'. Przestaw przełącznik 'Włącz/Wyłącz' na pozycję włączoną\""
     ],
     "gmail_description": "Rezerwuj spotkania bezpośrednio z wiadomości e-mail od klientów w skrzynce odbiorczej Gmaila.",
     "gmail_cardtitle": "Rezerwuj spotkania bezpośrednio ze skrzynki odbiorczej Gmail.",
     "gmail_long_description": [
-      "Po kliknięciu dodatku Setmore dla Gmail w formularzu rezerwacji pojawi się następny dostępny termin spotkania. Wystarczy tylko potwierdzić szczegóły i zostaną one dodane do kalendarza. Nie ma potrzeby przełączania się między skrzynką odbiorczą a aplikacją do planowania, a klient otrzymuje natychmiastowe potwierdzenie rezerwacji."
+      "Po kliknięciu dodatku  In the Chair dla Gmail w formularzu rezerwacji pojawi się następny dostępny termin spotkania. Wystarczy tylko potwierdzić szczegóły i zostaną one dodane do kalendarza. Nie ma potrzeby przełączania się między skrzynką odbiorczą a aplikacją do planowania, a klient otrzymuje natychmiastowe potwierdzenie rezerwacji."
     ],
     "gmail_instruction": [
       "W Gmailu kliknij ikonę '+' w prawym panelu bocznym.",
-      "Wyszukaj 'Setmore dla Gmail' i zainstaluj dodatek.",
-      "Dodatek będzie teraz dostępny w panelu bocznym. Aby zakończyć konfigurację, kliknij dodatek i wprowadź swoją nazwę użytkownika i hasło Setmore."
+      "Wyszukaj ' In the Chair dla Gmail' i zainstaluj dodatek.",
+      "Dodatek będzie teraz dostępny w panelu bocznym. Aby zakończyć konfigurację, kliknij dodatek i wprowadź swoją nazwę użytkownika i hasło  In the Chair."
     ],
     "google analytics_description": "Śledź, co robią odwiedzający, gdy trafią na Stronę Rezerwacji Twojej firmy.",
     "google analytics_cardtitle": "Zbieraj informacje o odwiedzających i wydajności ze Strony Rezerwacji.",
@@ -390,27 +395,27 @@
     "serviceminder_description": "Automatyczne wysyłanie danych klienta do konta ServiceMinder.",
     "serviceminder_cardtitle": "Aktualizuj listę ServiceMinder bez konieczności ręcznego przenoszenia.",
     "serviceminder_long_description": [
-      "Automatycznie synchronizuj dane nowych klientów z Setmore z preferowaną listą ServiceMinder. Ta integracja nie tylko oszczędza czas, ale także umożliwia wykorzystanie danych klientów w ukierunkowanych kampaniach e-mailowych. Upewnij się, że Twoi odbiorcy pozostają zaangażowani po wstępnych wycenach i zleceniach. Następnym razem, gdy będą potrzebować naprawy lub usługi w domu, Twoja firma będzie o nich pamiętać."
+      "Automatycznie synchronizuj dane nowych klientów z  In the Chair z preferowaną listą ServiceMinder. Ta integracja nie tylko oszczędza czas, ale także umożliwia wykorzystanie danych klientów w ukierunkowanych kampaniach e-mailowych. Upewnij się, że Twoi odbiorcy pozostają zaangażowani po wstępnych wycenach i zleceniach. Następnym razem, gdy będą potrzebować naprawy lub usługi w domu, Twoja firma będzie o nich pamiętać."
     ],
     "serviceminder_instruction": [
-      "W nowej karcie przeglądarki zaloguj się do ServiceMinder i przejdź do Administracja > Panel sterowania > Klucze API. Skopiuj klucz API i wróć do Setmore.",
+      "W nowej karcie przeglądarki zaloguj się do ServiceMinder i przejdź do Administracja > Panel sterowania > Klucze API. Skopiuj klucz API i wróć do  In the Chair.",
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna, a następnie 'Kontynuuj'.",
-      "Wybierz listę docelową, aby otrzymywać dane klientów od Setmore. Kliknij 'Kontynuuj'.",
+      "Wybierz listę docelową, aby otrzymywać dane klientów od  In the Chair. Kliknij 'Kontynuuj'.",
       "Wybierz 'Kontakt' (aby udostępnić tylko nowe dane klienta) lub \"Aktualizuj kontakt\" (aby udostępnić nowe i edytowane dane klienta) i kliknij 'Kontynuuj'.",
-      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i ServiceMinder. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między  In the Chair i ServiceMinder. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
       "Przetestuj integrację, aby zakończyć."
     ],
-    "zapier_description": "Twórz niestandardowe zapy i łącz Setmore z niezliczonymi aplikacjami innych fir.",
-    "zapier_cardtitle": "Twórz niestandardowe Zapy i łącz Setmore z niezliczonymi aplikacjami.",
+    "zapier_description": "Twórz niestandardowe zapy i łącz  In the Chair z niezliczonymi aplikacjami innych fir.",
+    "zapier_cardtitle": "Twórz niestandardowe Zapy i łącz  In the Chair z niezliczonymi aplikacjami.",
     "zapier_long_description": [
-      "Od wysyłania szczegółów spotkania do tablicy Trello, po dodawanie nowych klientów do kampanii ClickUp, istnieje Zap dla każdego rodzaju działalności. Wystarczy zdefiniować wyzwalacz (np. rezerwację spotkania) i informacje do pobrania (np. czas spotkania i adres e-mail klienta). Po włączeniu Zap dane są automatycznie udostępniane z Setmore.",
+      "Od wysyłania szczegółów spotkania do tablicy Trello, po dodawanie nowych klientów do kampanii ClickUp, istnieje Zap dla każdego rodzaju działalności. Wystarczy zdefiniować wyzwalacz (np. rezerwację spotkania) i informacje do pobrania (np. czas spotkania i adres e-mail klienta). Po włączeniu Zap dane są automatycznie udostępniane z  In the Chair.",
       "Note:W zależności od działania, niektóre Zapy mogą wymagać konta Pro lub Team,"
     ],
     "zapier_instruction": [
-      "Zaloguj się do Zapier i kliknij 'Moje aplikacje'. Wyszukaj Setmore.",
-      "Kliknij ikonę Setmore i zaloguj się przy użyciu nazwy użytkownika i hasła. Setmore będzie teraz wyświetlany w sekcji 'Moje połączenia'.",
+      "Zaloguj się do Zapier i kliknij 'Moje aplikacje'. Wyszukaj  In the Chair.",
+      "Kliknij ikonę  In the Chair i zaloguj się przy użyciu nazwy użytkownika i hasła.  In the Chair będzie teraz wyświetlany w sekcji 'Moje połączenia'.",
       "Kliknij 'Make a Zap' i wybierz aplikację do połączenia. Następnie zdefiniuj wyzwalacz i akcję.",
-      "Potwierdź dane, które chcesz udostępnić z Setmore do innej aplikacji.",
+      "Potwierdź dane, które chcesz udostępnić z  In the Chair do innej aplikacji.",
       "Kliknij 'Włącz Zap', aby zakończyć.",
       [
         "Aby uzyskać ilustrowane instrukcje dotyczące tworzenia Zapów, przeczytaj nasz artykuł pomocy technicznej."
@@ -419,14 +424,14 @@
     "freshdesk_description": "Planuj osobiste i wirtualne spotkania bezpośrednio z pulpitu Freshdesk.",
     "freshdesk_cardtitle": "Planowanie spotkań bezpośrednio z pulpitu Freshdesk.",
     "freshdesk_long_description": [
-      "Obsługuj więcej zgłoszeń dzięki wtyczce Setmore dla Freshdesk. Agenci pomocy technicznej mogą przeglądać dostępność swojego zespołu i rezerwować spotkania z poziomu pulpitu nawigacyjnego. Pozwala to nie tylko ograniczyć liczbę połączeń tam i z powrotem, ale także szybciej kierować klientów do odpowiednich specjalistów. Dzięki integracjom Teleport i Zoom, agenci mogą również potwierdzać spotkania wideo dla rozwiązań zdalnych."
+      "Obsługuj więcej zgłoszeń dzięki wtyczce  In the Chair dla Freshdesk. Agenci pomocy technicznej mogą przeglądać dostępność swojego zespołu i rezerwować spotkania z poziomu pulpitu nawigacyjnego. Pozwala to nie tylko ograniczyć liczbę połączeń tam i z powrotem, ale także szybciej kierować klientów do odpowiednich specjalistów. Dzięki integracjom Teleport i Zoom, agenci mogą również potwierdzać spotkania wideo dla rozwiązań zdalnych."
     ],
     "freshdesk_instruction": [
-      "Zaloguj się do Freshdesk i przejdź do Ustawienia > Aplikacje. Wyszukaj 'Setmore' w sklepie i zainstaluj wtyczkę.",
-      "Wtyczka pojawi się na lewym pasku nawigacyjnym pulpitu nawigacyjnego Freshdesk. Kliknij wtyczkę Setmore.",
-      "Kliknij 'Autoryzuj' i zaloguj się na swoje konto Setmore. Nastąpi przekierowanie do Freshdesk",
+      "Zaloguj się do Freshdesk i przejdź do Ustawienia > Aplikacje. Wyszukaj ' In the Chair' w sklepie i zainstaluj wtyczkę.",
+      "Wtyczka pojawi się na lewym pasku nawigacyjnym pulpitu nawigacyjnego Freshdesk. Kliknij wtyczkę  In the Chair.",
+      "Kliknij 'Autoryzuj' i zaloguj się na swoje konto  In the Chair. Nastąpi przekierowanie do Freshdesk",
       [
-        "Kliknięcie wtyczki Setmore spowoduje otwarcie strony rezerwacji w wyskakującym okienku."
+        "Kliknięcie wtyczki  In the Chair spowoduje otwarcie strony rezerwacji w wyskakującym okienku."
       ]
     ],
     "zendesk_description": "Umożliw swoim pracownikom pomocy technicznej rezerwowanie spotkań z poziomu Zendesk.",
@@ -437,16 +442,18 @@
     "zendesk_instruction": [
       "Zaloguj się do Zendesk i kliknij przycisk 'Produkty Zendesk' (cztery kwadraty) obok swojego awatara. Wybierz 'Centrum Administracyjne'.",
       "Kliknij 'Aplikacje i integracje' na lewym pasku nawigacyjnym i wybierz 'Aplikacje Zendesk Support'.",
-      "W sekcji 'Moje Aplikacje' kliknij przycisk 'Marketplace'. Wybierz aplikację 'Setmore dla Wsparcia' i kliknij 'Zainstaluj'.",
-      "Postępuj zgodnie z instrukcjami uwierzytelniania i zaloguj się do Setmore.",
+      "W sekcji 'Moje Aplikacje' kliknij przycisk 'Marketplace'. Wybierz aplikację ' In the Chair dla Wsparcia' i kliknij 'Zainstaluj'.",
+      "Postępuj zgodnie z instrukcjami uwierzytelniania i zaloguj się do  In the Chair.",
       "Po zakończeniu uwierzytelniania kliknij ponownie 'Zainstaluj'."
     ],
     "answerconnect_description": "Pozwól zespołowi agentów odbierających połączenia 24/7 planować spotkania dla Ciebie.",
     "answerconnect_cardtitle": "Pozwól zespołowi agentów telefonicznych 24/7 planować spotkania dla Ciebie.",
     "answerconnect_long_description": [
-      "Nigdy nie przegap połączenia z pomocą AnswerConnect. Twoja firma jest wyposażona w agentów telefonicznych na żywo, którzy zapewniają, że każdy klient otrzyma ciepłe powitanie. Agenci nie tylko postępują zgodnie z Twoim niestandardowym skryptem, ale także planują spotkania w Twoim imieniu. Skoncentruj się na świadczeniu usług, podczas gdy agenci AnswerConnect ustawiają nowe rezerwacje w kalendarzu Setmore."
+      "Nigdy nie przegap połączenia z pomocą AnswerConnect. Twoja firma jest wyposażona w agentów telefonicznych na żywo, którzy zapewniają, że każdy klient otrzyma ciepłe powitanie. Agenci nie tylko postępują zgodnie z Twoim niestandardowym skryptem, ale także planują spotkania w Twoim imieniu. Skoncentruj się na świadczeniu usług, podczas gdy agenci AnswerConnect ustawiają nowe rezerwacje w kalendarzu  In the Chair."
     ],
-    "answerconnect_instruction": ["Zarejestruj konto AnswerConnect."],
+    "answerconnect_instruction": [
+      "Zarejestruj konto AnswerConnect."
+    ],
     "google tag manager_description": "Dostosuj swoją Stronę Rezerwacji online, monitorując sposób, w jaki odwiedzający angażują się i nawigują.",
     "google tag manager_cardtitle": "Monitoruj, w jaki sposób odwiedzający korzystają z niestandardowej Strony Rezerwacji.",
     "google tag manager_long_description": [
@@ -455,48 +462,48 @@
     "google tag manager_instruction": [
       "Otwórz nową kartę przeglądarki i zaloguj się do GTM. Kliknij 'Utwórz konto'.",
       "Wypełnij formularz konfiguracji konta i kontenera, a następnie kliknij przycisk 'Utwórz'.",
-      "Skopiuj identyfikator kontenera GTM i wróć do Setmore. Wklej identyfikator w odpowiednie pole formularza i zapisz zmiany.",
+      "Skopiuj identyfikator kontenera GTM i wróć do  In the Chair. Wklej identyfikator w odpowiednie pole formularza i zapisz zmiany.",
       [
         "Aby dowiedzieć się, jak tworzyć tagi przechwytujące aktywność Strony Rezerwacji, przeczytaj nasz artykuł pomocy technicznej,"
       ]
     ],
-    "constant contact_description": "Natychmiastowe przesyłanie danych nowych klientów z Setmore do Constant Contact.",
+    "constant contact_description": "Natychmiastowe przesyłanie danych nowych klientów z  In the Chair do Constant Contact.",
     "constant contact_cardtitle": "Automatycznie przesyłaj dane nowych klientów do Constant Contact.",
     "constant contact_long_description": [
-      "Gdy nowy klient zostanie dodany do Setmore, jego dane zostaną odzwierciedlone na wybranej liście Constant Contact. Dzieje się to w czasie rzeczywistym i zapewnia aktualność CRM bez konieczności ręcznego przesyłania danych. Klienci mogą zostać włączeni do dostosowanych kampanii e-mailowych, zachęcających ich do ponownej rezerwacji i pozostania lojalnymi wobec Twojej marki."
+      "Gdy nowy klient zostanie dodany do  In the Chair, jego dane zostaną odzwierciedlone na wybranej liście Constant Contact. Dzieje się to w czasie rzeczywistym i zapewnia aktualność CRM bez konieczności ręcznego przesyłania danych. Klienci mogą zostać włączeni do dostosowanych kampanii e-mailowych, zachęcających ich do ponownej rezerwacji i pozostania lojalnymi wobec Twojej marki."
     ],
     "constant contact_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna, a następnie 'Kontynuuj'.",
-      "Zaloguj się za pomocą nazwy użytkownika i hasła Stały Kontakt. Kliknij 'Zezwól', aby przyznać dostęp Setmore.",
+      "Zaloguj się za pomocą nazwy użytkownika i hasła Stały Kontakt. Kliknij 'Zezwól', aby przyznać dostęp  In the Chair.",
       "Wybierz 'Kontakt' (aby udostępnić tylko nowe dane klienta) lub 'Aktualizuj kontakt' (aby udostępnić nowe i edytowane dane klienta) i kliknij 'Kontynuuj'.",
-      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Constant Contact. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między  In the Chair i Constant Contact. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
       "Przetestuj integrację, aby zakończyć."
     ],
-    "hubspot_description": "Zbuduj listę kontaktów HubSpot z danymi nowych klientów z Setmore.",
-    "hubspot_cardtitle": "Zbuduj listę kontaktów HubSpot z nowymi klientami z Setmore.",
+    "hubspot_description": "Zbuduj listę kontaktów HubSpot z danymi nowych klientów z  In the Chair.",
+    "hubspot_cardtitle": "Zbuduj listę kontaktów HubSpot z nowymi klientami z  In the Chair.",
     "hubspot_long_description": [
       "Automatycznie eksportuj dane klientów do preferowanej listy kontaktów HubSpot. Od samego początku Twoi najnowsi fani otrzymują e-mailem odpowiednie wiadomości i oferty, pomagając im pamiętać o Twoich usługach. Nie ma potrzeby ręcznych aktualizacji, ponieważ dane zebrane za pośrednictwem aplikacji i Strony Rezerwacji są natychmiast odzwierciedlane w HubSpot."
     ],
     "hubspot_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
       "Zaloguj się za pomocą nazwy użytkownika i hasła HubSpot.",
-      "Kliknij 'Połącz aplikację', aby umożliwić Setmore i HubSpot udostępnianie danych."
+      "Kliknij 'Połącz aplikację', aby umożliwić  In the Chair i HubSpot udostępnianie danych."
     ],
     "mailchimp_description": "Automatycznie dodawaj najnowszych klientów do ukierunkowanych kampanii e-mail.",
     "mailchimp_cardtitle": "Automatycznie dołączaj nowych klientów do ukierunkowanych kampanii e-mailowych.",
     "mailchimp_long_description": [
-      "Zbuduj więcej połączeń i wzmocnij swoje działania marketingowe dzięki integracji z Mailchimp. Dane nowych klientów pobierane przez Setmore są synchronizowane z preferowaną listą subskrybentów Mailchimp. Transfer odbywa się natychmiastowo, pomagając zaoszczędzić mnóstwo czasu. Zachowaj zaangażowanie odbiorców po dokonaniu pierwszej rezerwacji, wysyłając wartościowe treści bezpośrednio do ich skrzynki odbiorczej."
+      "Zbuduj więcej połączeń i wzmocnij swoje działania marketingowe dzięki integracji z Mailchimp. Dane nowych klientów pobierane przez  In the Chair są synchronizowane z preferowaną listą subskrybentów Mailchimp. Transfer odbywa się natychmiastowo, pomagając zaoszczędzić mnóstwo czasu. Zachowaj zaangażowanie odbiorców po dokonaniu pierwszej rezerwacji, wysyłając wartościowe treści bezpośrednio do ich skrzynki odbiorczej."
     ],
     "mailchimp_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
       "Na ekranie 'Wyzwalacz konfiguracji' wstępnie wybrane zostaną 'Kontakty'. Kliknij 'Kontynuuj'.",
       "Na ekranie 'Wybierz konto' kliknij 'Połącz'. Zaloguj się za pomocą nazwy użytkownika i hasła Mailchimp.",
-      "Na ekranie 'Autoryzuj Setmore' kliknij 'Zezwól'. Umożliwi to Setmore udostępnianie danych.",
-      "Wybierz listę subskrybentów, aby otrzymywać dane klientów od Setmore.",
-      "Zmapuj pola danych (np. imię i nazwisko, adres e-mail) między Setmore i Mailchimp. Zapewni to, że prawidłowe dane wypełnią odpowiednie pola. Kliknij 'Kontynuuj'.",
+      "Na ekranie 'Autoryzuj  In the Chair' kliknij 'Zezwól'. Umożliwi to  In the Chair udostępnianie danych.",
+      "Wybierz listę subskrybentów, aby otrzymywać dane klientów od  In the Chair.",
+      "Zmapuj pola danych (np. imię i nazwisko, adres e-mail) między  In the Chair i Mailchimp. Zapewni to, że prawidłowe dane wypełnią odpowiednie pola. Kliknij 'Kontynuuj'.",
       "Przetestuj integrację, aby zakończyć."
     ],
-    "mailerlite_description": "Eksportuj dane klienta z Setmore, aby utworzyć subskrybentów w MailerLite.",
+    "mailerlite_description": "Eksportuj dane klienta z  In the Chair, aby utworzyć subskrybentów w MailerLite.",
     "mailerlite_cardtitle": "Automatycznie eksportuj dane klientów do listy kontaktów MailerLite.",
     "mailerlite_long_description": [
       "Oszczędzaj cenny czas, automatyzując zarządzanie kontaktami. Ta integracja wysyła dane nowych klientów z aplikacji i Strony Rezerwacji prosto do MailerLite. Wystarczy wybrać szczegóły do udostępnienia, a lista kontaktów zostanie zaktualizowana w tle. Podczas gdy Ty skupiasz się na świadczeniu usług, CRM pozostaje na bieżąco, a Twoi nowi goście otrzymują ukierunkowany marketing e-mailowy."
@@ -507,42 +514,42 @@
       "Na ekranie 'Wyzwalacz konfiguracji' wstępnie wybrane zostaną 'Kontakty'. Kliknij 'Kontynuuj'.",
       "Skopiuj i wklej swój klucz API (zobaczysz link do jego pobrania).",
       "Na ekranie 'Konfiguracja celu' zostanie wstępnie wybrana opcja 'Utwórz lub zaktualizuj subskrybenta'. Kliknij 'Kontynuuj'.",
-      "Wybierz grupę subskrybentów, która będzie otrzymywać dane klientów od Setmore. Kliknij 'Kontynuuj'.",
+      "Wybierz grupę subskrybentów, która będzie otrzymywać dane klientów od  In the Chair. Kliknij 'Kontynuuj'.",
       "Przetestuj integrację, aby zakończyć."
     ],
-    "keap_description": "Automatycznie dodawaj nowych klientów Setmore do dostosowanych kampanii Keap.",
+    "keap_description": "Automatycznie dodawaj nowych klientów  In the Chair do dostosowanych kampanii Keap.",
     "keap_cardtitle": "Automatycznie dołączaj nowych klientów do dostosowanych kampanii Keap.",
     "keap_long_description": [
-      "Gdy profil klienta zostanie utworzony w Setmore, szczegóły zostaną zsynchronizowane z kontem Keap. Udostępniaj odpowiednie wiadomości lub oferty różnym segmentom odbiorców i zwiększaj zaangażowanie w swoje usługi. Mapując pola danych między platformami, nie pozostawiasz miejsca na błędy. Lista kontaktów Keap aktualizuje się w tle, oszczędzając cenny czas."
+      "Gdy profil klienta zostanie utworzony w  In the Chair, szczegóły zostaną zsynchronizowane z kontem Keap. Udostępniaj odpowiednie wiadomości lub oferty różnym segmentom odbiorców i zwiększaj zaangażowanie w swoje usługi. Mapując pola danych między platformami, nie pozostawiasz miejsca na błędy. Lista kontaktów Keap aktualizuje się w tle, oszczędzając cenny czas."
     ],
     "keap_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
       "Zaloguj się za pomocą nazwy użytkownika i hasła Keap.",
-      "Kliknij 'Zezwól', aby umożliwić Setmore i Keap udostępnianie danych.",
+      "Kliknij 'Zezwól', aby umożliwić  In the Chair i Keap udostępnianie danych.",
       "Przejdź do 'Ustawień', aby wyświetlić i edytować dane klienta, które zostaną zsynchronizowane z Keap."
     ],
-    "xero_description": "Przesyłaj szczegóły płatności z Setmore do Xero w czasie rzeczywistym.",
-    "xero_cardtitle": "Przesyłaj szczegóły płatności z Setmore do Xero w czasie rzeczywistym.",
+    "xero_description": "Przesyłaj szczegóły płatności z  In the Chair do Xero w czasie rzeczywistym.",
+    "xero_cardtitle": "Przesyłaj szczegóły płatności z  In the Chair do Xero w czasie rzeczywistym.",
     "xero_long_description": [
-      "Dokładnie śledź swoje przychody i oszczędzaj czas na ręcznym przesyłaniu danych dzięki integracji z Xero. Po włączeniu tej funkcji wszystkie transakcje są synchronizowane z Setmore do konta Xero, niezależnie od tego, czy przyjęto płatności gotówką, kartą czy cyfrowo. Szczegóły pojawiają się w Xero natychmiast i tak, jak zostały pierwotnie zarejestrowane, pomagając usprawnić księgowość."
+      "Dokładnie śledź swoje przychody i oszczędzaj czas na ręcznym przesyłaniu danych dzięki integracji z Xero. Po włączeniu tej funkcji wszystkie transakcje są synchronizowane z  In the Chair do konta Xero, niezależnie od tego, czy przyjęto płatności gotówką, kartą czy cyfrowo. Szczegóły pojawiają się w Xero natychmiast i tak, jak zostały pierwotnie zarejestrowane, pomagając usprawnić księgowość."
     ],
     "xero_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
       "Wybierz 'Faktura' jako wyzwalacz i kliknij 'Kontynuuj'.",
       "Kliknij '+ Połącz' i zaloguj się przy użyciu danych konta Xero.",
-      "Zezwól na dostęp do Setmore i wybierz listę do odbierania danyc.",
-      "Zmapuj pola danych między Setmore i Xero, a następnie przetestuj integrację."
+      "Zezwól na dostęp do  In the Chair i wybierz listę do odbierania danyc.",
+      "Zmapuj pola danych między  In the Chair i Xero, a następnie przetestuj integrację."
     ],
     "fresh sales_description": "Zsynchronizuj dane potencjalnych klientów i klientów z Freshsales, aby zorganizować potok.",
     "fresh sales_cardtitle": "Zsynchronizuj dane potencjalnych klientów i klientów z Freshsales, aby zorganizować potok.",
     "fresh sales_long_description": [
-      "Upewnij się, że Twoja baza danych CRM jest aktualna i umożliw swojemu zespołowi zwiększenie sprzedaży. Ta integracja eksportuje dane nowych potencjalnych klientów i klientów z Setmore do konta Freshsales. Niezależnie od tego, czy informacje kontaktowe i istotne notatki są gromadzone za pośrednictwem aplikacji Strony Rezerwacji, są one odzwierciedlane dokładnie i w czasie rzeczywistym."
+      "Upewnij się, że Twoja baza danych CRM jest aktualna i umożliw swojemu zespołowi zwiększenie sprzedaży. Ta integracja eksportuje dane nowych potencjalnych klientów i klientów z  In the Chair do konta Freshsales. Niezależnie od tego, czy informacje kontaktowe i istotne notatki są gromadzone za pośrednictwem aplikacji Strony Rezerwacji, są one odzwierciedlane dokładnie i w czasie rzeczywistym."
     ],
     "fresh sales_instruction": [
       "Kliknij przycisk 'Połącz' po prawej stronie tego okna.",
       "Wprowadź swój klucz API Freshsales i subdomenę, a następnie kliknij 'Kontynuuj'.",
-      "Wybierz listę docelową, aby otrzymywać dane klientów od Setmore. Kliknij 'Kontynuuj'.",
-      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między Setmore i Freshsales. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
+      "Wybierz listę docelową, aby otrzymywać dane klientów od  In the Chair. Kliknij 'Kontynuuj'.",
+      "Mapowanie pól danych (np. imię i nazwisko, adres e-mail) między  In the Chair i Freshsales. Zapewnia to, że prawidłowe dane wypełniają odpowiednie pola.",
       "Przetestuj integrację, aby zakończyć."
     ],
     "reserve with google_description": "Daj się odkryć i zarezerwować w wyszukiwarce Google i Google Maps.",
@@ -559,17 +566,32 @@
         "Po połączeniu kont zazwyczaj potrzeba 1-3 dni, aby zmiany zostały odzwierciedlone w profilu biznesowym Google."
       ]
     ],
+    "to_activate_google_reserve": "Follow these steps in order to meet Google’s requirements.",
+    "google_reserve_st1": "Step 1: Business address",
+    "google_reserve_street_st1": "Street address is required",
+    "google_reserve_city_st1": "City is required",
+    "google_reserve_State_st1": "State is required",
+    "google_reserve_zip_st1": "Zip code is required",
+    "google_reserve_st2": "Step 2: Services",
+    "google_reserve_all_invalid_sta2": "Before submitting to Google, you'll need to remove special characters from the following service names.",
+    "google_reserve_below_all_invalid_sta2": "Please remove special characters to continue submitting to Google.",
+    "google_reserve_sta2": "If any services require editing, they'll display below.",
+    "google_reserve_below_invalid_sta2": "Services with special characters in names cannot be submitted to Google",
+    "edit_services": "Edit service names",
+    "google_reserve_st3": "Step 3: Google verification",
+    "google_reserve_sta3": "Verified businesses appear in Google Search and Maps results. If your business appears, it’s most likely verified. Your Google-verified business address must match the address in In the Chair.",
+    "learn_more": "Learn More",
     "intercom_description": "Czatuj i przyjmuj rezerwacje bezpośrednio z Messengera i skrzynki odbiorczej.",
     "intercom_cardtitle": "Czatuj i przyjmuj rezerwacje bezpośrednio z Messengera i skrzynki odbiorczej.",
     "intercom_long_description": [
       "Potencjalni klienci mogą nie tylko łączyć się z Tobą przez Intercom, ale także planować spotkania. Umieść wygodny przycisk 'Zarezerwuj teraz' na ekranie głównym Messengera i udostępnij go w czatach w skrzynce odbiorczej, oferując ludziom natychmiastową możliwość zarezerwowania czasu. Jedno kliknięcie i pojawia się strona rezerwacji. Wykorzystaj ruch w witrynie, szybciej rozwiązuj zapytania i ulepszaj każdą rozmowę.",
-      "Note: Obecnie przycisk rezerwacji Setmore będzie widoczny tylko na komputerach stacjonarnych."
+      "Note: Obecnie przycisk rezerwacji  In the Chair będzie widoczny tylko na komputerach stacjonarnych."
     ],
     "intercom_instruction": [
-      "Przejdź do Intercom App Store i zainstaluj 'Setmore'. Umożliwia to udostępnianie przycisku 'Zarezerwuj teraz' w czatach w skrzynce odbiorczej. Aby dodać go do Messengera, przejdź do kroku 2.",
+      "Przejdź do Intercom App Store i zainstaluj ' In the Chair'. Umożliwia to udostępnianie przycisku 'Zarezerwuj teraz' w czatach w skrzynce odbiorczej. Aby dodać go do Messengera, przejdź do kroku 2.",
       "Otwórz pulpit nawigacyjny Intercom i kliknij 'Messenger' na lewym pasku nawigacyjnym.",
       "Kliknij \"Dodaj aplikacje do Messengera\" i wybierz odbiorców.",
-      "Kliknij \"Dodaj aplikację\" i wybierz aplikację 'Setmore'. Dodaj link do rezerwacji i dostosuj tekst oraz nagłówek przycisku."
+      "Kliknij \"Dodaj aplikację\" i wybierz aplikację ' In the Chair'. Dodaj link do rezerwacji i dostosuj tekst oraz nagłówek przycisku."
     ],
     "video_meeting_integrations": "Spotkanie wideo",
     "social_media_integrations": "Media społecznościowe",
@@ -582,8 +604,8 @@
     "business_app_integrations": "Aplikacja biznesowa",
     "marketing_integrations": "Marketing",
     "accept_payments": "Integracje płatności",
-    "integration_connected": "<APP NAME> Integracja połączona",
-    "integration_disconnect": "<APP NAME> Integracja rozłączona",
+    "integration_connected": "<APP NAME> połączona",
+    "integration_disconnect": "<APP NAME> rozłączona",
     "button_update": "Zaktualizuj",
     "button_copy": "Kopiuj",
     "button_cancel": "Usuń",
@@ -592,7 +614,7 @@
     "button_delete": "Usuń",
     "cash_connected": "Podłączona kasa fiskalna",
     "cash_disconnect": "Kasa odłączona",
-    "to_enable_this": "Aby włączyć tę integrację, musisz zezwolić Setmore i <APP NAME> na udostępnianie szczegółów",
+    "to_enable_this": "Aby włączyć tę integrację, musisz zezwolić  In the Chair i <APP NAME> na udostępnianie szczegółów",
     "choose_your_location": "Wybierz lokalizację",
     "select_location": "Wybierz lokalizację",
     "you_must_select": "Musisz wybrać lokalizację firmy, aby kontynuować integrację kont. Spróbuj ponownie",
@@ -611,7 +633,7 @@
     "yes_switch_off": "Tak, wyłącz",
     "yes_switch_on": "Tak, włącz",
     "yes_open": "Tak, otwórz",
-    "setmore_is_currently": "Aplikacja Setmore synchronizuje obecnie <APP NAME>. Odczekaj kilka chwil przed dezaktywacją synchronizacji. Dziękujemy za cierpliwość",
+    "in_the_chair_is_currently": "Aplikacja  In the Chair synchronizuje obecnie <APP NAME>. Odczekaj kilka chwil przed dezaktywacją synchronizacji. Dziękujemy za cierpliwość",
     "sync_in_progress": "Synchronizacja w toku",
     "have_a_question": "Masz pytanie",
     "chat_with_us": "Czatuj z nami",
@@ -629,16 +651,28 @@
     "button_continue_activation": "Kontynuuj aktywację",
     "usage_alert": "<BRAND NAME> Użytkowanie",
     "third_party_integration": "Włączając usługę integracji strony trzeciej, użytkownik niniejszym wyraża zgodę na przyjęcie odpowiedzialności HIPAA za korzystanie z tej usługi i wyraża zgodę na nasze <Terms of Service> zgodne z HIPAA",
-    "your_hashtags": "Twoje hashtagi :",
+    "your_hashtags": "Twoje hashtagi:",
     "instructions_title": "Instrukcje",
-    "only_tagged_pictures": "Tylko oznaczone zdjęcia z konta na Instagramie będą wyświetlane na stronie rezerwacji",
+    "only_tagged_pictures": "Deleting a hashtag stops your Booking Page from displaying past and future posts that use the hashtag.",
     "button_copied": "Skopiowano!",
     "integration_updated": "<APP NAME> Zaktualizowana integracja",
     "there_is_a_hickup": "Wystąpiła usterka Coś nie zadziałało prawidłowo. Spróbuj ponownie..",
     "get_code": "Zdobądź kod",
     "something_went_wrong_deactivate": "Coś poszło nie tak, prosimy o dezaktywację i ponowną aktywację.",
     "disconect_message": "Rozłączenie spowodowałoby trwałe usunięcie przepływu pracy. Czy na pewno chcesz się rozłączyć?",
-    "alert_disconnect_integration": "Rozłącz <APP NAME>",
+    "disconect_message_video_meeting_integrations": "New appointments will not have <APP NAME> links attached. <APP NAME> links for previously scheduled appointments will be removed, but the appointments will stay in your calendar.",
+    "disconect_message_social_media_integrations": "Your <APP NAME> page will no longer display the ‘Book now’ button that directs people to your Booking Page. To take bookings from  <APP NAME> again, you’ll need to reconnect your accounts.",
+    "disconect_message_social_media_integrations_instagram streaming": "Your Booking Page’s Photos section will no longer update with new Instagram posts. To stream posts from Instagram again, you’ll need to reconnect your accounts.",
+    "disconect_message_payment_integrations": "You’ll no longer be able to process payments through your calendar or Booking Page. However, previous payment data will remain in your accounts.",
+    "disconect_message_payment_integrations_paypal": "You’ll no longer be able to process payments through your Booking page. However, previous payment data will remain in your accounts.",
+    "disconect_message_payment_integrations_cash": "You’ll no longer be able to process payments through your calendar. However, previous payment data will remain in your accounts.",
+    "disconect_message_sales_and_crm_integrations": "Customer details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
+    "disconect_message_accounting_integrations": "Transaction details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
+    "disconect_message_calendar_sync_integrations": "New event details will no longer sync between your <BRAND NAME> and <APP NAME>. Previously synced events will only appear in the calendar they were created in.",
+    "disconect_message_marketing_integrations": "Customer details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
+    "disconect_message_business_app_integrations": "<APP NAME> will no longer track Booking Page activity, but data recorded previously will remain available in your account.",
+    "disconect_message_business_app_integrations_slack": "The Slack channel that receives booking and customer updates from In the Chair will be deleted. To view this channel again, you’ll need to reconnect your accounts.",
+    "alert_disconnect_integration": "Rozłącz <APP NAME>?",
     "label_connected": "Połączono",
     "label_disconnected": "Rozłączono",
     "label_pro_tag": "Spróbuj Pro",
@@ -655,32 +689,40 @@
     "maximum_limit_reached": "Co 30 minut z konta może zostać wysłanych maksymalnie 10 wiadomości e-mail. Poczekaj chwilę i spróbuj ponownie",
     "failed_to_activate": "Nie udało się aktywować",
     "unable_to_deactivate": "Nie można dezaktywować",
-    "to_activate_google_reserve": "Aby aktywować usługę Reserve w Google i czerpać z niej korzyści, firma musi spełniać następujące wymagania:",
-    "google_reserve_st1": "Krok 1: Przejrzyj adres swojej firmy",
-    "google_reserve_st2": "Krok 2: Przejrzyj swoje usługi",
-    "google_reserve_sta2": "Poniższe usługi nie mają cen lub zawierają znaki specjalne i będą ukryte w usłudze Reserve with Google do czasu ich edycji.",
-    "edit_services": "Edytuj usługi",
-    "google_reserve_st3": "Krok 3: Czy Twoja firma jest zweryfikowana przez Google",
-    "google_reserve_sta3": "Zweryfikowane firmy są widoczne dla klientów w wyszukiwarce i Mapach Google. Jeśli Twoja firma tak wygląda, prawdopodobnie jest już zweryfikowana. Adres zweryfikowany przez Google musi być zgodny z adresem podanym w Setmore.",
-    "learn_more": "Dowiedz się Więcej",
     "button_save": "Zapisz",
+    "button_submit_to_google": "Submit to Google",
     "incorrect_id": "Wprowadź prawidłowe ID",
     "already_integrated": "Konto jest już zintegrowane z tym samym ID",
-    "mapper": "",
-    "Services_mapper": "Usługi",
-    "service_cap": "USŁUGI",
-    "Class Name_mapper": "Zajęcia",
-    "mapper_save": "Zapisz",
-    "mapper_continue": "Kontynuuj",
-    "mapper_cancel": "Anuluj",
-    "Staff_mapper": "Mój Zespół",
-    "team_member": "Członek zespołu",
-    "email": "Email",
-    "zoom_id": "ID Zooma",
-    "assign_zoom_id": "Przypisz ID Zooma",
-    "add_video_link_to_all": "Dodaj link wideo do wszystkich",
-    "no_email": "Brak Emaila",
-    "mins": "minuty",
-    "free": "Darmow"
+    "measurement_id_saved": "Measurement ID saved - tracking started",
+    "measurement_id_removed": "Measurement ID removed - tracking paused",
+    "yes_switch": "Yes, Switch",
+    "yes_enable": "Yes, Enable",
+    "button_save_and_continue": "Save and continue",
+    "button_save_and_complete": "Save and complete",
+    "mapper": {
+      "Services_mapper": "Usługi",
+      "service_cap": "USŁUGI",
+      "classes_cap": "CLASSES",
+      "Class Name_mapper": "Zajęcia",
+      "mapper_save": "Zapisz",
+      "mapper_continue": "Kontynuuj",
+      "mapper_cancel": "Anuluj",
+      "Staff_mapper": "Mój Zespół",
+      "team_member": "Członek zespołu",
+      "email": "Email",
+      "zoom_id": "ID Zooma",
+      "assign_zoom_id": "Przypisz ID Zooma",
+      "add_video_link_to_all": "Dodaj link wideo do wszystkich",
+      "no_email": "Brak Emaila",
+      "mins": "minuty",
+      "free": "Darmow",
+      "service_alert_all": "All services will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled. if you'd like to revert any services back to <main name>, simply head to |Services| |&| |Classes|",
+      "service_alert_single": "This service is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this service back to <main name>, simply head to |Services| |&| |Classes|",
+      "class_alert_single": "This class is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this class back to <main name>",
+      "class_alert_all": "All classes will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled. if you'd like to revert any classes back to <main name>, simply head to |Services| |&| |Classes|",
+      "switch_tittle": "Switch to <APP NAME>?",
+      "enable_tittle_services": "Enable <APP NAME> for all services?",
+      "enable_tittle_classes": "Enable <APP NAME> for all classes?"
+    }
   }
 }
