@@ -553,17 +553,19 @@
       "Map the data fields (e.g. name, email address) between In the Chair and Freshsales. This ensures the correct data populates the relevant fields.",
       "Test the integration to complete."
     ],
-    "reserve with google_description": "Get discovered, booked and paid from Google search results.",
-    "reserve with google_cardtitle": "Get discovered and booked from Google search results.",
+    "reserve with google_description": "Get discovered and booked from Google Search and Maps.",
+    "reserve with google_cardtitle": "Get discovered and booked from Google Search and Maps.",
     "reserve with google_long_description": [
-      "Enhance your Google Business Profile with a convenient ‘Book’ button. Customers can self-schedule appointments straight from search results and Google Maps. There’s no need to call, email or visit your website, helping to streamline the booking process. Local area providers appear first in results – ensure your Business Profile that stands out and compete for that traffic."
+      "Enhance your Google Business Profile with a convenient ‘Book’ button that opens your Booking Page. Customers can self-schedule appointments straight from Google Search and Maps results. There’s no need to call, email or visit to check your availability. Local area providers appear first in results – ensure your Business Profile competes for all that traffic.",
+      "Note: Reserve with Google is available in 80+ countries, but excludes medical and retail businesses. Please refer to this ~support article <Support Article>~ for more information."
     ],
     "reserve with google_instruction": [
-      "Click the ‘Connect’ button on the right-hand side of this window.",
+      "Open this ~support article <Support Article>~ to check if Reserve with Google is available to your location and industry.",
+      "If so, click the ‘Connect’ button on the right-hand side of this window.",
       "Confirm your business address and that your business is Google-verified.",
       "Click ‘Submit to Google’ and you’ll be notified that Reserve with Google is connected.",
       [
-        "Please note that Reserve with Google is available to specific business types based in the US. After connecting your accounts, it typically takes up to 72 hours for changes to reflect in your Google Business Profile."
+        "After connecting your accounts, it typically takes 1-3 days for changes to reflect in your Google Business Profile."
       ]
     ],
     "to_activate_google_reserve": "Follow these steps in order to meet Google’s requirements.",
@@ -695,8 +697,8 @@
     "already_integrated": "Account already integrated with same ID",
     "measurement_id_saved": "Measurement ID saved - tracking started",
     "measurement_id_removed": "Measurement ID removed - tracking paused",
-    "yes_switch": "Yes, Switch",
-    "yes_enable": "Yes, Enable",
+    "yes_switch": "Yes, switch",
+    "yes_enable": "Yes, enable",
     "button_save_and_continue": "Save and continue",
     "button_save_and_complete": "Save and complete",
     "mapper": {
@@ -705,7 +707,7 @@
       "classes_cap": "CLASSES",
       "Class Name_mapper": "Classes",
       "mapper_save": "Save",
-      "mapper_continue": "Continue",
+      "mapper_continue": "Save and continue",
       "mapper_cancel": "Cancel",
       "Staff_mapper": "My Team",
       "team_member": "Team member",
@@ -716,10 +718,12 @@
       "no_email": "No Email",
       "mins": "mins",
       "free": "Free",
-      "service_alert_all": "All services will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled. if you'd like to revert any services back to <main name>, simply head to |Services| |&| |Classes|",
-      "service_alert_single": "This service is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this service back to <main name>, simply head to |Services| |&| |Classes|",
-      "class_alert_single": "This class is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this class back to <main name>",
-      "class_alert_all": "All classes will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled. if you'd like to revert any classes back to <main name>, simply head to |Services| |&| |Classes|",
+      "service_alert_all_one": "All services in your account will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled. If you’d like to revert any services back to <main name>, simply head to |Services| |&| |classes|. <Learn more>",
+      "class_alert_all_one": "All classes in your account will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled. If you’d like to revert any classes back to <main name>, simply head to |Services| |&| |classes|. <Learn more>",
+      "service_alert_all_two": "All services in your account will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled or <MAIN NAME>-enabled. If you’d like to revert any services back to <main name>, simply head to |Services| |&| |classes|. <Learn more>",
+      "class_alert_all_two": "All classes in your account will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled or <MAIN NAME>-enabled. If you’d like to revert any classes back to <main name>, simply head to |Services| |&| |classes|. <Learn more>",
+      "service_alert_single": "This service is currently <MAIN NAME>-enabled. To automatically attach <APP NAME> |links| instead, click ‘Yes, switch’ and save this change. If you’d like to revert this service back to <main name>, simply head to |Services| |&| |classes|.",
+      "class_alert_single": "This class is currently <MAIN NAME>-enabled. To automatically attach <APP NAME> |link| instead, click ‘Yes, switch’ and save this change. If you’d like to revert this class back to <main name>, simply head to |Services| |&| |classes|",
       "switch_tittle": "Switch to <APP NAME>?",
       "enable_tittle_services": "Enable <APP NAME> for all services?",
       "enable_tittle_classes": "Enable <APP NAME> for all classes?"

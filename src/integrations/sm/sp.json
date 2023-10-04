@@ -67,19 +67,19 @@
     "instagram streaming_instruction": [
       "Haga clic en el botón 'Conectar' del lado derecho de esta ventana.",
       "Inicie sesión con sus detalles de cuenta de Instagram y permita que Setmore se conecte.",
-      "Return here and you’ll see ‘Your hashtags’ below. Type or paste a hashtag into the form field and click the ‘Update’ button. Posts that use the hashtag will display in the ‘Photos’ section of your Booking Page."
+      "Vuelve aquí y verás \"Tus hashtags\" a continuación. Escribe o pega un hashtag en el campo del formulario y haz clic en el botón \"Actualizar\". Los mensajes que utilicen el hashtag se mostrarán en la sección \"Fotos\" de tu página de reserva."
     ],
-    "hashtag_already_updated": "That hashtag is already used to stream posts.",
-    "invalid_hashtag": "Start your hashtag with # and don’t use spaces.",
-    "paypal_description": "Accept payments conveniently via PayPal, Venmo, credit and debit cards, and more.",
-    "paypal_cardtitle": "Accept payments conveniently via PayPal, Venmo, credit and debit cards, and more.",
+    "hashtag_already_updated": "Ese hashtag ya se utiliza para transmitir publicaciones.",
+    "invalid_hashtag": "Empieza tu hashtag con # y no uses espacios.",
+    "paypal_description": "Acepta pagos cómodamente a través de PayPal, Venmo, tarjetas de crédito y débito, y mucho más.",
+    "paypal_cardtitle": "Acepta pagos cómodamente a través de PayPal, Venmo, tarjetas de crédito y débito, y mucho más.",
     "paypal_long_description": [
-      "Offer customers additional payment options by connecting Setmore to your PayPal business account. When using your online Booking Page, they can prepay for appointments by card, Venmo or their PayPal digital wallet.",
-      "Note: You must have a PayPal business account to enable this integration."
-   ],
+      "Proporcione a sus clientes opciones de pago adicionales conectando Setmore a su cuenta PayPal. Al utilizar su página de reservas en línea, podrán pagar por adelantado sus citas con tarjeta, Venmo o su monedero digital de PayPal.",
+      "Nota: Para activar esta integración, debe tener una cuenta PayPal para empresas."
+    ],
     "paypal_instruction": [
-      "Click the ‘Connect’ button on the right-hand side of this window.",
-      "Log in with PayPal and authorize Setmore to connect your business account.",
+      "Haga clic en el botón â€~Conectarâ€™ situado en la parte derecha de esta ventana.",
+      "Acceda con PayPal y autorice a Setmore a conectar su cuenta de empresa.",
       [
         "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
@@ -167,7 +167,7 @@
     "joomla_cardtitle": "Permita a sus clientes reservar citas a través de su sitio web de Joomla.",
     "joomla_long_description": [
       "No hay necesidad de que su audiencia online lo llame o le envíe un correo electrónico para reservar una cita. Al conectar su sitio web de Joomla a su Página de Reserva, permitirá que cada visitante autoprograme una cita al instante. Añada un botón 'Reservar ahora' o una sección de reserva dedicada a cualquier página del sitio y capitalice el tráfico durante todo el año.",
-      "Nota: Esta integración es válida solo para sitios web J3 Joomla."
+      "Nota: Esta integración es válida solo para sitios web J3 y J4 Joomla."
     ],
     "joomla_instruction": [
       "Haga clic en el botón 'Descargar' en el lado derecho de esta ventana.",
@@ -552,33 +552,36 @@
       "Mapee los campos de datos (por ejemplo, dirección de correo electrónico y nombre) entre Setmore y Freshsales. Esto garantiza que los datos correctos establezcan los campos relevantes.",
       "Pruebe la integración para completar."
     ],
-    "reserve with google_description": "Get discovered, booked and paid from Google search results.",
-    "reserve with google_cardtitle": "Get discovered and booked from Google search results.",
+    "reserve with google_description": "Get discovered and booked from Google Search and Maps.",
+    "reserve with google_cardtitle": "Get discovered and booked from Google Search and Maps.",
     "reserve with google_long_description": [
-      "Enhance your Google Business Profile with a convenient ‘Book’ button. Customers can self-schedule appointments straight from search results and Google Maps. There’s no need to call, email or visit your website, helping to streamline the booking process. Local area providers appear first in results – ensure your Business Profile that stands out and compete for that traffic."
+      "Enhance your Google Business Profile with a convenient ‘Book’ button that opens your Booking Page. Customers can self-schedule appointments straight from Google Search and Maps results. There’s no need to call, email or visit to check your availability. Local area providers appear first in results – ensure your Business Profile competes for all that traffic.",
+      "Note: Reserve with Google is available in 80+ countries, but excludes medical and retail businesses. Please refer to this ~support article <Support Article>~ for more information."
     ],
     "reserve with google_instruction": [
-      "Click the ‘Connect’ button on the right-hand side of this window.",
+      "Open this ~support article <Support Article>~ to check if Reserve with Google is available to your location and industry.",
+      "If so, click the ‘Connect’ button on the right-hand side of this window.",
       "Confirm your business address and that your business is Google-verified.",
       "Click ‘Submit to Google’ and you’ll be notified that Reserve with Google is connected.",
+      
       [
-        "Please note that Reserve with Google is available to specific business types based in the US. After connecting your accounts, it typically takes up to 72 hours for changes to reflect in your Google Business Profile."
+        "After connecting your accounts, it typically takes 1-3 days for changes to reflect in your Google Business Profile."
       ]
     ],
-    "to_activate_google_reserve": "Follow these steps in order to meet Google’s requirements.",
-    "google_reserve_st1": "Step 1: Business address",
-    "google_reserve_street_st1": "Street address is required",
-    "google_reserve_city_st1": "City is required",
-    "google_reserve_State_st1": "State is required",
-    "google_reserve_zip_st1": "Zip code is required",
-    "google_reserve_st2": "Step 2: Services",
-    "google_reserve_all_invalid_sta2": "Before submitting to Google, you'll need to remove special characters from the following service names.",
-    "google_reserve_below_all_invalid_sta2": "Please remove special characters to continue submitting to Google.",
-    "google_reserve_sta2": "If any services require editing, they'll display below.",
-    "google_reserve_below_invalid_sta2": "Services with special characters in names cannot be submitted to Google",
-    "edit_services": "Edit service names",
-    "google_reserve_st3": "Step 3: Google verification",
-    "google_reserve_sta3": "Verified businesses appear in Google Search and Maps results. If your business appears, it’s most likely verified. Your Google-verified business address must match the address in Setmore.",
+    "to_activate_google_reserve": "Para cumplir los requisitos de Google, siga estos pasos.",
+    "google_reserve_st1": "Paso 1: Dirección de la empresa",
+    "google_reserve_street_st1": "Se requiere la dirección",
+    "google_reserve_city_st1": "Ciudad obligatoria",
+    "google_reserve_State_st1": "Se requiere el estado",
+    "google_reserve_zip_st1": "Se requiere el código postal",
+    "google_reserve_st2": "Paso 2: Servicios",
+    "google_reserve_all_invalid_sta2": "Para poder realizar el envío a Google, debes eliminar los caracteres especiales de los siguientes nombres de servicio.",
+    "google_reserve_below_all_invalid_sta2": "Elimina los caracteres especiales para continuar con el envío a Google.",
+    "google_reserve_sta2": "Si es necesario modificar algún servicio, aparecerá a continuación.",
+    "google_reserve_below_invalid_sta2": "No es posible enviar a Google los servicios cuyos nombres contengan caracteres especiales.",
+    "edit_services": "Modificación de los nombres de los servicios",
+    "google_reserve_st3": "Paso 3: Verificación de Google",
+    "google_reserve_sta3": "Los negocios verificados aparecen en los resultados de Búsqueda y Mapas de Google. Si su negocio aparece, lo más probable es que esté verificado. La dirección de tu empresa verificada por Google debe coincidir con la dirección en Setmore.",
     "learn_more": "Learn More",
     "intercom_description": "Chatea y toma reservaciones, directamente desde Messenger e Inbox.",
     "intercom_cardtitle": "Chatea y toma reservaciones, directamente desde Messenger e Inbox.",
@@ -651,7 +654,7 @@
     "third_party_integration": "Al habilitar un servicio de Integración de Terceros, usted acepta asumir la responsabilidad de HIPAA por su uso de este servicio y acepta nuestros <Términos de Servicio> que cumplen con HIPAA.",
     "your_hashtags": "Sus hashtags:",
     "instructions_title": "Instrucciones",
-    "only_tagged_pictures": "Deleting a hashtag stops your Booking Page from displaying past and future posts that use the hashtag.",
+    "only_tagged_pictures": "Si eliminas un hashtag, tu Página de Reservas dejará de mostrar las publicaciones pasadas y futuras que utilicen el hashtag.",
     "button_copied": "¡Copiado!",
     "integration_updated": "<APP NAME> Integración actualizada",
     "there_is_a_hickup": "Ha ocurrido un error. Algo no ha ido bien. Por favor, inténtelo de nuevo.",
@@ -659,18 +662,18 @@
     "something_went_wrong_deactivate": "Algo salió mal, por favor desactive y vuelva a activar.",
     "are_you_sure": "¿Seguro que quiere desconectar esta integración?",
     "disconect_message": "La desconexión resultaría en la eliminación permanente del flujo de trabajo. ¿Está seguro de que aún quiere desconectarse?",
-    "disconect_message_video_meeting_integrations": "New appointments will not have <APP NAME> links attached. <APP NAME> links for previously scheduled appointments will be removed, but the appointments will stay in your calendar.",
-    "disconect_message_social_media_integrations": "Your <APP NAME> page will no longer display the ‘Book now’ button that directs people to your Booking Page. To take bookings from  <APP NAME> again, you’ll need to reconnect your accounts.",
-    "disconect_message_social_media_integrations_instagram streaming": "Your Booking Page’s Photos section will no longer update with new Instagram posts. To stream posts from Instagram again, you’ll need to reconnect your accounts.",
-    "disconect_message_payment_integrations": "You’ll no longer be able to process payments through your calendar or Booking Page. However, previous payment data will remain in your accounts.",
-    "disconect_message_payment_integrations_paypal": "You’ll no longer be able to process payments through your Booking page. However, previous payment data will remain in your accounts.",
-    "disconect_message_payment_integrations_cash": "You’ll no longer be able to process payments through your calendar. However, previous payment data will remain in your accounts.",
-    "disconect_message_sales_and_crm_integrations": "Customer details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
-    "disconect_message_accounting_integrations": "Transaction details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
-    "disconect_message_calendar_sync_integrations": "New event details will no longer sync between your <BRAND NAME> and <APP NAME>. Previously synced events will only appear in the calendar they were created in.",
-    "disconect_message_marketing_integrations": "Customer details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
-    "disconect_message_business_app_integrations": "<APP NAME> will no longer track Booking Page activity, but data recorded previously will remain available in your account.",
-    "disconect_message_business_app_integrations_slack": "The Slack channel that receives booking and customer updates from Setmore will be deleted. To view this channel again, you’ll need to reconnect your accounts.",
+    "disconect_message_video_meeting_integrations": "Las nuevas citas no tendrán enlaces <APP NAME> adjuntos. Los enlaces <APP NAME> de citas programadas anteriormente se eliminarán, pero las citas permanecerán en tu calendario.",
+    "disconect_message_social_media_integrations": "Su página <APP NAME> ya no mostrará el botón \"Reservar ahora\" que dirige a los usuarios a su página de reservas. Para poder volver a aceptar reservas de <APP NAME>, deberás volver a conectar tus cuentas.",
+    "disconect_message_social_media_integrations_instagram streaming": "Las fotos de tu página de reservas ya no se actualizarán con las nuevas publicaciones de Instagram. Para volver a transmitir publicaciones de Instagram, deberás volver a conectar tus cuentas.",
+    "disconect_message_payment_integrations": "No podrás procesar pagos a través de tu calendario o página de reservas. Sin embargo, los datos de pago anteriores permanecerán en tus cuentas.",
+    "disconect_message_payment_integrations_paypal": "Ya no podrá procesar pagos a través de su página de reservas. Los datos de pago anteriores permanecerÃ¡n en tus cuentas.",
+    "disconect_message_payment_integrations_cash": "Ya no podrá procesar pagos a través de su calendario. Sin embargo, los datos de pago anteriores permanecerán en sus cuentas.",
+    "disconect_message_sales_and_crm_integrations": "Los datos de los clientes ya no se sincronizarán entre <BRAND NAME> y <APP NAME>. Sin embargo, los detalles recopilados anteriormente permanecerán en sus cuentas. Para agilizar la activación de esta integración en el futuro, se conservará su configuración.",
+    "disconect_message_accounting_integrations": "Los datos de las transacciones ya no se sincronizarán entre <BRAND NAME> y <APP NAME>. Sin embargo, los detalles recopilados anteriormente permanecerán en sus cuentas. Para que esta integración sea más rápida en el futuro, se conservará tu configuración.",
+    "disconect_message_calendar_sync_integrations": "La información de nuevos eventos ya no se sincronizará entre <BRAND NAME> y <APP NAME>. Los eventos sincronizados anteriormente solo aparecerán en el calendario en el que se crearon.",
+    "disconect_message_marketing_integrations": "La información de los clientes ya no se sincronizará entre <BRAND NAME> y <APP NAME>. Los datos recopilados anteriormente permanecerán en sus cuentas. Para agilizar la activación de esta integración en el futuro, se conservará su configuración.",
+    "disconect_message_business_app_integrations": "<APP NAME> dejará de realizar un seguimiento de la actividad de la página de reservas, pero los datos registrados anteriormente seguirán estando disponibles en su cuenta.",
+    "disconect_message_business_app_integrations_slack": "Se eliminará el canal de Slack que recibe las actualizaciones de reservas y clientes de Setmore. Para volver a ver este canal, deberás volver a conectar tus cuentas.",
     "alert_disconnect_integration": "Desconectar <APP NAME>?",
     "label_connected": "Conectado",
     "label_disconnected": "Desconectado",
@@ -689,22 +692,22 @@
     "failed_to_activate": "Error de activación",
     "unable_to_deactivate": "No se puede desactivar",
     "button_save": "Guardar",
-    "button_submit_to_google": "Submit to Google",
+    "button_submit_to_google": "Enviar a Google",
     "incorrect_id": "Introduzca un ID válido",
     "already_integrated": "ACuenta ya integrada con el mismo ID",
-    "measurement_id_saved": "Measurement ID saved - tracking started",
+    "measurement_id_saved": "Measurement ID guardado - seguimiento iniciado",
     "measurement_id_removed": "Measurement ID removed - tracking paused",
-    "yes_switch": "Yes, Switch",
-    "yes_enable": "Yes, Enable",
-    "button_save_and_continue": "Save and continue",
-    "button_save_and_complete": "Save and complete",
+    "yes_switch": "Sí, cambiar",
+    "yes_enable": "Sí, activar",
+    "button_save_and_continue": "Guardar y continuar",
+    "button_save_and_complete": "Guardar y completar",
     "mapper": {
       "Services_mapper": "Servicios",
       "service_cap": "SERVICIOS",
       "classes_cap": "CLASES",
       "Class Name_mapper": "Clases",
       "mapper_save": "Guardar",
-      "mapper_continue": "Continuar",
+      "mapper_continue": "Guardar y continuar",
       "mapper_cancel": "Cancelar",
       "Staff_mapper": "Mi Equipo",
       "team_member": "Miembro del equipo",
@@ -715,13 +718,15 @@
       "no_email": "Sin correo electrónico",
       "mins": "Minutos",
       "free": "Gratis",
-      "service_alert_all": "All services will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled. if you'd like to revert any services back to <main name>, simply head to |Services| |&| |Classes|",
-      "service_alert_single": "This service is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this service back to <main name>, simply head to |Services| |&| |Classes|",
-      "class_alert_single": "This class is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this class back to <main name>",
-      "class_alert_all": "All classes will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled. if you'd like to revert any classes back to <main name>, simply head to |Services| |&| |Classes|",
-      "switch_tittle": "Switch to <APP NAME>?",
-      "enable_tittle_services": "Enable <APP NAME> for all services?",
-      "enable_tittle_classes": "Enable <APP NAME> for all classes?"
+      "service_alert_all_one": "Los servicios de su cuenta pasarán a estar habilitados para <APP NAME>. Incluye los servicios que actualmente están habilitados para <NOMBRE PRINCIPAL>. Si desea revertir cualquier servicio a <nombre principal>, simplemente diríjase a |Servicios| |&| |clases|. <Más información>",
+      "class_alert_all_one": "Las clases de tu cuenta pasarán a estar habilitadas para <APP NAME>. Ello incluye las clases que actualmente estÃ¡n habilitadas en <MAIN NAME>. Si desea revertir cualquier clase de nuevo a <nombre principal>, simplemente diríjase a |Servicios| |&| |clases|. <Más información>",
+      "service_alert_all_two": "Se activarán todos los servicios de su cuenta en <APP NAME>. Eso incluye los servicios que actualmente están habilitados para <MAIN NAME> o <MAIN NAME>. Si desea revertir cualquier servicio de nuevo a <nombre principal>, simplemente diríjase a |Servicios| |&| |clases|. <Más información>",
+      "class_alert_all_two": "Todos los servicios de tu cuenta pasarán a estar habilitados para <APP NAME>. Esto incluye las clases que actualmente están habilitadas para <MAIN NAME> o <MAIN NAME>. Si desea revertir cualquier clase de nuevo a <nombre principal>, simplemente diríjase a |Servicios| |&| |clases|. <Más información>",
+      "service_alert_single": "Actualmente, este servicio está habilitado para <MAIN NAME>. Para adjuntar automáticamente <APP NAME> |links| en su lugar, haga clic en \"Sí, cambiar\" y guardar este cambio. Si quieres revertir este servicio a <nombre principal>, simplemente dirígete a |Servicios| |&| |clases|.",
+      "class_alert_single": "En este momento, esta clase está habilitada para <NOMBRE PRINCIPAL>. Para agregar automáticamente <APP NAME> |link| en su lugar, haga clic en \"Sí, cambiar\" y guardar este cambio. Si desea revertir esta clase de nuevo a <nombre principal>, simplemente diríjase a |Servicios| |&| |clases|.",
+      "switch_tittle": "¿Cambiar a <APP NAME>?",
+      "enable_tittle_services": "Activar <APP NAME> para todos los servicios",
+      "enable_tittle_classes": "¿Habilitar <APP NAME> para todas las clases?"
     }
   }
 }

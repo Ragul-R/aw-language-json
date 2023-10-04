@@ -76,10 +76,10 @@
     "paypal_long_description": [
       "Offer customers additional payment options by connecting Setmore to your PayPal business account. When using your online Booking Page, they can prepay for appointments by card, Venmo or their PayPal digital wallet.",
       "Note: You must have a PayPal business account to enable this integration."
-   ],
+    ],
     "paypal_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
-      "Log in with PayPal and authorize Setmore to connect your business account.",
+      "Log in with PayPal and authorise Setmore to connect your business account.",
       [
         "By default, Booking Page payments are optional. To make payments mandatory, navigate to Settings > Payments > Booking Page payments."
       ]
@@ -167,7 +167,7 @@
     "joomla_cardtitle": "Enable customers to book appointments through your Joomla website.",
     "joomla_long_description": [
       "There's zero need for your online audience to call or email you for an appointment. By connecting your Joomla website to your Booking Page, you allow every visitor to self-schedule right away. Add a 'Book Now' button or a dedicated booking section to any site page and capitalise on year-round traffic.",
-      "Note: This integration works for J3 Joomla websites only."
+      "Note: This integration works for J3 and J4 Joomla websites only."
     ],
     "joomla_instruction": [
       "Click the 'Download' button on the right-hand side of this window.",
@@ -555,27 +555,30 @@
     "reserve with google_description": "Get discovered and booked from Google Search and Maps.",
     "reserve with google_cardtitle": "Get discovered and booked from Google Search and Maps.",
     "reserve with google_long_description": [
-      "Enhance your Google Business Profile with a convenient 'Book' button that opens your Booking Page. Customers can self-schedule appointments straight from Google search results and Google Maps. There's no need to call, email or visit to check your availability. Local area providers appear first in results – ensure your Business Profile competes for all traffic."
+      "Enhance your Google Business Profile with a convenient ‘Book’ button that opens your Booking Page. Customers can self-schedule appointments straight from Google Search and Maps results. There’s no need to call, email or visit to check your availability. Local area providers appear first in results – ensure your Business Profile competes for all that traffic.",
+      "Note: Reserve with Google is available in 80+ countries, but excludes medical and retail businesses. Please refer to this ~support article <Support Article>~ for more information."
     ],
     "reserve with google_instruction": [
-      "Click the 'Connect' button on the right-hand side of this window.",
+      "Open this ~support article <Support Article>~ to check if Reserve with Google is available to your location and industry.",
+      "If so, click the ‘Connect’ button on the right-hand side of this window.",
       "Confirm your business address and that your business is Google-verified.",
-      "Click 'Submit to Google' and you'll be notified that Reserve with Google is connected.",
+      "Click ‘Submit to Google’ and you’ll be notified that Reserve with Google is connected.",
+      
       [
-        "Please note that Reserve with Google is available to specific business types based in the US. After connecting your accounts, it typically takes up to 72 hours for changes to reflect in your Google Business Profile."
+        "After connecting your accounts, it typically takes 1-3 days for changes to reflect in your Google Business Profile."
       ]
     ],
     "to_activate_google_reserve": "Follow these steps in order to meet Google’s requirements.",
     "google_reserve_st1": "Step 1: Business address",
     "google_reserve_street_st1": "Street address is required",
     "google_reserve_city_st1": "City is required",
-    "google_reserve_State_st1": "State is required",
-    "google_reserve_zip_st1": "Zip code is required",
+    "google_reserve_State_st1": "County is required",
+    "google_reserve_zip_st1": "Postcode is required",
     "google_reserve_st2": "Step 2: Services",
     "google_reserve_all_invalid_sta2": "Before submitting to Google, you'll need to remove special characters from the following service names.",
     "google_reserve_below_all_invalid_sta2": "Please remove special characters to continue submitting to Google.",
     "google_reserve_sta2": "If any services require editing, they'll display below.",
-    "google_reserve_below_invalid_sta2": "Services with special characters in names cannot be submitted to Google",
+    "google_reserve_below_invalid_sta2": "Services with special characters in names cannot be submitted to Google.",
     "edit_services": "Edit service names",
     "google_reserve_st3": "Step 3: Google verification",
     "google_reserve_sta3": "Verified businesses appear in Google Search and Maps results. If your business appears, it’s most likely verified. Your Google-verified business address must match the address in Setmore.",
@@ -650,7 +653,7 @@
     "third_party_integration": "By enabling a 3rd Party Integration service, you hereby agree to assume HIPAA liability for your use of this service and agree to our HIPAA compliant <Terms of Service>.",
     "your_hashtags": "Your hashtags:",
     "instructions_title": "Instructions",
-    "only_tagged_pictures": "Deleting a hashtag stops your Booking Page from displaying past and future posts that use the hashtag..",
+    "only_tagged_pictures": "Deleting a hashtag stops your Booking Page from displaying past and future posts that use the hashtag.",
     "button_copied": "Copied!",
     "integration_updated": "<APP NAME> Integration updated",
     "there_is_a_hickup": "There's been a hiccup Something didn't work quite right. Please try again.",
@@ -659,7 +662,7 @@
     "are_you_sure": "Are you sure you want to disconnect this integration?",
     "disconect_message": "Disconnecting would result in permanent deletion of the workflow. Are you sure you still want to disconnect?",
     "disconect_message_video_meeting_integrations": "New appointments will not have <APP NAME> links attached. <APP NAME> links for previously scheduled appointments will be removed, but the appointments will stay in your calendar.",
-    "disconect_message_social_media_integrations": "Your <APP NAME> page will no longer display the ‘Book now’ button that directs people to your Booking Page. To take bookings from  <APP NAME> again, you’ll need to reconnect your accounts.",
+    "disconect_message_social_media_integrations": "Your <APP NAME> page will no longer display the ‘Book now’ button that directs people to your Booking Page. To take bookings from <APP NAME> again, you’ll need to reconnect your accounts.",
     "disconect_message_social_media_integrations_instagram streaming": "Your Booking Page’s Photos section will no longer update with new Instagram posts. To stream posts from Instagram again, you’ll need to reconnect your accounts.",
     "disconect_message_payment_integrations": "You’ll no longer be able to process payments through your calendar or Booking Page. However, previous payment data will remain in your accounts.",
     "disconect_message_payment_integrations_paypal": "You’ll no longer be able to process payments through your Booking page. However, previous payment data will remain in your accounts.",
@@ -694,8 +697,8 @@
     "already_integrated": "Account already integrated with same ID",
     "measurement_id_saved": "Measurement ID saved - tracking started",
     "measurement_id_removed": "Measurement ID removed - tracking paused",
-    "yes_switch": "Yes, Switch",
-    "yes_enable": "Yes, Enable",
+    "yes_switch": "Yes, switch",
+    "yes_enable": "Yes, enable",
     "button_save_and_continue": "Save and continue",
     "button_save_and_complete": "Save and complete",
     "mapper": {
@@ -704,7 +707,7 @@
       "classes_cap": "CLASSES",
       "Class Name_mapper": "Classes",
       "mapper_save": "Save",
-      "mapper_continue": "Continue",
+      "mapper_continue": "Save and continue",
       "mapper_cancel": "Cancel",
       "Staff_mapper": "My Team",
       "team_member": "Team member",
@@ -715,10 +718,12 @@
       "no_email": "No Email",
       "mins": "mins",
       "free": "Free",
-      "service_alert_all": "All services will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled. if you'd like to revert any services back to <main name>, simply head to |Services| |&| |Classes|",
-      "service_alert_single": "This service is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this service back to <main name>, simply head to |Services| |&| |Classes|",
-      "class_alert_single": "This class is currently <MAIN NAME>-enabled. To automatically attach to <APP NAME> |link| instead, click 'Yes, Switch' and save this change. If you'd like to revert this class back to <main name>",
-      "class_alert_all": "All classes will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled. if you'd like to revert any classes back to <main name>, simply head to |Services| |&| |Classes|",
+      "service_alert_all_one": "All services in your account will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled. If you’d like to revert any services back to <main name>, simply head to |Services| |&| |classes|. <Learn more>",
+      "class_alert_all_one": "All classes in your account will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled. If you’d like to revert any classes back to <main name>, simply head to |Services| |&| |classes|. <Learn more>",
+      "service_alert_all_two": "All services in your account will become <APP NAME>|-enabled|. This includes services that are currently <MAIN NAME>-enabled or <MAIN NAME>-enabled. If you’d like to revert any services back to <main name>, simply head to |Services| |&| |classes|. <Learn more>",
+      "class_alert_all_two": "All classes in your account will become <APP NAME>|-enabled|. This includes classes that are currently <MAIN NAME>-enabled or <MAIN NAME>-enabled. If you’d like to revert any classes back to <main name>, simply head to |Services| |&| |classes|. <Learn more>",
+      "service_alert_single": "This service is currently <MAIN NAME>-enabled. To automatically attach <APP NAME> |links| instead, click ‘Yes, switch’ and save this change. If you’d like to revert this service back to <main name>, simply head to |Services| |&| |classes|.",
+      "class_alert_single": "This class is currently <MAIN NAME>-enabled. To automatically attach <APP NAME> |link| instead, click ‘Yes, switch’ and save this change. If you’d like to revert this class back to <main name>, simply head to |Services| |&| |classes|",
       "switch_tittle": "Switch to <APP NAME>?",
       "enable_tittle_services": "Enable <APP NAME> for all services?",
       "enable_tittle_classes": "Enable <APP NAME> for all classes?"
