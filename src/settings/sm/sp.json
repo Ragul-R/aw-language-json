@@ -770,7 +770,7 @@
     "permission_level": "Nivel de permiso",
     "changetheir_permission_level": "[Team member first name] aún no ha iniciado sesión. Vuelva a enviar su invitación, cambie su nivel de permiso y vuelve a enviar o revoca el acceso por completo.",
     "login_email": "Correo electrónico de inicio de sesión",
-    "profile_loginemail": "No se ha adjuntado una dirección de correo electrónico al perfil de [First name]. Introduzca un correo electrónico de inicio de sesión a continuación para confirmar los cambios en su nivel de permiso. A [First name] se le enviará una contraseña temporal para acceder a Setmore.",
+    "profile_loginemail": "No se ha adjuntado una dirección de correo electrónico al perfil de [First name]. Introduzca un correo electrónico de inicio de sesión a continuación para confirmar los cambios en su nivel de permiso. A [First name] se le enviará una contraseña temporal para acceder a [Brand name].",
     "create_new_team": "Crear un nuevo equipo",
     "team_title": "Título del equipo",
     "create": "Crear",

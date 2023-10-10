@@ -8,7 +8,7 @@
     "zoho crm_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Zoho CRM username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "pipedrive_description": "Export your call intake to Pipedrive",
     "pipedrive_cardtitle": "WellReceived - Pipedrive",
@@ -18,7 +18,7 @@
     "pipedrive_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Pipedrive username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "serviceminder_description": "Export your call intake to ServiceMinder",
     "serviceminder_cardtitle": "WellReceived - ServiceMinder",
@@ -28,7 +28,7 @@
     "serviceminder_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your ServiceMinder username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "insightly_description": "Export your call intake to Insightly",
     "insightly_cardtitle": "WellReceived - Insightly",
@@ -38,7 +38,7 @@
     "insightly_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your insightly username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "trello_description": "Export your call intake to Trello",
     "trello_cardtitle": "WellReceived - Trello",
@@ -48,7 +48,7 @@
     "trello_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Trello username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "fresh sales_description": "Export your call intake to Freshsales",
     "fresh sales_cardtitle": "WellReceived - Fresh Sales",
@@ -58,7 +58,7 @@
     "fresh sales_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Fresh Sales username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "franconnect_description": "Export your call intake to FranConnect",
     "franconnect_cardtitle": "WellReceived - FranConnect",
@@ -68,7 +68,7 @@
     "franconnect_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your FranConnect username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "slack_description": "Get notified on Slack channel",
     "slack_cardtitle": "WellReceived - Slack",
@@ -78,7 +78,7 @@
     "slack_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Slack username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "freshdesk_description": "Export your call intake to FreshDesk",
     "freshdesk_cardtitle": "WellReceived - Freshdesk",
@@ -88,7 +88,7 @@
     "freshdesk_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Freshdesk username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "salesforce_description": "Import new WellReceived customers to your Salesforce client list.",
     "salesforce_cardtitle": "WellReceived - Salesforce",
@@ -108,7 +108,7 @@
     "zendesk_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Zendesk username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "filevine_description": "Create Contact in FileVine",
     "filevine_cardtitle": "WellReceived - Filevine",
@@ -118,7 +118,7 @@
     "filevine_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Filevine username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
     "mailerlite_description": "Export your call intake to mailerlite",
     "mailerlite_cardtitle": "WellReceived - Mailerlite",
@@ -128,17 +128,17 @@
     "mailerlite_instruction": [
       "Click the ‘Connect’ button on the right-hand side of this window.",
       "Enter your Mailerlite username and password to allow access to WellReceived.",
-      "Confirm the action by clicking Allow. The integration will now be Connected."
+      "Confirm the action by clicking Allow. The integration will now be connected."
     ],
-    "open dental_description" : "With this integration, we are going to create “New Patient Record” from our Call intakes.",
-"open dental_cardtitle" : "WellReceived - OpenDental",
-"open dental_long_description" : "Ensure any new patient data is updated directly into your OpenDental account. For every new patient brought into your practice through WellReceived, this integration will automatically create a new patient record in your OpenDental account and database. We will be rolling out updates to this integration to enable more interoperable features with your OpenDental account. Coming soon.",
-"open dental_instruction" :[
-  "Click the ‘Connect’ button on the right-hand side of this window.",
-  "Enter your OpenDental username and password to allow access to WellReceived",
-  "Confirm the action by clicking Allow. The integration will now be connected."
-  ],
-   "video_meeting_integrations": "Video meeting",
+    "open dental_description": "With this integration, we are going to create “New Patient Record” from our Call intakes.",
+    "open dental_cardtitle": "WellReceived - OpenDental",
+    "open dental_long_description": "Ensure any new patient data is updated directly into your OpenDental account. For every new patient brought into your practice through WellReceived, this integration will automatically create a new patient record in your OpenDental account and database. We will be rolling out updates to this integration to enable more interoperable features with your OpenDental account. Coming soon.",
+    "open dental_instruction": [
+      "Click the ‘Connect’ button on the right-hand side of this window.",
+      "Enter your OpenDental username and password to allow access to WellReceived",
+      "Confirm the action by clicking Allow. The integration will now be connected."
+    ],
+    "video_meeting_integrations": "Video meeting",
     "social_media_integrations": "Social media",
     "payment_integrations": "Payment",
     "website_booking_integrations": "Website booking",
@@ -149,7 +149,7 @@
     "business_app_integrations": "Business app",
     "marketing_integrations": "Marketing",
     "accept_payments": "Payment integrations",
-    "integration_connected": "<APP NAME> connected",
+    "integration_connected": "<APP NAME> Connected",
     "integration_disconnect": "<APP NAME> disconnected",
     "button_update": "Update",
     "button_copy": "Copy",
@@ -159,7 +159,7 @@
     "button_delete": "Delete",
     "cash_connected": "Cash register connected",
     "cash_disconnect": "Cash register disconnected",
-    "to_enable_this": "To enable this integration, you must allow WellReceived and <APP NAME> to share details",
+    "to_enable_this": "To enable this integration, you must allow <BRAND NAME> and <APP NAME> to share details",
     "choose_your_location": "Choose location",
     "select_location": "Select location",
     "you_must_select": "You must select a business location to continue integrating your accounts. Please try again.",
@@ -178,7 +178,7 @@
     "yes_switch_off": "Yes, switch off",
     "yes_switch_on": "Yes switch on",
     "yes_open": "Yes, open",
-    "setmore_is_currently": "WellReceived is currently syncing your <APP NAME>. Please wait a few moments before de-activating the sync. Thank you for your patience!",
+    "setmore_is_currently": "<BRAND NAME> is currently syncing your <APP NAME>. Please wait a few moments before de-activating the sync. Thank you for your patience!",
     "sync_in_progress": "Sync in progress",
     "have_a_question": "Have a question?",
     "chat_with_us": "Chat with us",
@@ -204,6 +204,7 @@
     "get_code": "Get code",
     "something_went_wrong_deactivate": "Something went wrong, please disconnect and connect again.",
     "are_you_sure": "Are you sure you want to disconnect this integration?",
+    "are_you_suree": "Are you sure you want to disconnect this integration?",
     "disconect_message": "Disconnecting would result in permanent deletion of the workflow. Are you sure you still want to disconnect?",
     "disconect_message_video_meeting_integrations": "New appointments will not have <APP NAME> links attached. <APP NAME> links for previously scheduled appointments will be removed, but the appointments will stay in your calendar.",
     "disconect_message_social_media_integrations": "Your <APP NAME> page will no longer display the ‘Book now’ button that directs people to your Booking Page. To take bookings from  <APP NAME> again, you’ll need to reconnect your accounts.",
@@ -216,7 +217,7 @@
     "disconect_message_calendar_sync_integrations": "New event details will no longer sync between your <BRAND NAME> and <APP NAME>. Previously synced events will only appear in the calendar they were created in.",
     "disconect_message_marketing_integrations": "Customer details will no longer sync between <BRAND NAME> and <APP NAME>. However, details collected previously will remain in your accounts. To make enabling this integration faster in future, your settings will be retained.",
     "disconect_message_business_app_integrations": "<APP NAME> will no longer track Booking Page activity, but data recorded previously will remain available in your account.",
-    "disconect_message_business_app_integrations_slack": "The Slack channel that receives booking and customer updates from WellReceived will be deleted. To view this channel again, you’ll need to reconnect your accounts.",
+    "disconect_message_business_app_integrations_slack": "The Slack channel that receives booking and customer updates from <BRAND NAME> will be deleted. To view this channel again, you’ll need to reconnect your accounts.",
     "alert_disconnect_integration": "Disconnect <APP NAME>?",
     "label_connected": "Connected",
     "label_disconnected": "Disconnected",
