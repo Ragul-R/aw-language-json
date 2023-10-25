@@ -228,7 +228,6 @@
     "name": "Name",
     "enter_state_name": "Enter State Name",
     "enter_city_name": "Enter City Name",
-    "": "",
     "disconnect": "Disconnect",
     "connect": "Connect",
     "get_link": "Get link",

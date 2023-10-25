@@ -45,9 +45,27 @@ module.exports = {
           {
             pattern: `./src/**/inch/sp.json`,
             fileName: `brand/inch_pt.json`,
-          }
+          },
         ],
       },
     }),
+    new MergeJsonWebpackPlugin({
+      files: ["./src/integrations/sm/en_us.json", "./src/settings/sm/en_us.json", "./src/common/sm/en_us.json"],
+      output: {
+          fileName: "/brand/mobile_en_us.json",
+      },
+    }),
+    new MergeJsonWebpackPlugin({
+      files: ["./src/integrations/sm/sp.json", "./src/settings/sm/sp.json", "./src/common/sm/sp.json"],
+      output: {
+          fileName: "/brand/mobile_sp.json",
+      },
+    }),
+    new MergeJsonWebpackPlugin({
+      files: ["./src/integrations/sm/pt.json", "./src/settings/sm/pt.json", "./src/common/sm/pt.json"],
+      output: {
+          fileName: "/brand/mobile_pt.json",
+      },
+    })
   ],
 };

@@ -357,7 +357,6 @@
     "name": "Name",
     "enter_state_name": "Enter State Name",
     "enter_city_name": "Enter City Name",
-    "enter_zip_code": "Enter Zip Code here",
     "": "",
     "disconnect": "Disconnect",
     "connect": "Connect",
@@ -787,7 +786,6 @@
     "available_cards": "Available cards",
     "new_payment_methodab": "New payment method",
     "enter_name_card": "Enter name on card",
-    "zip_code": "ZIP code",
     "invoice_needs_addressed": "Enter the person name to whom the invoice needs to be addressed or the PO number. Can be left blank, not a mandatory field.",
     "attention_purchase_ordernumber": "Attention to / Purchase Order (PO) number",
     "enter_your_address": "Enter your address",
@@ -1031,6 +1029,12 @@
     "receive_temporary_pswrd": "The email below will receive a temporary password for [Team member first name] to access Setmore with this new permission level. To select another email, first add it to their profile.",
     "select_email_pl": "Select an email to receive a temporary password. [Team member first name] will use this to access Setmore with this new permission level.",
     "changing_pwrd_logout": "Changing your password will log you out of all devices.",
-    "change_email": "Change email"
+    "change_email": "Change email",
+    "zip_code": "Zip code",
+    "enter_zip_code": "Enter zip code here",
+    "postcode": "Postcode",
+    "enter_postcode": "Enter postcode",
+    "postal_code": "Postal code",
+    "enter_postal_code": "Enter postal code"
   }
 }

@@ -644,7 +644,6 @@
     "available_cards": "Available cards",
     "new_payment_methodab": "New payment method",
     "enter_name_card": "Enter name on card",
-    "zip_code": "Postcode",
     "invoice_needs_addressed": "Enter the person name to whom the invoice needs to be addressed or the PO number. Can be left blank, not a mandatory field.",
     "attention_purchase_ordernumber": "Attention to / Purchase Order (PO) number",
     "enter_your_address": "Enter your address",
@@ -894,7 +893,6 @@
     "state": "County",
     "display_zip_as": "Display 'postcode' as",
     "apply_additional_charges": "Would you like to apply additional charges or reductions?",
-    "enter_zip_code": "Enter postcode here",
     "view_booking_page": "View Booking Page",
     "youtube": "YouTube",
     "search_timezone": "Search time zone",
@@ -929,6 +927,12 @@
     "instant_notifications_setmore": "Get instant desktop notifications from Setmore.",
     "scan_beta_test": "Scan to beta test the brand-new mobile app",
     "for_ios_android": "For iOS and Android",
-    "download_for": "Download for [device]"
+    "download_for": "Download for [device]",
+    "zip_code": "Zip code",
+    "enter_zip_code": "Enter zip code here",
+    "postcode": "Postcode",
+    "enter_postcode": "Enter postcode",
+    "postal_code": "Postal code",
+    "enter_postal_code": "Enter postal code"
   }
 }
